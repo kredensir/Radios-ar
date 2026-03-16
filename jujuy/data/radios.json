@@ -9,7 +9,10 @@
                 "city": "Abra Pampa",
                 "province": "Jujuy",
                 "stream": "https://sonicpanel.hostradios.com:7254/stream",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-america-977",
@@ -18,7 +21,11 @@
                 "city": "Abra Pampa",
                 "province": "Jujuy",
                 "stream": "https://emisora.radiosplay.com.ar/8406/stream",
-                "categories": ["noticias", "comunidad", "tropical"]
+                "categories": [
+                    "noticias",
+                    "comunidad",
+                    "tropical"
+                ]
             },
             {
                 "id": "jujuy-arias-911",
@@ -27,9 +34,11 @@
                 "city": "Abra Pampa",
                 "province": "Jujuy",
                 "stream": "https://cdn.instream.audio/:9095/stream",
-                "categories": ["tropical", "comunidad"]
+                "categories": [
+                    "tropical",
+                    "comunidad"
+                ]
             },
-
             {
                 "id": "jujuy-canal-6",
                 "name": "Canal 6",
@@ -38,7 +47,22 @@
                 "city": "La Quiaca",
                 "province": "Jujuy",
                 "stream": "https://stream.arcast.com.ar/c6laquiaca/ngrp:c6laquiaca_all/playlist.m3u8",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "jujuy-klaxxon-1025",
+                "name": "Klaxxon FM 102.5",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/puna/1025-logo-klaxxon.webp",
+                "city": "La Quiaca",
+                "province": "Jujuy",
+                "stream": "https://radios.solumedia.com:6626/stream",
+                "categories": [
+                    "tropical",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-la-nueva-estacion-977",
@@ -47,16 +71,22 @@
                 "city": "La Quiaca",
                 "province": "Jujuy",
                 "stream": "https://srv1.streamingradio.ar/8508/stream/;type=mp3",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-nacional-la-quiaca-925",
                 "name": "Nacional FM 92.5",
-                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/logo-nacional.webp",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional.webp",
                 "city": "La Quiaca",
                 "province": "Jujuy",
                 "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad16",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-municipal-la-quiaca-879",
@@ -65,7 +95,10 @@
                 "city": "La Quiaca",
                 "province": "Jujuy",
                 "stream": "https://streaming5.locucionar.com/proxy/radiomunicipal879?mp=/stream",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-uno-1019",
@@ -74,7 +107,9 @@
                 "city": "La Quiaca",
                 "province": "Jujuy",
                 "stream": "https://sonic.host-live.com:10787/stream",
-                "categories": ["tropical"]
+                "categories": [
+                    "tropical"
+                ]
             },
             {
                 "id": "jujuy-conexion-937",
@@ -83,7 +118,9 @@
                 "city": "Yavi Chico",
                 "province": "Jujuy",
                 "stream": "https://stream-175.zeno.FM/fdl5qbataahtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmZGw1cWJhdGFhaHR2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlBubzBrRWpiUUxPbllHNkcxVVNlSlEiLCJpYXQiOjE3NzI4MTA4MzUsImV4cCI6MTc3MjgxMDg5NX0.yPiUnM56zCjqP1mP3YqrNU8KRcANsD8v8viB7JdDrHk",
-                "categories": ["tropical"]
+                "categories": [
+                    "tropical"
+                ]
             }
         ]
     },
@@ -97,9 +134,10 @@
                 "city": "Huacalera",
                 "province": "Jujuy",
                 "stream": "https://server.streamcasthd.com/8300/stream",
-                "categories": ["religion"]
+                "categories": [
+                    "religion"
+                ]
             },
-
             {
                 "id": "jujuy-m-1055",
                 "name": "M FM 105.5",
@@ -107,7 +145,10 @@
                 "city": "Humahuaca",
                 "province": "Jujuy",
                 "stream": "https://streaming.radiosenlinea.com.ar:10677/stream//stream",
-                "categories": ["comunidad", "tropical"]
+                "categories": [
+                    "comunidad",
+                    "tropical"
+                ]
             },
             {
                 "id": "jujuy-nueva-1041",
@@ -116,7 +157,10 @@
                 "city": "Humahuaca",
                 "province": "Jujuy",
                 "stream": "https://01.solumedia.com.ar:8262/stream?icy=http",
-                "categories": ["noticias", "tropical"]
+                "categories": [
+                    "noticias",
+                    "tropical"
+                ]
             },
             {
                 "id": "jujuy-voz-cristiana-983",
@@ -125,7 +169,9 @@
                 "city": "Humahuaca",
                 "province": "Jujuy",
                 "stream": "http://server3.veemesoft.com.ar:26613/;",
-                "categories": ["religion"]
+                "categories": [
+                    "religion"
+                ]
             },
             {
                 "id": "jujuy-humahuaca-1047",
@@ -134,7 +180,11 @@
                 "city": "Humahuaca",
                 "province": "Jujuy",
                 "stream": "https://stream.djroquesalazar.com.ar/8962/stream;",
-                "categories": ["noticias", "folklore", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "folklore",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-municipal-humahuaca-999",
@@ -143,7 +193,10 @@
                 "city": "Humahuaca",
                 "province": "Jujuy",
                 "stream": "https://server.streamcasthd.com/8280/stream;",
-                "categories": ["comunidad", "noticias"]
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
             },
             {
                 "id": "jujuy-life-1065",
@@ -152,9 +205,11 @@
                 "city": "Humahuaca",
                 "province": "Jujuy",
                 "stream": "http://server3.veemesoft.com.ar:12588/;/;",
-                "categories": ["musica", "comunidad"]
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
             },
-
             {
                 "id": "jujuy-la-cima-maimara-921",
                 "name": "La Cima FM 92.1",
@@ -162,9 +217,11 @@
                 "city": "Maimara",
                 "province": "Jujuy",
                 "stream": "https://streaming2.locucionar.com/proxy/radiolacimamaimara?mp=/stream",
-                "categories": ["comunidad", "folklore"]
+                "categories": [
+                    "comunidad",
+                    "folklore"
+                ]
             },
-
             {
                 "id": "jujuy-que-buena-949",
                 "name": "Que Buena FM 94.9",
@@ -172,7 +229,9 @@
                 "city": "Tilcara",
                 "province": "Jujuy",
                 "stream": "https://srv10.streamingradio.ar/8038/stream:8038/;stream.mp3",
-                "categories": ["tropical"]
+                "categories": [
+                    "tropical"
+                ]
             },
             {
                 "id": "jujuy-rin-987",
@@ -181,7 +240,10 @@
                 "city": "Tilcara",
                 "province": "Jujuy",
                 "stream": "https://srv10.streamingradio.ar/8174/stream:8174/;stream.mp3",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-azul-955",
@@ -190,15 +252,21 @@
                 "city": "Tilcara",
                 "province": "Jujuy",
                 "stream": "https://sslstream.online/8264/;stream.mp3",
-                "categories": ["folklore", "noticias"]
-            }, {
+                "categories": [
+                    "folklore",
+                    "noticias"
+                ]
+            },
+            {
                 "id": "jujuy-tributo-1025",
                 "name": "Tributo FM 102.5",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/quebrada/1025-logo-tributo.webp",
                 "city": "Tilcara",
                 "province": "Jujuy",
                 "stream": "https://stream.djroquesalazar.com.ar/8900/stream",
-                "categories": ["folklore"]
+                "categories": [
+                    "folklore"
+                ]
             }
         ]
     },
@@ -212,7 +280,10 @@
                 "city": "El Carmen",
                 "province": "Jujuy",
                 "stream": "https://streaming.radiosenlinea.com.ar:10493/stream",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-show-951",
@@ -221,9 +292,10 @@
                 "city": "El Carmen",
                 "province": "Jujuy",
                 "stream": "https://stream.djroquesalazar.com.ar/8974/stream",
-                "categories": ["tropical"]
+                "categories": [
+                    "tropical"
+                ]
             },
-
             {
                 "id": "jujuy-energy-1011",
                 "name": "Energy FM 101.1",
@@ -231,9 +303,11 @@
                 "city": "Monterrico",
                 "province": "Jujuy",
                 "stream": "http://streaming01.radiosenlinea.com.ar:8988/stream",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
-
             {
                 "id": "jujuy-2-1055",
                 "name": "2 FM 105.5",
@@ -241,7 +315,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "http://181.177.20.20:8000/radio2",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-canal-13",
@@ -251,7 +328,9 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/13-logo-canal-13.webp",
                 "city": "San Salvador de Jujuy",
                 "stream": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
-                "categories": ["religion"]
+                "categories": [
+                    "religion"
+                ]
             },
             {
                 "id": "jujuy-canal-7-jujuy",
@@ -261,7 +340,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-canal-4-2-jujuy",
@@ -271,7 +353,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-canal-4-jujuy",
@@ -287,7 +372,10 @@
                 "stream_5": "https://5cd577a3dd8ec.streamlock.net/CAMARAS/live6/playlist.m3u8",
                 "stream_6": "https://5cd577a3dd8ec.streamlock.net/CAMARAS/live7/playlist.m3u8",
                 "stream_7": "https://5cd577a3dd8ec.streamlock.net/CAMARAS/live8/playlist.m3u8",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-canal-city-1071",
@@ -297,7 +385,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://5cd577a3dd8ec.streamlock.net/CANAL4P/_definst_/stream/playlist.m3u8",
-                "categories": ["musica", "noticias"]
+                "categories": [
+                    "musica",
+                    "noticias"
+                ]
             },
             {
                 "id": "jujuy-city-1071",
@@ -306,7 +397,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://5cd577a3dd8ec.streamlock.net/radiocity/live_1/chunklist_w345759680.m3u8",
-                "categories": ["musica", "noticias"]
+                "categories": [
+                    "musica",
+                    "noticias"
+                ]
             },
             {
                 "id": "jujuy-lw8-630",
@@ -315,7 +409,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://radio.arcast.cloud:1280/stream",
-                "categories": ["noticias"]
+                "categories": [
+                    "noticias"
+                ]
             },
             {
                 "id": "jujuy-rivadavia-630",
@@ -324,7 +420,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://27323.live.streamtheworld.com/RIVADAVIAAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=f89740e7-8104-469b-fd1d-14e2376776be",
-                "categories": ["noticias", "deportes"]
+                "categories": [
+                    "noticias",
+                    "deportes"
+                ]
             },
             {
                 "id": "jujuy-la-red-897",
@@ -333,7 +432,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "http://centova2.veemesoft.com.ar:8187/live",
-                "categories": ["noticias", "deportes"]
+                "categories": [
+                    "noticias",
+                    "deportes"
+                ]
             },
             {
                 "id": "jujuy-radio-10-981",
@@ -342,7 +444,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://radio10.stweb.tv/radio10/live/chunks.m3u8",
-                "categories": ["noticias"]
+                "categories": [
+                    "noticias"
+                ]
             },
             {
                 "id": "jujuy-popular-1025",
@@ -351,7 +455,11 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://stream-156.zeno.FM/52ksescpmchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1MmtzZXNjcG1jaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik5FYUpIXzlsU05TRTJyb2RMU0JpSFEiLCJpYXQiOjE3NzAxNjExMTMsImV4cCI6MTc3MDE2MTE3M30.M7TlohALd0KvdYoD1i4JfDEyiEUpJPsEWEoXPPlVQWc",
-                "categories": ["folklore", "comunidad", "noticias"]
+                "categories": [
+                    "folklore",
+                    "comunidad",
+                    "noticias"
+                ]
             },
             {
                 "id": "jujuy-eco-jujuy-905",
@@ -360,7 +468,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://sonic.cloudstreaming.eu/9974/stream",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-provincia-1079",
@@ -369,7 +480,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://radios.solumedia.com:10820/stream",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-maxima-997",
@@ -378,7 +492,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://streaming01.shockmedia.com.ar/8996/stream",
-                "categories": ["musica", "noticias"]
+                "categories": [
+                    "musica",
+                    "noticias"
+                ]
             },
             {
                 "id": "jujuy-estacion-967",
@@ -387,7 +504,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://server4.hostradios.com/8394/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-fiesta-917",
@@ -396,16 +515,22 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://5cd577a3dd8ec.streamlock.net/radiofiesta/live_1/playlist.m3u8",
-                "categories": ["musica", "tropical"]
+                "categories": [
+                    "musica",
+                    "tropical"
+                ]
             },
             {
                 "id": "jujuy-nacional-jujuy-941",
                 "name": "Nacional FM 94.1",
-                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/logo-nacional.webp",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad22",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-urbana-jujuy-901",
@@ -414,7 +539,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://streaming5.locucionar.com/proxy/urbanajujuy?mp=/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-unju-929",
@@ -423,7 +550,11 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://centova.servidoraweb.net:9000/stream/2/",
-                "categories": ["comunidad", "musica", "noticias"]
+                "categories": [
+                    "comunidad",
+                    "musica",
+                    "noticias"
+                ]
             },
             {
                 "id": "jujuy-chasqui-887",
@@ -432,7 +563,11 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://stream-178.zeno.FM/0183ntdh8yzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwMTgzbnRkaDh5enV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Il9MTW1tWWtCUWhXVWtGV3B4WERUeVEiLCJpYXQiOjE3NjkyNzYyNzUsImV4cCI6MTc2OTI3NjMzNX0.sLWoopXRD9b1LtkG3o1WnGrhoIEJ2e5k7JaNVKNipBE",
-                "categories": ["folklore", "musica", "comunidad"]
+                "categories": [
+                    "folklore",
+                    "musica",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-jujuy-FM-1017",
@@ -441,7 +576,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://radios.solumedia.com:6450/stream?icy=http",
-                "categories": ["musica", "noticias"]
+                "categories": [
+                    "musica",
+                    "noticias"
+                ]
             },
             {
                 "id": "jujuy-mixjujuy-931",
@@ -450,7 +588,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://streaming2.locucionar.com/proxy/radiomixjujuy?mp=/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-mitre-1063",
@@ -459,7 +599,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://5cd577a3dd8ec.streamlock.net/radiomitre/live_2/chunklist_w1901283803.m3u8",
-                "categories": ["noticias"]
+                "categories": [
+                    "noticias"
+                ]
             },
             {
                 "id": "jujuy-sonica-953",
@@ -468,7 +610,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "http://streaming3.locucionar.com:18100/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-estacion-latina-1013",
@@ -477,7 +621,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://streaming01.shockmedia.com.ar/8540/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-power-1059",
@@ -486,7 +632,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://streaming6.locucionar.com:24294/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-recuerdos-1067",
@@ -495,7 +643,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://icecasthd.net/proxy/radiorecuerdosjujuy/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-tropico-977",
@@ -504,7 +654,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://radio.arcast.cloud:1300/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-imagenes-891",
@@ -513,7 +665,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://streaming.radiosenlinea.com.ar/8442/stream?1769786369525",
-                "categories": ["comunidad"]
+                "categories": [
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-ciudad-881",
@@ -522,7 +676,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "http://181.177.20.20:8000/radiociudad",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-voz-vci-1045",
@@ -531,7 +688,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://stream-179.zeno.FM/e0rkkwydmzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlMHJra3d5ZG16enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Inc2OGR4TW5nUlM2aHh5WWs0cXI0N1EiLCJpYXQiOjE3Njk3OTA0NDYsImV4cCI6MTc2OTc5MDUwNn0.ODbxgDsFMr_Ks6EaolzJmuvjG8vdER8A5_Vz5x430UA",
-                "categories": ["religion"]
+                "categories": [
+                    "religion"
+                ]
             },
             {
                 "id": "jujuy-el-camino-1005",
@@ -540,7 +699,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://genexservicios.com:8090/stream",
-                "categories": ["religion"]
+                "categories": [
+                    "religion"
+                ]
             },
             {
                 "id": "jujuy-santa-maria-1049",
@@ -549,7 +710,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://radios.solumedia.com/6124/stream",
-                "categories": ["religion"]
+                "categories": [
+                    "religion"
+                ]
             },
             {
                 "id": "jujuy-bbn-909",
@@ -558,7 +721,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f",
-                "categories": ["religion"]
+                "categories": [
+                    "religion"
+                ]
             },
             {
                 "id": "jujuy-biz-online",
@@ -567,7 +732,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "http://45.126.208.52/live",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-classica-993",
@@ -576,7 +743,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://radio.arcast.cloud:1680/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-amateur-online",
@@ -585,7 +754,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://stream-179.zeno.FM/regxsdb0rzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyZWd4c2RiMHJ6enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ii1vbnN3c2xzU0pPS0xXaWJ2aklHRlEiLCJpYXQiOjE3NzI4MTgxMzIsImV4cCI6MTc3MjgxODE5Mn0.gZypoAzWxakP7s_q8R1xUHZ8_f10wvuKO4-7F5Q7LE4",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-apologia-remix-online",
@@ -594,7 +765,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://tczt-ics-cloudflareaccess.apologiaremix.com.ar/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-80-online",
@@ -603,7 +776,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://stream.djroquesalazar.com.ar/8002/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-master-online",
@@ -612,7 +787,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://sc.host-live.com:8182/;",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-invasiondj-online",
@@ -621,7 +798,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://stream.djroquesalazar.com.ar/8924/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-onda-latina-1010",
@@ -630,7 +809,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://streaming2.locucionar.com/proxy/ondalatina?mp=/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-sud-america-1039",
@@ -639,7 +820,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://streaming.radiosenlinea.com.ar:10706/;",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-lider-911",
@@ -648,7 +831,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://26573.live.streamtheworld.com/C3RLSSJUJUY.mp3",
-                "categories": ["comunidad", "noticias"]
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
             },
             {
                 "id": "jujuy-antena-2-981",
@@ -657,7 +843,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "http://181.177.20.20:8000/radiotropicalisima",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-universal-1009",
@@ -666,7 +855,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://server.laradio.online/proxy/alejandro_ruiz?mp=/stream&1755255313800",
-                "categories": ["musica", "comunidad"]
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-la-voz-del-cerro-921",
@@ -675,7 +867,10 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://radios.liberaturadio.org/lavozdelcerro.ogg",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-la-quebrada-online",
@@ -684,7 +879,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://radio.enlaotrapuerta.com.ar/listen/radiolaquebrada/quebrada",
-                "categories": ["folklore"]
+                "categories": [
+                    "folklore"
+                ]
             },
             {
                 "id": "jujuy-encuentro-online",
@@ -693,7 +890,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://emisora.radiosplay.com.ar/8030/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-transamerica-1041",
@@ -702,7 +901,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://01.solumedia.com.ar:7133/stream?icy=http",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-alto-comedero-923",
@@ -711,7 +912,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://stm4.xcast.com.br:8900/;",
-                "categories": ["comunidad"]
+                "categories": [
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-conectar-915",
@@ -720,7 +923,9 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://streaming.radiosenlinea.com.ar:10953/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-sin-antena-online",
@@ -729,9 +934,44 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://stream-179.zeno.FM/npdrh0ybb9quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJucGRyaDB5YmI5cXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlRRExsc0pmUWcyU0ExcWd5U2FSNGciLCJpYXQiOjE3NzM0MjU3NzIsImV4cCI6MTc3MzQyNTgzMn0.j1GIVToFBgEL3WJlA7TL-466eeI32lb7qdlm9-NLkFM",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
-
+            {
+                "id": "jujuy-activa-1035",
+                "name": "Activa FM 103.5",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/1035-logo-activa.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://srv7.streamingradio.ar/8316/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "jujuy-region-1065",
+                "name": "Region FM 106.5",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/1065-logo-region.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://server.laradio.online/proxy/facundo_robles?mp=/stream&1773665687350",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "jujuy-cadena-3-1009",
+                "name": "Cadena 3 FM 100.9",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-cadena-3.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://24273.live.streamtheworld.com/RADIO3.mp3",
+                "categories": [
+                    "noticias"
+                ]
+            },
             {
                 "id": "jujuy-estelar-1057",
                 "name": "EstelAR FM 105.7",
@@ -739,9 +979,10 @@
                 "city": "Palpalá",
                 "province": "Jujuy",
                 "stream": "http://radios.solumedia.com:6488/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
-
             {
                 "id": "jujuy-FM-pais-995",
                 "name": "FM Pais 99.5",
@@ -749,7 +990,9 @@
                 "city": "Perico",
                 "province": "Jujuy",
                 "stream": "https://az03.streaminghd.net.ar/8164/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-x92-921",
@@ -758,7 +1001,9 @@
                 "city": "Perico",
                 "province": "Jujuy",
                 "stream": "https://stream.djroquesalazar.com.ar/8002/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-omega-963",
@@ -767,7 +1012,9 @@
                 "city": "Perico",
                 "province": "Jujuy",
                 "stream": "https://radios.solumedia.com:10812/stream?icy=http",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-urbana-1033",
@@ -776,7 +1023,9 @@
                 "city": "Perico",
                 "province": "Jujuy",
                 "stream": "https://radios.solumedia.com:6038/stream?icy=http",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-FM-patria-1073",
@@ -785,7 +1034,9 @@
                 "city": "Perico",
                 "province": "Jujuy",
                 "stream": "https://edge04.radiohdvivo.com/FMpatria1073",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-logos-1029",
@@ -794,7 +1045,9 @@
                 "city": "Perico",
                 "province": "Jujuy",
                 "stream": "http://radios.solumedia.com:6456/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-cadena-sport-1053",
@@ -803,9 +1056,11 @@
                 "city": "Perico",
                 "province": "Jujuy",
                 "stream": "https://stream.djroquesalazar.com.ar/8244/stream",
-                "categories": ["comunidad", "deportes"]
+                "categories": [
+                    "comunidad",
+                    "deportes"
+                ]
             },
-
             {
                 "id": "jujuy-yala-1051",
                 "name": "Yala FM 105.1",
@@ -813,11 +1068,15 @@
                 "city": "Yala",
                 "province": "Jujuy",
                 "stream": "https://server.laradio.online/proxy/fabian_carrizo?mp=/stream",
-                "categories": ["tropical", "folclore", "comunidad"]
+                "categories": [
+                    "tropical",
+                    "folclore",
+                    "comunidad"
+                ]
             }
-
         ]
-    }, {
+    },
+    {
         "zone": "Yungas",
         "items": [
             {
@@ -827,9 +1086,10 @@
                 "city": "Fraile Pintado",
                 "province": "Jujuy",
                 "stream": "https://streaming01.radiosenlinea.com.ar:10677/stream",
-                "categories": ["comunidad"]
+                "categories": [
+                    "comunidad"
+                ]
             },
-
             {
                 "id": "jujuy-municipal-la-mendieta-885",
                 "name": "FM Municipal 88.5",
@@ -837,9 +1097,11 @@
                 "city": "La Mendieta",
                 "province": "Jujuy",
                 "stream": "https://stream-ar.lamendieta.com/listen/FM_municipal/gob",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
-
             {
                 "id": "jujuy-del-valle-991",
                 "name": "Del Valle FM 99.1",
@@ -847,7 +1109,10 @@
                 "city": "Libertador General San Martín",
                 "province": "Jujuy",
                 "stream": "https://streaming.radiosenlinea.com.ar/8552/stream/1/;",
-                "categories": ["comunidad", "musica"]
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-orion-1063",
@@ -856,9 +1121,10 @@
                 "city": "Libertador General San Martín",
                 "province": "Jujuy",
                 "stream": "https://tolkien.republicahosting.net:1656/live",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
-
             {
                 "id": "jujuy-apa-915",
                 "name": "Apa FM 91.5",
@@ -866,7 +1132,10 @@
                 "city": "San Pedro",
                 "province": "Jujuy",
                 "stream": "http://vps-c0159cbc.vps.ovh.ca:10112/;",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-disco-online",
@@ -875,7 +1144,9 @@
                 "city": "San Pedro",
                 "province": "Jujuy",
                 "stream": "https://media.nexxisgroup.com.ar/listen/freemium2/radio",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-jujuy-FM-2-1045",
@@ -884,7 +1155,9 @@
                 "city": "San Pedro",
                 "province": "Jujuy",
                 "stream": "https://stream.djroquesalazar.com.ar/8938/stream",
-                "categories": ["comunidad"]
+                "categories": [
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-la-radio-923",
@@ -893,7 +1166,20 @@
                 "city": "San Pedro",
                 "province": "Jujuy",
                 "stream": "https://server.streamcasthd.com/8154/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "jujuy-la-voz-del-pueblo-389",
+                "name": "La Voz Del Pueblo LRK 389",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/yungas/389-logo-la-voz-del-pueblo.webp",
+                "city": "San Pedro",
+                "province": "Jujuy",
+                "stream": "https://streaming01.shockmedia.com.ar:10663/stream?icy=http",
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-municipal-san-pedro-975",
@@ -902,7 +1188,10 @@
                 "city": "San Pedro",
                 "province": "Jujuy",
                 "stream": "https://01.solumedia.com.ar:8604/stream?icy=http",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-nueva-belgrano-965",
@@ -911,7 +1200,9 @@
                 "city": "San Pedro",
                 "province": "Jujuy",
                 "stream": "https://streaming2.locucionar.com/proxy/nuevabelgrano?mp=/stream",
-                "categories": ["comunidad"]
+                "categories": [
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-satelite-907",
@@ -920,7 +1211,10 @@
                 "city": "San Pedro",
                 "province": "Jujuy",
                 "stream": "http://lrk428.ddns.net:8000/stream",
-                "categories": ["comunidad", "musica"]
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-sentimiento-1029",
@@ -929,7 +1223,9 @@
                 "city": "San Pedro",
                 "province": "Jujuy",
                 "stream": "https://streaming1.locucionar.com/proxy/sentimiento1029?mp=/stream",
-                "categories": ["musica"]
+                "categories": [
+                    "musica"
+                ]
             },
             {
                 "id": "jujuy-show-1041",
@@ -938,9 +1234,11 @@
                 "city": "San Pedro",
                 "province": "Jujuy",
                 "stream": "https://stream-ar.lamendieta.com:8000/renegon",
-                "categories": ["noticias", "comunidad"]
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
             },
-
             {
                 "id": "jujuy-santa-clara-1061",
                 "name": "Santa Clara FM 106.1",
@@ -948,9 +1246,10 @@
                 "city": "Santa Clara",
                 "province": "Jujuy",
                 "stream": "https://streaming5.locucionar.com/proxy/santaclara1061?mp=/stream",
-                "categories": ["noticias"]
+                "categories": [
+                    "noticias"
+                ]
             },
-
             {
                 "id": "jujuy-manaos-103.1",
                 "name": "Manaos FM 103.1",
@@ -958,7 +1257,9 @@
                 "city": "Yuto",
                 "province": "Jujuy",
                 "stream": "https://stream-162.zeno.FM/7ekby9wm0c9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ZWtieTl3bTBjOXV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkJiaUlwMVl1VDV1aTdOUHl0aklnM2ciLCJpYXQiOjE3NzAzMTUxOTMsImV4cCI6MTc3MDMxNTI1M30.fEy3rWPDyuNhPUHXsBiWj7KiVaE43S77fpPNKdPchQE",
-                "categories": ["comunidad"]
+                "categories": [
+                    "comunidad"
+                ]
             },
             {
                 "id": "jujuy-vida-1059",
@@ -967,7 +1268,10 @@
                 "city": "Yuto",
                 "province": "Jujuy",
                 "stream": "https://stream.djroquesalazar.com.ar/8884/stream",
-                "categories": ["comunidad", "folklore"]
+                "categories": [
+                    "comunidad",
+                    "folklore"
+                ]
             }
         ]
     }
