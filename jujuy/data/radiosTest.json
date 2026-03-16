@@ -105,7 +105,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/puna/1025-logo-klaxxon.webp",
                 "city": "La Quiaca",
                 "province": "Jujuy",
-                "stream": "https://streaming5.locucionar.com/proxy/klaxxon1025?mp=/stream",
+                "stream": "https://radios.solumedia.com:6626/stream",
                 "categories": [
                     "tropical",
                     "comunidad"
