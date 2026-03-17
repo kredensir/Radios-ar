@@ -973,6 +973,18 @@
                 ]
             },
             {
+                "id": "jujuy-radio-muni-885",
+                "name": "Radio Muni FM 88.5",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles//885-logo-muni.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "http://uk25freenew.listen2myradio.com:10223/;",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "jujuy-estelar-1057",
                 "name": "EstelAR FM 105.7",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/1057-logo-estelar.webp",
