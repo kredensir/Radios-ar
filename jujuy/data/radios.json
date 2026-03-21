@@ -1010,6 +1010,17 @@
                 ]
             },
             {
+                "id": "jujuy-sky-1061",
+                "name": "Sky FM 106.1",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/1061-logo-sky.webp",
+                "city": "Perico",
+                "province": "Jujuy",
+                "stream": "https://az03.streaminghd.net.ar/8088/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "jujuy-x92-921",
                 "name": "X92 FM 92.1",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/921-logo-x92.webp",
