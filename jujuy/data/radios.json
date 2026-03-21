@@ -1017,7 +1017,8 @@
                 "province": "Jujuy",
                 "stream": "https://az03.streaminghd.net.ar/8088/stream",
                 "categories": [
-                    "comunidad"
+                    "comunidad",
+                    "noticias"
                 ]
             },
             {
