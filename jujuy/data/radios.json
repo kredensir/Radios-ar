@@ -17,7 +17,7 @@
             {
                 "id": "jujuy-america-977",
                 "name": "America FM 97.7",
-                "web":"america907.com.ar",
+                "web": "america907.com.ar",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/puna/977-logo-america.webp",
                 "city": "Abra Pampa",
                 "province": "Jujuy",
@@ -31,7 +31,7 @@
             {
                 "id": "jujuy-arias-911",
                 "name": "Arias FM 91.1",
-                "web":"radioarias.com",
+                "web": "radioarias.com",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/puna/911-logo-arias.webp",
                 "city": "Abra Pampa",
                 "province": "Jujuy",
@@ -978,12 +978,24 @@
             {
                 "id": "jujuy-radio-muni-885",
                 "name": "Radio Muni FM 88.5",
-                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles//885-logo-muni.webp",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/885-logo-muni.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "http://uk25freenew.listen2myradio.com:10223/;",
                 "categories": [
                     "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "jujuy-trentina-1011",
+                "name": "Trentina FM 101.1",
+                "web": "https://trentina.com.ar",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/1011-logo-trentina.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://stm8.xcast.com.br:8642/stream",
+                "categories": [
                     "comunidad"
                 ]
             },
