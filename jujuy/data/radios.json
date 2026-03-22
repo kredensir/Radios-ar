@@ -597,12 +597,13 @@
             {
                 "id": "jujuy-mitre-1063",
                 "name": "Mitre FM 106.3",
-                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/1063-logo-mitre.webp",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-mitre.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://5cd577a3dd8ec.streamlock.net/radiomitre/live_2/chunklist_w1901283803.m3u8",
                 "categories": [
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
@@ -835,7 +836,8 @@
                 "stream": "https://26573.live.streamtheworld.com/C3RLSSJUJUY.mp3",
                 "categories": [
                     "comunidad",
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
@@ -972,7 +974,8 @@
                 "province": "Jujuy",
                 "stream": "https://24273.live.streamtheworld.com/RADIO3.mp3",
                 "categories": [
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
@@ -995,6 +998,18 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://stm8.xcast.com.br:8642/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "jujuy-tu-radio-943",
+                "name": "Tu Radio FM 94.3",
+                "web": "http://www.turadiojujuy.com.ar",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/943-logo-tu-radio.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://streaming5.locucionar.com/proxy/turadiojujuy?mp=/stream",
                 "categories": [
                     "comunidad"
                 ]
