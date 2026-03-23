@@ -87,7 +87,8 @@
                 "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad16",
                 "categories": [
                     "noticias",
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
@@ -149,7 +150,8 @@
                 "stream": "https://streaming.radiosenlinea.com.ar:10677/stream//stream",
                 "categories": [
                     "comunidad",
-                    "tropical"
+                    "tropical",
+                    "deportes"
                 ]
             },
             {
@@ -161,7 +163,8 @@
                 "stream": "https://01.solumedia.com.ar:8262/stream?icy=http",
                 "categories": [
                     "noticias",
-                    "tropical"
+                    "tropical",
+                    "deportes"
                 ]
             },
             {
@@ -412,7 +415,8 @@
                 "province": "Jujuy",
                 "stream": "https://radio.arcast.cloud:1280/stream",
                 "categories": [
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
@@ -531,7 +535,8 @@
                 "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad22",
                 "categories": [
                     "noticias",
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
@@ -669,7 +674,8 @@
                 "province": "Jujuy",
                 "stream": "https://streaming.radiosenlinea.com.ar/8442/stream?1769786369525",
                 "categories": [
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
@@ -813,7 +819,8 @@
                 "province": "Jujuy",
                 "stream": "https://streaming2.locucionar.com/proxy/ondalatina?mp=/stream",
                 "categories": [
-                    "musica"
+                    "musica",
+                    "deportes"
                 ]
             },
             {
