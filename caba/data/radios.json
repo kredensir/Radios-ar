@@ -1,0 +1,107 @@
+[
+    {
+        "zone": "CABA",
+        "items": [
+            {
+                "id": "buenos-aires-la-100-999",
+                "name": "La 100 FM 99.9",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/999-logo-la-100.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://27223.live.streamtheworld.com/FM999_56AAC.aac",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "buenos-aires-mitre-790",
+                "name": "Mitre AM 790",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-mitre.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://27693.live.streamtheworld.com/AM790_56AAC.aac",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-la-red-910",
+                "name": "La Red AM 910",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-la-red.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://27413.live.streamtheworld.com/LA_RED_AM910AAC.aac",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-aspen-1023",
+                "name": "FM Aspen 102.3",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-aspen.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://24383.live.streamtheworld.com/ASPENAAC.aac",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "buenos-aires-pop-radio-1015",
+                "name": "POP Radio 101.5",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1015-logo-pop-radio.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://popradio.stweb.tv/popradio/live/playlist.m3u8",
+                "categories": [
+                    "musica",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-continental-590",
+                "name": "Continental AM 590",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/590-logo-continental.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://edge02.radiohdvivo.com/continental",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-rivadavia-630",
+                "name": "Rivadavia AM 630",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-rivadavia.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://23243.live.streamtheworld.com/RIVADAVIAAAC.aac",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-radio-10-710",
+                "name": "Radio 10 AM 710",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-radio-10.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-los-40-1055",
+                "name": "Los 40 FM 105.5",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1055-logo-los-40.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://edge04.radiohdvivo.com/los40",
+                "categories": [
+                    "musica"
+                ]
+            }
+        ]
+    }
+]
