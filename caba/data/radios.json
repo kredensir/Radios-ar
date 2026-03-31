@@ -37,7 +37,7 @@
             },
             {
                 "id": "buenos-aires-aspen-1023",
-                "name": "FM Aspen 102.3",
+                "name": "Aspen FM 102.3",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-aspen.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
@@ -54,8 +54,7 @@
                 "province": "Buenos Aires",
                 "stream": "https://popradio.stweb.tv/popradio/live/playlist.m3u8",
                 "categories": [
-                    "musica",
-                    "noticias"
+                    "musica"
                 ]
             },
             {
@@ -67,6 +66,17 @@
                 "stream": "https://edge02.radiohdvivo.com/continental",
                 "categories": [
                     "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-rock-pop-959",
+                "name": "Rock & Pop FM 95.9",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/959-logo-rock-y-pop.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://27593.live.streamtheworld.com/ROCKANDPOPAAC_SC",
+                "categories": [
+                    "musica"
                 ]
             },
             {
@@ -101,7 +111,118 @@
                 "categories": [
                     "musica"
                 ]
+            },
+            {
+                "id": "buenos-aires-cadena-3-1005",
+                "name": "Cadena 3 FM 100.5",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-cadena-3.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://26673.live.streamtheworld.com/RADIO3_SC",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-metro-95-1",
+                "name": "Metro FM 95.1",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/951-logo-metro.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://26483.live.streamtheworld.com/METROAAC_SC?dist=triton-widget&pname=tdwidgets",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "buenos-aires-mega-fm-983",
+                "name": "Mega FM 98.3",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/983-logo-mega.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://mega.stweb.tv/mega983/live/playlist.m3u8",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "buenos-aires-blue-fm-1007",
+                "name": "Blue FM 100.7",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1007-logo-blue.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://27433.live.streamtheworld.com/BLUE_FM_100_7AAC_SC?pname=TDSdk",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "buenos-aires-disnep-fm-943",
+                "name": "Disnep FM 94.3",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/943-logo-disnep.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://26683.live.streamtheworld.com/DISNEY_ARG_BA_ADP/HLS/48444358-fe5e-4b46-bf55-86716bde5ba8/0/playlist.m3u8",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "buenos-aires-vale-fm-975",
+                "name": "Vale FM 97.5",
+                "image": "https://escucharadio.com.ar/wp-content/uploads/elementor/thumbs/radio-Vale-FM-97.5-qqkjo94ee3plf3mukfnu735gpfg1sk1fnjua3o955c.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://vale.stweb.tv/vale/live/playlist.m3u8",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "buenos-aires-vorterix-fm-921",
+                "name": "Vorterix FM 92.1",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/921-logo-vorterix.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://ice2.edge-apps.net/radio1_high-20057.audio",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "buenos-aires-la-750",
+                "name": "La AM 750",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/750-logo-la.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://23113.live.streamtheworld.com/AM750AAC_SC",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-del-plata-1030",
+                "name": "Radio Del Plata AM 1030",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1030-logo-radio-del-plata.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://stream-152.zeno.fm/sxpab7rt7hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzeHBhYjdydDdoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IllnMHhYckc0UWhLX0s5LVhaRTJNcnciLCJpYXQiOjE3NzQ5MTY3OTMsImV4cCI6MTc3NDkxNjg1M30.3ohJTOozZmTLm6gaWeBcMWUYxRgffgmhln2V0nXZjOY",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-radio-con-vos-899",
+                "name": "Radio con Vos 89.9",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/899-logo-con-vos.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://server1.stweb.tv/rcvos/live/chunks.m3u8?nimblesessionid=517953875&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDg6NDE6MjUgUE0maGFzaF92YWx1ZT1rd0VSalJ4c3hHdnZIQnlybTNnK0ZRPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTEy",
+                "categories": [
+                    "musica"
+                ]
             }
+
         ]
     }
 ]
