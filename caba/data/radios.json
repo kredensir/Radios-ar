@@ -342,7 +342,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1079-logo-el-observador.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
-                "stream": "https://s8.stweb.tv/observador/live/chunks.m3u8?nimblesessionid=523412419",
+                "stream": "https://s8.stweb.tv/observador/live/playlist.m3u8",
                 "categories": [
                     "noticias",
                     "comunidad"
@@ -398,7 +398,7 @@
             {
                 "id": "buenos-aires-nacional-clasica-fm-975",
                 "name": "Nacional Clásica FM 97.5",
-                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional-clasica.webp",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad37",
@@ -409,7 +409,7 @@
             {
                 "id": "buenos-aires-nacional-folklorica-fm-987",
                 "name": "Nacional Folklórica FM 98.7",
-                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional-folklorica.webp",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad38",
@@ -421,7 +421,7 @@
             {
                 "id": "buenos-aires-nacional-rock-fm-979",
                 "name": "Nacional Rock FM 97.9",
-                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional-rock.webp",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad39",
