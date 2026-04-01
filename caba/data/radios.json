@@ -219,7 +219,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/899-logo-con-vos.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
-                "stream": "https://server1.stweb.tv/rcvos/live/chunks.m3u8?nimblesessionid=517953875&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDg6NDE6MjUgUE0maGFzaF92YWx1ZT1rd0VSalJ4c3hHdnZIQnlybTNnK0ZRPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTEy",
+                "stream": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
                 "categories": [
                     "musica"
                 ]
