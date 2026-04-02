@@ -506,7 +506,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/570-logo-radio-argentina.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
-                "stream": "server.laradio.online:15224/live.mp3",
+                "stream": "https://server.laradio.online:15224/live.mp3",
                 "categories": [
                     "comunidad",
                     "noticias"
@@ -553,7 +553,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/650-logo-belgrano.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
-                "stream": "server.laradio.online:15224/live.mp3",
+                "stream": "https://server.laradio.online/proxy/lisandro_civit1?mp=/live.mp3",
                 "categories": [
                     "noticias",
                     "comunidad"
