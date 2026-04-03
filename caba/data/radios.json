@@ -164,7 +164,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/943-logo-disnep.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
-                "stream": "https://27373.live.streamtheworld.com/DISNEY_ARG_BA_ADP/HLS/a11ebe0f-e047-48ca-89de-646398007d28/0/playlist.m3u8",
+                "stream": "https://27373.live.streamtheworld.com/DISNEY_ARG_BA_ADP/HLS/playlist.m3u8",
                 "categories": [
                     "musica"
                 ]
@@ -437,7 +437,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1011-logo-latina.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
-                "stream": "https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8",
+                "stream": "https://stream-gtlc.telecentro.net.ar/hls/radiolatinahls/0/playlist.m3u8",
                 "categories": [
                     "musica"
                 ]
