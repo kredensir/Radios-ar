@@ -3,7 +3,7 @@
         "zone": "CABA",
         "items": [
             {
-                "id": "buenos-aires-la-100-999",
+                "id": "caba-la-100-999",
                 "name": "La 100 FM 99.9",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/999-logo-la-100.webp",
                 "city": "CABA",
@@ -14,18 +14,19 @@
                 ]
             },
             {
-                "id": "buenos-aires-mitre-790",
+                "id": "caba-mitre-790",
                 "name": "Mitre AM 790",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-mitre.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://27693.live.streamtheworld.com/AM790_56AAC.aac",
                 "categories": [
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
-                "id": "buenos-aires-la-red-910",
+                "id": "caba-la-red-910",
                 "name": "La Red AM 910",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-la-red.webp",
                 "city": "CABA",
@@ -37,7 +38,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-aspen-1023",
+                "id": "caba-aspen-1023",
                 "name": "Aspen FM 102.3",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-aspen.webp",
                 "city": "CABA",
@@ -48,7 +49,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-pop-radio-1015",
+                "id": "caba-pop-radio-1015",
                 "name": "POP Radio 101.5",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1015-logo-pop-radio.webp",
                 "city": "CABA",
@@ -59,7 +60,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-continental-590",
+                "id": "caba-continental-590",
                 "name": "Continental AM 590",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/590-logo-continental.webp",
                 "city": "CABA",
@@ -67,11 +68,12 @@
                 "stream": "https://edge02.radiohdvivo.com/continental",
                 "categories": [
                     "noticias",
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
-                "id": "buenos-aires-rock-pop-959",
+                "id": "caba-rock-pop-959",
                 "name": "Rock & Pop FM 95.9",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/959-logo-rock-y-pop.webp",
                 "city": "CABA",
@@ -82,7 +84,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-rivadavia-630",
+                "id": "caba-rivadavia-630",
                 "name": "Rivadavia AM 630",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-rivadavia.webp",
                 "city": "CABA",
@@ -93,7 +95,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-radio-10-710",
+                "id": "caba-radio-10-710",
                 "name": "Radio 10 AM 710",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-radio-10.webp",
                 "city": "CABA",
@@ -104,7 +106,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-los-40-1055",
+                "id": "caba-los-40-1055",
                 "name": "Los 40 FM 105.5",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1055-logo-los-40.webp",
                 "city": "CABA",
@@ -115,18 +117,19 @@
                 ]
             },
             {
-                "id": "buenos-aires-cadena-3-1005",
+                "id": "caba-cadena-3-1005",
                 "name": "Cadena 3 FM 100.5",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-cadena-3.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://26673.live.streamtheworld.com/RADIO3_SC",
                 "categories": [
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
-                "id": "buenos-aires-metro-95-1",
+                "id": "caba-metro-95-1",
                 "name": "Metro FM 95.1",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/951-logo-metro.webp",
                 "city": "CABA",
@@ -137,7 +140,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-mega-fm-983",
+                "id": "caba-mega-fm-983",
                 "name": "Mega FM 98.3",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/983-logo-mega.webp",
                 "city": "CABA",
@@ -148,7 +151,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-blue-fm-1007",
+                "id": "caba-blue-fm-1007",
                 "name": "Blue FM 100.7",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1007-logo-blue.webp",
                 "city": "CABA",
@@ -159,7 +162,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-disnep-fm-943",
+                "id": "caba-disnep-fm-943",
                 "name": "Disnep FM 94.3",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/943-logo-disnep.webp",
                 "city": "CABA",
@@ -170,7 +173,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-vale-fm-975",
+                "id": "caba-vale-fm-975",
                 "name": "Vale FM 97.5",
                 "image": "https://escucharadio.com.ar/wp-content/uploads/elementor/thumbs/radio-Vale-FM-97.5-qqkjo94ee3plf3mukfnu735gpfg1sk1fnjua3o955c.webp",
                 "city": "CABA",
@@ -181,7 +184,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-vorterix-fm-921",
+                "id": "caba-vorterix-fm-921",
                 "name": "Vorterix FM 92.1",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/921-logo-vorterix.webp",
                 "city": "CABA",
@@ -192,18 +195,19 @@
                 ]
             },
             {
-                "id": "buenos-aires-la-750",
-                "name": "La AM 750",
+                "id": "caba-la-750",
+                "name": "La 750 AM 750",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/750-logo-la.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://23113.live.streamtheworld.com/AM750AAC_SC",
                 "categories": [
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
-                "id": "buenos-aires-del-plata-1030",
+                "id": "caba-del-plata-1030",
                 "name": "Radio Del Plata AM 1030",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1030-logo-radio-del-plata.webp",
                 "city": "CABA",
@@ -214,7 +218,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-radio-con-vos-899",
+                "id": "caba-radio-con-vos-899",
                 "name": "Radio con Vos 89.9",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/899-logo-con-vos.webp",
                 "city": "CABA",
@@ -225,7 +229,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-infobae-fm-1071",
+                "id": "caba-infobae-fm-1071",
                 "name": "Infobae FM 107.1",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1071-logo-infobae.webp",
                 "city": "CABA",
@@ -236,7 +240,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-la-nacion-music-1049",
+                "id": "caba-la-nacion-music-1049",
                 "name": "La Nacion Music FM 104.9",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1049-logo-la-nacion-musica.webp",
                 "city": "CABA",
@@ -247,7 +251,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-now-fm-979",
+                "id": "caba-now-fm-979",
                 "name": "Now FM 97.9",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/979-logo-now.webp",
                 "city": "CABA",
@@ -258,7 +262,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-horizonte-fm-1019",
+                "id": "caba-horizonte-fm-1019",
                 "name": "Horizonte FM 101.9",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1019-logo-horizonte.webp",
                 "city": "CABA",
@@ -269,7 +273,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-urbana-play-1043",
+                "id": "caba-urbana-play-1043",
                 "name": "Urbana Play 104.3",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1043-logo-urbana-play.webp",
                 "city": "CABA",
@@ -280,7 +284,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-cnn-am-950",
+                "id": "caba-cnn-am-950",
                 "name": "CNN AM 950",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-cnn.webp",
                 "city": "CABA",
@@ -291,7 +295,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-mucha-radio-fm-947",
+                "id": "caba-mucha-radio-fm-947",
                 "name": "Mucha Radio FM 94.7",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/947-logo-mucha-radio.webp",
                 "city": "CABA",
@@ -302,7 +306,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-destape-radio-fm-1073",
+                "id": "caba-destape-radio-fm-1073",
                 "name": "El Destape Radio FM 107.3",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1073-logo-el-destape.webp",
                 "city": "CABA",
@@ -313,18 +317,19 @@
                 ]
             },
             {
-                "id": "buenos-aires-la-990-am-990",
+                "id": "caba-la-990-am-990",
                 "name": "La 990 AM 990",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-la-990.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://29327.live.streamtheworld.com/AM990AAC_SC",
                 "categories": [
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
-                "id": "buenos-aires-somos-radio-am-530",
+                "id": "caba-somos-radio-am-530",
                 "name": "Somos Radio AM 530",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/530-logo-somos-radio.webp",
                 "city": "CABA",
@@ -337,7 +342,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-observador-fm-1079",
+                "id": "caba-observador-fm-1079",
                 "name": "El Observador FM 107.9",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1079-logo-el-observador.webp",
                 "city": "CABA",
@@ -349,7 +354,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-d-sports-fm-1031",
+                "id": "caba-d-sports-fm-1031",
                 "name": "D Sports FM 103.1",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1031-logo-d-sports.webp",
                 "city": "CABA",
@@ -360,7 +365,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-la-tribu-fm-887",
+                "id": "caba-la-tribu-fm-887",
                 "name": "La Tribu FM 88.7",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/887-logo-la-tribu.webp",
                 "city": "CABA",
@@ -372,7 +377,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-la-2x4-fm-927",
+                "id": "caba-la-2x4-fm-927",
                 "name": "La 2x4 FM 92.7",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/927-logo-la2x4.webp",
                 "city": "CABA",
@@ -384,7 +389,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-jai-fm-963",
+                "id": "caba-jai-fm-963",
                 "name": "Radio JAI FM 96.3",
                 "type": "tv",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/963-logo-jai.webp",
@@ -396,7 +401,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-nacional-clasica-fm-975",
+                "id": "caba-nacional-clasica-fm-975",
                 "name": "Nacional Clásica FM 97.5",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional.webp",
                 "city": "CABA",
@@ -407,7 +412,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-nacional-folklorica-fm-987",
+                "id": "caba-nacional-folklorica-fm-987",
                 "name": "Nacional Folklórica FM 98.7",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional.webp",
                 "city": "CABA",
@@ -419,7 +424,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-nacional-rock-fm-979",
+                "id": "caba-nacional-rock-fm-979",
                 "name": "Nacional Rock FM 97.9",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional.webp",
                 "city": "CABA",
@@ -431,7 +436,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-latina-fm-1011",
+                "id": "caba-latina-fm-1011",
                 "name": "Latina FM 101.1",
                 "type": "tv",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1011-logo-latina.webp",
@@ -443,7 +448,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-radio-one-fm-1055",
+                "id": "caba-radio-one-fm-1055",
                 "name": "Radio One FM 105.5",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1055-logo-one.webp",
                 "city": "CABA",
@@ -454,7 +459,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-milenium-fm-1067",
+                "id": "caba-milenium-fm-1067",
                 "name": "Milenium FM 106.7",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1067-logo-milenium.webp",
                 "city": "CABA",
@@ -465,7 +470,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-cultura-fm-979",
+                "id": "caba-cultura-fm-979",
                 "name": "Radio Cultura FM 97.9",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/979-logo-cultura.webp",
                 "city": "CABA",
@@ -476,7 +481,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-belgrano-am-840",
+                "id": "caba-belgrano-am-840",
                 "name": "Gral. Belgrano AM 840",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/840-logo-general-belgrano.webp",
                 "city": "CABA",
@@ -488,7 +493,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-nacional-am-870",
+                "id": "caba-nacional-am-870",
                 "name": "Radio Nacional AM 870",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional.webp",
                 "city": "CABA",
@@ -501,7 +506,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-nacional-am-570",
+                "id": "caba-nacional-am-570",
                 "name": "Argentina AM 570",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/570-logo-radio-argentina.webp",
                 "city": "CABA",
@@ -509,11 +514,12 @@
                 "stream": "https://server.laradio.online:15224/live.mp3",
                 "categories": [
                     "comunidad",
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
-                "id": "buenos-aires-ciudad-am-1110",
+                "id": "caba-ciudad-am-1110",
                 "name": "Ciudad AM 1110",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1110-logo-once-diez.webp",
                 "city": "CABA",
@@ -524,7 +530,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-provincia-am-1270",
+                "id": "caba-provincia-am-1270",
                 "name": "Provincia AM 1270 ",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1270-logo-provincia.webp",
                 "city": "CABA",
@@ -536,7 +542,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-buenos-aires-am-1350",
+                "id": "caba-buenos-aires-am-1350",
                 "name": "Buenos Aires AM 1350",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1350-logo-buenos-aires.webp",
                 "city": "CABA",
@@ -548,7 +554,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-belgrano-am-650",
+                "id": "caba-belgrano-am-650",
                 "name": "Belgrano 650 AM 650",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/650-logo-belgrano.webp",
                 "city": "CABA",
@@ -560,7 +566,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-colonia-am-550",
+                "id": "caba-colonia-am-550",
                 "name": "Radio Colonia AM 550",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/550-logo-colonia.webp",
                 "city": "CABA",
@@ -571,7 +577,7 @@
                 ]
             },
             {
-                "id": "buenos-aires-pueblo-am-830",
+                "id": "caba-pueblo-am-830",
                 "name": "Radio del Pueblo AM 830 ",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/830-del-pueblo.webp",
                 "city": "CABA",
@@ -582,13 +588,151 @@
                 ]
             },
             {
-                "id": "buenos-aires-perfil-am-1190",
+                "id": "caba-perfil-am-1190",
                 "name": "Perfil AM 1190",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1190-logo-perfil.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://jireh-1-hls-audio-ar-isp.dps.live/hls-audio/4e252a65837b69e349d5d8c1033152b4/perfil/playlist/index1-edge.m3u8?dpssid=8c57c866281a8070151ba40f443eb9b5&sid=ba5t1l1xb2436550118674a3043bd288&ndvc=0",
                 "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "caba-republica-am-770",
+                "name": "Republica AM 770",
+                "web": "https://r770.com.ar",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/770-logo-republica.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://cdn.instream.audio:9582/stream",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "caba-libre-fm-890",
+                "name": "Libre FM 89.0",
+                "web": "https://www.radio890.ar",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/890-logo-radio-libre.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://01.solumedia.com.ar:8420/stream?icy=http",
+                "categories": [
+                    "noticias",
+                    "comunidad",
+                    "deportes"
+                ]
+            },
+            {
+                "id": "caba-blackie-fm-891",
+                "name": "Blackie FM 89.1",
+                "web": "https://blackiefm.com.ar",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/891-logo-blackie.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://27603.live.streamtheworld.com/BLACKIE_89_1.mp3",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "caba-delta-fm-903",
+                "name": "Delta FM 90.3",
+                "web": "https://fmdelta903.com",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/903-logo-delta.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://cdn.instream.audio/:9069/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "caba-late-fm-931",
+                "name": "Late FM 93.1",
+                "web": "https://late931.com.ar",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/931-logo-late.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://radiolinksmedia.net.ar/8252",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "caba-metro-fm-951",
+                "name": "Metro FM 95.1",
+                "web": "https://www.mph.fm",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/951-logo-metro-power.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://27383.live.streamtheworld.com/METROAAC.aac",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "caba-splendid-fm-990",
+                "name": "Splendid FM 99.0",
+                "web": "https://splendidam990.com",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/990-logo-splendid.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://27403.live.streamtheworld.com/AM990AAC.aac",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "caba-patriada-fm-1021",
+                "name": "La Patriada FM 102.1",
+                "web": "https://www.continental.com.ar",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1021-logo-fm-la-patriada.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://cdn.instream.audio:9107/stream",
+                "video": "https://5f700d5b2c46f.streamlock.net/fmlapatriada/fmlapatriada/playlist.m3u8",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "caba-sputnik-fm-1030",
+                "name": "Sputnik FM 103.0",
+                "web": "https://noticiaslatam.lat",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1030-logo-sputnik.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://icecast-rian.cdnvideo.ru/voicespa",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "caba-like-fm-1045",
+                "name": "Like FM 104.5",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1045-logo-like.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "http://streaming01.shockmedia.com.ar:9370/stream.m3u/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "caba-tropibox-fm-1071",
+                "name": "TropiBox FM 107.1",
+                "web": "https://www.tropibox.com.ar",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1071-logo-tropibox.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://radiostreamingserver.com.ar/stream/tropibox/live",
+                "categories": [
+                    "noticias",
                     "musica"
                 ]
             }
