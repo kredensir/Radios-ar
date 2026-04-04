@@ -736,8 +736,10 @@
                     "musica"
                 ]
             }
-        ],
-         "zone": "Ciudad Autónoma de Buenos Aires",
+        ]
+    },
+    {
+        "zone": "Ciudad Autónoma de Buenos Aires",
         "items": [
             {
                 "id": "ciudad-autonoma-de-buenos-aires-la-red",
