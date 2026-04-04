@@ -1,0 +1,999 @@
+[
+    {
+        "zone": "Córdoba",
+        "items": [
+            {
+                "id": "cordoba-rock-and-pop",
+                "name": "FM Rock & Pop",
+                "web": "http://fmrockandpop.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/744/fm-rock-pop.32c080fd.jpg",
+                "city": "s FM Rock & Pop",
+                "province": "Córdoba",
+                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC_SC",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-popular",
+                "name": "La Popu FM 92.3",
+                "web": "https://www.lapopu.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/776/radio-popular.46869649.png",
+                "city": "s La Popu FM 92.3",
+                "province": "Córdoba",
+                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/lapopu_SC?dist=c3-web",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-maria-argentina",
+                "name": "Radio María Argentina",
+                "web": "http://radiomaria.org.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/067/radio-maria-argentina.aa953425.jpg",
+                "city": "s Radio María Argentina",
+                "province": "Córdoba",
+                "stream": "https://dreamsiteradiocp6.com/proxy/argentinarm?mp=/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-suquia-965-fm",
+                "name": "Radio Suquia 96.5 FM",
+                "web": "https://www.suquia.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/351/radio-suquia-965-fm.e191457c.png",
+                "city": "s Radio Suquia 96.5 FM",
+                "province": "Córdoba",
+                "stream": "https://streaming01.shockmedia.com.ar:10945/;",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-nacional-cordoba-870-am",
+                "name": "Radio Nacional - Córdoba 870 AM",
+                "web": "http://www.radionacional.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/944/radio-nacional-cordoba-870-am.e644bd78.png",
+                "city": "s Radio Nacional - Córdoba 870 AM",
+                "province": "Córdoba",
+                "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad1",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-maxima-893",
+                "name": "Radio Maxima 89.3",
+                "web": "http://www.radiomaxima893.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/487/radio-maxima-893.068a7d72.png",
+                "city": "s Radio Maxima 89.3",
+                "province": "Córdoba",
+                "stream": "https://streaming01.shockmedia.com.ar:10743/;stream.mp4?ver=152385",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-cristiana-el-camino",
+                "name": "Radio Cristiana el Camino",
+                "web": "http://www.radiocristianaelcamino.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/050/radio-cristiana-el-camino.167641f1.jpg",
+                "city": "s Radio Cristiana el Camino",
+                "province": "Córdoba",
+                "stream": "https://genexservicios.com:2000/stream/radiocristianaelcamino/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-universidad-de-cordoba",
+                "name": "Radio Universidad de Córdoba",
+                "web": "http://www.cba24n.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/045/radio-universidad-de-cordoba.98a23a06.jpg",
+                "city": "s Radio Universidad de Córdoba",
+                "province": "Córdoba",
+                "stream": "https://radios.solumedia.com:10976/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-americanos-rock-80",
+                "name": "Radio Americanos Rock 80",
+                "web": "https://murraysoft72.wixsite.com/radio",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/224/radio-americanos-rock-80.2a210328.jpg",
+                "city": "s Radio Americanos Rock 80",
+                "province": "Córdoba",
+                "stream": "https://stream.zeno.fm/kyc768yg7yzuv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-rebelde-740-am",
+                "name": "Radio Rebelde 740 AM",
+                "web": "https://radiorebelde.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/727/radio-rebelde-740-am.97ed756a.png",
+                "city": "s Radio Rebelde 740 AM",
+                "province": "Córdoba",
+                "stream": "https://stream.radiojar.com/qkxht62hy8hvv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-impacto-993-fm",
+                "name": "Radio Impacto 99.3 FM",
+                "web": "https://radioimpacto993.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/681/radio-impacto-993-fm.09aba96c.jpg",
+                "city": "s Radio Impacto 99.3 FM",
+                "province": "Córdoba",
+                "stream": "https://sonic.cloudstreaming.eu/9992/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-la-red",
+                "name": "La Red AM 910",
+                "web": "https://www.lared.am/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/295/la-red-am.94f5f9be.jpg",
+                "city": "s La Red AM 910",
+                "province": "Córdoba",
+                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-con-vos",
+                "name": "Radio Con Vos 89.9",
+                "web": "http://radioconvos.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg",
+                "city": "s Radio Con Vos 89.9",
+                "province": "Córdoba",
+                "stream": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-rivadavia",
+                "name": "Radio Rivadavia 630 AM",
+                "web": "http://rivadavia.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg",
+                "city": "s Radio Rivadavia 630 AM",
+                "province": "Córdoba",
+                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-jaja",
+                "name": "Radio JaJa",
+                "web": "https://www.radiojaja.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/156/radio-jaja.8cfa7ec8.png",
+                "city": "s Radio JaJa",
+                "province": "Córdoba",
+                "stream": "https://streaming5.locucionar.com/proxy/radiojaja?mp=/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-mana",
+                "name": "Radio Mana",
+                "web": "https://radiomana.argentinastream.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/051/radio-mana-argentina.6c49a49a.jpg",
+                "city": "s Radio Mana",
+                "province": "Córdoba",
+                "stream": "https://server.radiostreaming.com.ar/8760/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-recuerdos2",
+                "name": "Radio Recuerdos",
+                "web": "http://www.emisorarecuerdos.blogspot.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/409/radio-recuerdos.450d8a8e.jpg",
+                "city": "s Radio Recuerdos",
+                "province": "Córdoba",
+                "stream": "",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-el-faro",
+                "name": "Radio El Faro",
+                "web": "http://radielfaro.org",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/351/radio-el-faro.2541d497.png",
+                "city": "s Radio El Faro",
+                "province": "Córdoba",
+                "stream": "",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-trasmix",
+                "name": "Radio Trasmix",
+                "web": "https://trasmixradio.wixsite.com/misitio",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/964/radio-trasmix.51966f19.png",
+                "city": "s Radio Trasmix",
+                "province": "Córdoba",
+                "stream": "https://mpc1.mediacp.eu:8106/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-del-monte",
+                "name": "Radio del Monte",
+                "web": "https://radiodelmonte.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/150/radio-del-monte.32c9eb56.png",
+                "city": "s Radio del Monte",
+                "province": "Córdoba",
+                "stream": "",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-gol-fm-1067",
+                "name": "Radio GOL FM 106.7",
+                "web": "http://golfm.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/234/radio-gol-fm-1067.de072167.png",
+                "city": "s Radio GOL FM 106.7",
+                "province": "Córdoba",
+                "stream": "https://streaming01.shockmedia.com.ar/8896/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-laguna-del-plata",
+                "name": "Radio Laguna del Plata",
+                "web": "http://www.953fmradiolapara.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/536/radio-laguna-del-plata.419b4b37.png",
+                "city": "s Radio Laguna del Plata",
+                "province": "Córdoba",
+                "stream": "https://server5.veemesoft.com.ar:9322/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-ciudad-1011",
+                "name": "Radio Ciudad 101.1",
+                "web": "https://radiociudad1011.esenvivo.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/504/radio-ciudad-1011.35ebe311.png",
+                "city": "s Radio Ciudad 101.1",
+                "province": "Córdoba",
+                "stream": "",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-fiel",
+                "name": "Radio Fiel",
+                "web": "https://www.fielfm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/528/radio-fiel.6b4ce607.jpg",
+                "city": "s Radio Fiel",
+                "province": "Córdoba",
+                "stream": "https://server6.hostradios.com:7386/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-leones-1077-fm",
+                "name": "Radio Leones 107.7 FM",
+                "web": "http://www.radioleonesrc2.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/874/radio-leones-1077-fm.96a2280e.png",
+                "city": "s Radio Leones 107.7 FM",
+                "province": "Córdoba",
+                "stream": "",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-fm-2000",
+                "name": "Radio FM 2000",
+                "web": "http://www.radiofm2000.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/455/radio-fm-2000.53c13c54.jpg",
+                "city": "s Radio FM 2000",
+                "province": "Córdoba",
+                "stream": "https://server.laradio.online/proxy/gabriel_carranza?1726766174151=&mp=/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-city-cordoba",
+                "name": "Radio CIty Cordoba",
+                "web": "https://radiocitycba.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/414/radio-city-cordoba.cd3d479f.png",
+                "city": "s Radio CIty Cordoba",
+                "province": "Córdoba",
+                "stream": "https://stream.zeno.fm/eizwoybr361vv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-federal-810-am",
+                "name": "LA 810 RADIO",
+                "web": "https://www.la810radio.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/512/radio-federal-810-am.d2f7aae5.png",
+                "city": "s LA 810 RADIO",
+                "province": "Córdoba",
+                "stream": "https://01.solumedia.com.ar:8218/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-centro-993-fm",
+                "name": "Radio Centro 99.3 FM",
+                "web": "http://www.gruporadialcentro.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/931/radio-centro-993-fm.7ed90787.jpg",
+                "city": "s Radio Centro 99.3 FM",
+                "province": "Córdoba",
+                "stream": "https://sonicpanel.hostradios.com/8710/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-verdad",
+                "name": "Radio Verdad",
+                "web": "https://radioverdadvd.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/077/radio-verdad-argentina.b173bfe0.png",
+                "city": "s Radio Verdad",
+                "province": "Córdoba",
+                "stream": "https://streaming1.locucionar.com/proxy/radioverdad?mp=/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-sinfonia-fm",
+                "name": "Radio Sinfonía FM",
+                "web": "http://www.radiosinfoniafm.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/010/radio-sinfonia-fm.d7b505a9.png",
+                "city": "s Radio Sinfonía FM",
+                "province": "Córdoba",
+                "stream": "https://streaming01.shockmedia.com.ar:10395/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-mas-alla-del-sol",
+                "name": "Radio Mas Alla del Sol",
+                "web": "http://radiomasalladelsol.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/198/radio-mas-alla-del-sol.895bf4f7.png",
+                "city": "s Radio Mas Alla del Sol",
+                "province": "Córdoba",
+                "stream": "https://stream4.305stream.com:9555/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-azul-1073-fm",
+                "name": "Radio Azul 107.3 FM",
+                "web": "http://radioazul.argentinastream.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/693/radio-azul-1073-fm.37beaf0c.jpg",
+                "city": "s Radio Azul 107.3 FM",
+                "province": "Córdoba",
+                "stream": "",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-del-centro",
+                "name": "Radio Del Centro",
+                "web": "https://radiodelcentro.net.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/155/radio-del-centro.37998cb9.png",
+                "city": "s Radio Del Centro",
+                "province": "Córdoba",
+                "stream": "https://stm2.livecastradio.com:9494/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-lv20",
+                "name": "Radio Lv20",
+                "web": "http://www.radiolv20.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/325/radio-lv20.04d2fc99.jpg",
+                "city": "s Radio Lv20",
+                "province": "Córdoba",
+                "stream": "",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-imperio",
+                "name": "Radio Imperio",
+                "web": "https://radioimperioargentina.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/518/radio-imperio.f5736c9d.png",
+                "city": "s Radio Imperio",
+                "province": "Córdoba",
+                "stream": "https://stream.zeno.fm/v0cxwd7c8yzuv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-sinfonia-915-fm",
+                "name": "Radio Sinfonia 91.5 FM",
+                "web": "",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/709/radio-sinfonia-915-fm.c41401c4.jpg",
+                "city": "s Radio Sinfonia 91.5 FM",
+                "province": "Córdoba",
+                "stream": "https://streamingv2.shoutcast.com/sinfonia-de-la-inmaculada-915mhz",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-amistad-919",
+                "name": "RADIO AMISTAD 91.9",
+                "web": "https://www.facebook.com/919fmamistad",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/446/radio-amistad-919.d5d222b8.jpg",
+                "city": "s RADIO AMISTAD 91.9",
+                "province": "Córdoba",
+                "stream": "",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-master-967",
+                "name": "Radio Master 96.7",
+                "web": "http://www.radiomaster967.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/797/radio-master-967.0c5addd5.jpg",
+                "city": "s Radio Master 96.7",
+                "province": "Córdoba",
+                "stream": "https://emisora.radiosplay.com.ar/8102/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-la-zero",
+                "name": "Radio La Zero",
+                "web": "http://lazero955.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/845/radio-la-zero.0316614c.jpg",
+                "city": "s Radio La Zero",
+                "province": "Córdoba",
+                "stream": "https://streaming1.locucionar.com:13446/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-nota-arias",
+                "name": "Radio Nota Arias",
+                "web": "http://radionota.poderciudadano.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/803/radio-nota-arias.de62ccf3.png",
+                "city": "s Radio Nota Arias",
+                "province": "Córdoba",
+                "stream": "https://radio.streamingnacional.online:10790/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-am-vida-1490",
+                "name": "Radio AM Vida 1490",
+                "web": "http://www.radioarg.com/vida-cordoba/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/476/radio-am-vida-1490.ab5ce25f.jpg",
+                "city": "s Radio AM Vida 1490",
+                "province": "Córdoba",
+                "stream": "https://radiovida.servegame.com:8000/stream/1/",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-quilpo",
+                "name": "Radio Quilpo FM",
+                "web": "https://www.sanmarcossierras.net/p/radio-quilpo-en-vivo.html",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/764/radio-quilpo.8c2b36d7.jpg",
+                "city": "s Radio Quilpo FM",
+                "province": "Córdoba",
+                "stream": "https://https.nvradios.com/radio/9352/radio.mp3",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-estacion-973-fm",
+                "name": "Radio Estacion 97.3 FM",
+                "web": "http://www.diarioestacion.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/763/radio-estacion-973-fm.5c4229aa.png",
+                "city": "s Radio Estacion 97.3 FM",
+                "province": "Córdoba",
+                "stream": "https://streaming1.locucionar.com/proxy/radioestacion971?mp=/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-q",
+                "name": "RADIO Q",
+                "web": "https://loscondoresradios.blogspot.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/214/radio-q2.8a2807e6.jpg",
+                "city": "s RADIO Q",
+                "province": "Córdoba",
+                "stream": "https://stream.zeno.fm/kexpezu61eruv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-capilla-de-rodriguez",
+                "name": "Radio Capilla de Rodriguez",
+                "web": "http://www.fmradiocapilla.com.ar/",
+                "image": "https://static.mytuner.mobi/static/images/radio-default.jpg",
+                "city": "s Radio Capilla de Rodriguez",
+                "province": "Córdoba",
+                "stream": "",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-viva-895",
+                "name": "Radio Viva 89.5 FM",
+                "web": "",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/146/radio-viva-895.9c603f7f.png",
+                "city": "s Radio Viva 89.5 FM",
+                "province": "Córdoba",
+                "stream": "",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-viamonte",
+                "name": "Radio Viamonte",
+                "web": "http://radioviamonte.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/696/radio-viamonte.32a1b897.png",
+                "city": "s Radio Viamonte",
+                "province": "Córdoba",
+                "stream": "",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-centenario-fm",
+                "name": "Radio Centenario FM",
+                "web": "http://www.fmcentenario935.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/556/radio-centenario-fm.41b37361.jpg",
+                "city": "s Radio Centenario FM",
+                "province": "Córdoba",
+                "stream": "https://streaming.conexionproductora.com.ar:19978/;",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-baires-90s",
+                "name": "Radio Baires 90s",
+                "web": "https://www.radiobaires.com/baires90s/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/955/radio-baires-90s.c065647d.png",
+                "city": "s Radio Baires 90s",
+                "province": "Córdoba",
+                "stream": "https://stream90s.radiobaires.com/live",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-baires-80s",
+                "name": "Radio Baires 80s",
+                "web": "https://www.radiobaires.com/baires80s/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/956/radio-baires-80s.d5bf7817.png",
+                "city": "s Radio Baires 80s",
+                "province": "Córdoba",
+                "stream": "https://stream80s.radiobaires.com/live",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-fantastica",
+                "name": "Radio Fantastica",
+                "web": "https://radiofantasticavillanueva.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/143/radio-fantastica2.b8647bfd.png",
+                "city": "s Radio Fantastica",
+                "province": "Córdoba",
+                "stream": "https://streaming01.serverconnectinc.site:9167/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-latina-971-fm",
+                "name": "Radio Latina 97.1 FM",
+                "web": "http://www.radiolatina.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/834/radio-latina-971-fm-argentina.f44d52bc.jpg",
+                "city": "s Radio Latina 97.1 FM",
+                "province": "Córdoba",
+                "stream": "",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-online-247",
+                "name": "Radio Online 24/7",
+                "web": "http://www.radionline247.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/907/radio-online-247.db0dc8b0.png",
+                "city": "s Radio Online 24/7",
+                "province": "Córdoba",
+                "stream": "https://streaming.radiosenlinea.com.ar/8656/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-83",
+                "name": "Radio 83",
+                "web": "http://www.radio83.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/286/radio-83.3e602d56.jpg",
+                "city": "s Radio 83",
+                "province": "Córdoba",
+                "stream": "https://test-ice.brolio.dev/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-top-fm-1003",
+                "name": "Radio Top FM 100.3",
+                "web": "https://radiotop.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/182/radio-top-fm-1003.e150b53d.png",
+                "city": "s Radio Top FM 100.3",
+                "province": "Córdoba",
+                "stream": "https://radio11.servidorderadio.net/8062/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-el-grito",
+                "name": "Radio El Grito",
+                "web": "https://radioelgrito.com.ar/web/index.php/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/970/radio-el-grito.62d6a5bc.jpg",
+                "city": "s Radio El Grito",
+                "province": "Córdoba",
+                "stream": "https://sslstream.online:7119/;/;type=mp3",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-los-desterra2",
+                "name": "Radio Los Desterra2",
+                "web": "https://propagandasparaven.wixsite.com/losdesterra2",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/676/radio-los-desterra2.d90668d7.png",
+                "city": "s Radio Los Desterra2",
+                "province": "Córdoba",
+                "stream": "https://stream.zeno.fm/ksgncpdfqd0uv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-activa-hits-classics",
+                "name": "Radio Activa Hits & Classics",
+                "web": "http://www.fmra.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/557/radio-activa-hits-classics.8f811a5b.png",
+                "city": "s Radio Activa Hits & Classics",
+                "province": "Córdoba",
+                "stream": "",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-polarys-1059",
+                "name": "Radio Polarys 105.9 FM",
+                "web": "http://www.polarys.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/823/radio-polarys-1059.1b63c199.jpg",
+                "city": "s Radio Polarys 105.9 FM",
+                "province": "Córdoba",
+                "stream": "https://sonic.host-live.com/8134/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-portal-5900",
+                "name": "Radio Portal 5900",
+                "web": "https://5900radio.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/429/radio-portal-5900.534d6c2f.png",
+                "city": "s Radio Portal 5900",
+                "province": "Córdoba",
+                "stream": "https://stream.desatec.net/8054/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "cordoba-x-virasoro-1059-fm",
+                "name": "Radio X Virasoro 105.9 FM",
+                "web": "http://radioxvirasoro1059.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/864/radio-x-virasoro-1059-fm.2441abb6.jpg",
+                "city": "s Radio X Virasoro 105.9 FM",
+                "province": "Córdoba",
+                "stream": "https://streaming01.shockmedia.com.ar:10854/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            }
+        ]
+    }
+]
