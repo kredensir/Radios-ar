@@ -3,147 +3,100 @@
         "zone": "Catamarca",
         "items": [
             {
-                "id": "catamarca-valle-viejo",
-                "name": "Radio Valle Viejo",
-                "web": "http://radiovalleviejo.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/668/radio-valle-viejo.eef259ed.jpg",
-                "city": "s Radio Valle Viejo",
-                "province": "Catamarca",
-                "stream": "https://stm2.livecastradio.com:9379/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "catamarca-esperanza",
-                "name": "Radio Esperanza",
+                "id": "catamarca-esperanza-fm-963",
+                "name": "Esperanza FM 96.3",
                 "web": "https://radioesperanza.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/154/radio-esperanza-argentina.15c94ba8.png",
-                "city": "s Radio Esperanza",
+                "city": "Tinogasta",
                 "province": "Catamarca",
                 "stream": "https://streaming.escuchanosonline.com:7249/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad",
+                    "musica"
                 ]
             },
             {
-                "id": "catamarca-jornada",
-                "name": "Radio Jornada",
+                "id": "catamarca-jornada-fm-919",
+                "name": "Jornada FM 91.9",
                 "web": "https://jornadaonline.com/radio",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/258/radio-jornada.dc3c93be.png",
-                "city": "s Radio Jornada",
+                "city": "San Fernando del Valle de Catamarca",
                 "province": "Catamarca",
                 "stream": "https://streaming1.locucionar.com/proxy/radiojornada?mp=/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad"
                 ]
             },
             {
-                "id": "catamarca-ancasti",
-                "name": "Radio Ancasti",
+                "id": "catamarca-ancasti-fm-985",
+                "name": "Ancasti FM 98.5",
                 "web": "http://www.radioancasti.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/956/radio-ancasti.3e40f746.jpg",
-                "city": "s Radio Ancasti",
+                "city": "Ancasti",
                 "province": "Catamarca",
                 "stream": "https://streaming.gostreaming.com.ar:10957/;/;type=mp3",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "musica"
                 ]
             },
             {
-                "id": "catamarca-misiones",
-                "name": "Radio Misiones",
+                "id": "catamarca-misiones-fm-1041",
+                "name": "Misiones FM 104.1",
                 "web": "https://www.noticiasdel6.com/radiomisiones/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/204/radio-misiones.9ca6f8ef.png",
-                "city": "s Radio Misiones",
+                "city": "San Fernando del Valle de Catamarca",
                 "province": "Catamarca",
                 "stream": "https://iptv.ixfo.com.ar:30443/icecast/radiomisiones/playlist.m3u8",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "noticias"
                 ]
             },
             {
-                "id": "catamarca-flow-catamarca",
-                "name": "Radio Flow Catamarca",
+                "id": "catamarca-flow-catamarca-online",
+                "name": "Flow Catamarca Online",
                 "web": "https://radio-en-vivo7.cms.webnode.page",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/610/radio-flow-catamarca.157dce2b.png",
-                "city": "s Radio Flow Catamarca",
+                "city": "San Fernando del Valle de Catamarca",
                 "province": "Catamarca",
                 "stream": "https://servidor1.miradiolive.com:7127/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "musica",
+                    "folklore"
                 ]
             },
             {
                 "id": "catamarca-poman-989",
-                "name": "Radio Pomán 98.9",
+                "name": "Pomán FM 98.9",
                 "web": "http://www.fmpoman.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/768/radio-poman-989.5b04293e.png",
-                "city": "s Radio Pomán 98.9",
+                "city": "San Fernando del Valle de Catamarca",
                 "province": "Catamarca",
                 "stream": "https://masservidor.net:8694/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "noticias"
                 ]
             },
             {
                 "id": "catamarca-activa-955-fm",
-                "name": "Radio Activa 95.5 FM",
+                "name": "Activa FM 95.5",
                 "web": "http://activaweb.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/477/radio-activa-955-fm.2a385470.png",
-                "city": "s Radio Activa 95.5 FM",
+                "city": "San Fernando del Valle de Catamarca",
                 "province": "Catamarca",
-                "stream": "",
+                "stream": "https://radiolinksmedia.net.ar/7088/;",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad"
                 ]
             },
             {
-                "id": "catamarca-show-santa-maria",
-                "name": "Radio Show Santa Maria",
-                "web": "",
+                "id": "catamarca-show-santa-maria-online",
+                "name": "Show Santa Maria Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/779/radio-show-santa-maria.443c2810.jpg",
-                "city": "s Radio Show Santa Maria",
+                "city": "San Fernando del Valle de Catamarca",
                 "province": "Catamarca",
                 "stream": "https://stream.zeno.fm/0pmkbbs8uwzuv",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "musica"
                 ]
             },
             {
@@ -151,7 +104,7 @@
                 "name": "Radio Municipal Chumbicha",
                 "web": "https://municipalfmradio.wixsite.com/radiomunicipal",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/272/radio-municipal-chumbicha.30bdd945.png",
-                "city": "s Radio Municipal Chumbicha",
+                "city": "Null--",
                 "province": "Catamarca",
                 "stream": "https://streaming.radiosenlinea.com.ar:8676/",
                 "categories": [
@@ -163,45 +116,13 @@
                 ]
             },
             {
-                "id": "catamarca-la-red",
-                "name": "La Red AM 910",
-                "web": "https://www.lared.am/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/295/la-red-am.94f5f9be.jpg",
-                "city": "s La Red AM 910",
+                "id": "catamarca-valle-viejo",
+                "name": "Radio Valle Viejo",
+                "web": "http://radiovalleviejo.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/668/radio-valle-viejo.eef259ed.jpg",
+                "city": "null--",
                 "province": "Catamarca",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "catamarca-con-vos",
-                "name": "Radio Con Vos 89.9",
-                "web": "http://radioconvos.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg",
-                "city": "s Radio Con Vos 89.9",
-                "province": "Catamarca",
-                "stream": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "catamarca-rivadavia",
-                "name": "Radio Rivadavia 630 AM",
-                "web": "http://rivadavia.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg",
-                "city": "s Radio Rivadavia 630 AM",
-                "province": "Catamarca",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
+                "stream": "https://stm2.livecastradio.com:9379/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
                     "noticias",
