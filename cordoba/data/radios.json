@@ -3,131 +3,101 @@
         "zone": "Córdoba",
         "items": [
             {
-                "id": "cordoba-rock-and-pop",
-                "name": "FM Rock & Pop",
-                "web": "http://fmrockandpop.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/744/fm-rock-pop.32c080fd.jpg",
-                "city": "s FM Rock & Pop",
-                "province": "Córdoba",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC_SC",
+                "id": "cordoba-genesis-903-fm",
+                "name": "Genesis 90.3 FM",
+                "web": "https://fmgenesis.esenvivo.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/297/radio-genesis-903-fm.530b2c95.png",
+                "city": "Huinca Renancó",
+                "province": "Cordoba",
+                "stream": "https://radiosar.com:9494/;",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad"
                 ]
             },
             {
-                "id": "cordoba-popular",
+                "id": "cordoba-popular-923-fm",
                 "name": "La Popu FM 92.3",
                 "web": "https://www.lapopu.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/776/radio-popular.46869649.png",
-                "city": "s La Popu FM 92.3",
+                "city": "Ciudad de Córdoba",
                 "province": "Córdoba",
                 "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/lapopu_SC?dist=c3-web",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad"
                 ]
             },
             {
-                "id": "cordoba-maria-argentina",
-                "name": "Radio María Argentina",
+                "id": "cordoba-maria-argentina-935-fm",
+                "name": "María FM 93.5",
                 "web": "http://radiomaria.org.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/067/radio-maria-argentina.aa953425.jpg",
-                "city": "s Radio María Argentina",
+                "city": "Ciudad de Córdoba",
                 "province": "Córdoba",
                 "stream": "https://dreamsiteradiocp6.com/proxy/argentinarm?mp=/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "religion"
                 ]
             },
             {
                 "id": "cordoba-suquia-965-fm",
-                "name": "Radio Suquia 96.5 FM",
+                "name": "Suquia FM 96.5",
                 "web": "https://www.suquia.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/351/radio-suquia-965-fm.e191457c.png",
-                "city": "s Radio Suquia 96.5 FM",
+                "city": "Ciudad de Córdoba",
                 "province": "Córdoba",
                 "stream": "https://streaming01.shockmedia.com.ar:10945/;",
                 "categories": [
-                    "antiguas / éxitos clásicos",
                     "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad"
                 ]
             },
             {
                 "id": "cordoba-nacional-cordoba-870-am",
-                "name": "Radio Nacional - Córdoba 870 AM",
+                "name": "Nacional AM 870",
                 "web": "http://www.radionacional.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/944/radio-nacional-cordoba-870-am.e644bd78.png",
-                "city": "s Radio Nacional - Córdoba 870 AM",
+                "city": "Ciudad de Córdoba",
                 "province": "Córdoba",
                 "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad1",
                 "categories": [
-                    "antiguas / éxitos clásicos",
                     "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad"
                 ]
             },
             {
                 "id": "cordoba-maxima-893",
-                "name": "Radio Maxima 89.3",
+                "name": "Maxima FM 89.3",
                 "web": "http://www.radiomaxima893.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/487/radio-maxima-893.068a7d72.png",
-                "city": "s Radio Maxima 89.3",
+                "city": "Ciudad de Córdoba",
                 "province": "Córdoba",
                 "stream": "https://streaming01.shockmedia.com.ar:10743/;stream.mp4?ver=152385",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad"
                 ]
             },
             {
-                "id": "cordoba-cristiana-el-camino",
-                "name": "Radio Cristiana el Camino",
+                "id": "cordoba-cristiana-el-camino-online",
+                "name": "Radio Cristiana el Camino Online",
                 "web": "http://www.radiocristianaelcamino.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/050/radio-cristiana-el-camino.167641f1.jpg",
-                "city": "s Radio Cristiana el Camino",
+                "city": "Córdoba",
                 "province": "Córdoba",
                 "stream": "https://genexservicios.com:2000/stream/radiocristianaelcamino/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "religion"
                 ]
             },
             {
-                "id": "cordoba-universidad-de-cordoba",
-                "name": "Radio Universidad de Córdoba",
+                "id": "cordoba-universidad-de-cordoba-580-am",
+                "name": "Universidad de Córdoba AM 580",
                 "web": "http://www.cba24n.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/045/radio-universidad-de-cordoba.98a23a06.jpg",
-                "city": "s Radio Universidad de Córdoba",
+                "city": "Ciudad de Córdoba",
                 "province": "Córdoba",
                 "stream": "https://radios.solumedia.com:10976/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad"
                 ]
             },
             {
@@ -170,54 +140,6 @@
                 "city": "s Radio Impacto 99.3 FM",
                 "province": "Córdoba",
                 "stream": "https://sonic.cloudstreaming.eu/9992/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "cordoba-la-red",
-                "name": "La Red AM 910",
-                "web": "https://www.lared.am/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/295/la-red-am.94f5f9be.jpg",
-                "city": "s La Red AM 910",
-                "province": "Córdoba",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "cordoba-con-vos",
-                "name": "Radio Con Vos 89.9",
-                "web": "http://radioconvos.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg",
-                "city": "s Radio Con Vos 89.9",
-                "province": "Córdoba",
-                "stream": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "cordoba-rivadavia",
-                "name": "Radio Rivadavia 630 AM",
-                "web": "http://rivadavia.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg",
-                "city": "s Radio Rivadavia 630 AM",
-                "province": "Córdoba",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
                 "categories": [
                     "antiguas / éxitos clásicos",
                     "noticias",

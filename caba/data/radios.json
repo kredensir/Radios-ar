@@ -746,47 +746,11 @@
                 "name": "Radio Clásica",
                 "web": "https://radioclasica.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/798/radio-clasica-argentina.604642bc.png",
-                "city": "s Radio Clásica",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "city": "CABA",
+                "province": "Buenos Aires",
                 "stream": "https://radioclasica.radioca.st/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-latina-1011",
-                "name": "Radio Latina 101.1",
-                "web": "https://www.latina101.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/207/latina-fm-1011.8f6ab5a0.png",
-                "city": "s Radio Latina 101.1",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-colonia-550-am",
-                "name": "AM 550 Radio Colonia",
-                "web": "https://www.radiocolonia.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/400/radio-colonia-550-am.be137ebc.jpg",
-                "city": "s AM 550 Radio Colonia",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA_SC",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "musica"
                 ]
             },
             {
@@ -795,14 +759,11 @@
                 "web": "https://berlin1077.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/750/radio-berlin.f0b3ecae.png",
                 "city": "s Berlin 107.7",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://s8.stweb.tv/berlin/live/playlist.m3u8",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "musica",
+                    "comunidad"
                 ]
             },
             {
@@ -811,7 +772,7 @@
                 "web": "http://radioldtime.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/973/radio-old-time.3eb2e8f0.png",
                 "city": "s Radio Old Time",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://cdn.instream.audio:9588/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -827,7 +788,7 @@
                 "web": "http://www.radiolondon.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/150/radio-london.7b628ed1.png",
                 "city": "s Radio London",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://dattavolt.com/8056/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -843,7 +804,7 @@
                 "web": "http://www.buenosaires.gob.ar/radiociudad",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/428/radio-ciudad-am-1110.770dd31f.png",
                 "city": "s Radio Ciudad AM 1110",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -859,7 +820,7 @@
                 "web": "http://am840generalbelgrano.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/134/radio-general-belgrano-840-am.b0b03388.jpg",
                 "city": "s Radio General Belgrano 840 AM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streaming2.locucionar.com/proxy/radiowall1?mp=/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -875,7 +836,7 @@
                 "web": "https://radioelmundoam1070.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/787/radio-el-mundo.b17f3b4e.jpg",
                 "city": "s Radio El Mundo",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streaming.escuchanosonline.com:7118/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -891,7 +852,7 @@
                 "web": "http://www.radioparty.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/418/radio-party-argentina.d494aeb3.jpg",
                 "city": "s Radio Party",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.serviciowebdigital.com/8754/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -907,7 +868,7 @@
                 "web": "http://www.radiosucesos.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/619/radio-sucesos-1047-fm.d33836a1.jpg",
                 "city": "s Radio Sucesos 104.7 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://ssl.dainusradio.com/shoutcast2/2341/stream/1/",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -923,7 +884,7 @@
                 "web": "https://edithsartelli.wixsite.com/radiomirlo",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/190/radio-mirlo.05aeeca7.jpg",
                 "city": "s Radio Mirlo",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/e6hg6b5vn7zuv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -939,7 +900,7 @@
                 "web": "http://www.radioandrock.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/820/radio-and-rock.2535923f.png",
                 "city": "s Radio And Rock Network",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://server.radiostreaming.com.ar/8324/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -955,7 +916,7 @@
                 "web": "https://www.uba.ar/ubaradio",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/784/radio-uba.89d750aa.jpg",
                 "city": "s Radio UBA",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://radiostreaming.rec.uba.ar:8000/LiveRadioUBA",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -971,7 +932,7 @@
                 "web": "http://radiofolklore90.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/922/radio-folklore-90-online.a59e8b9e.png",
                 "city": "s Radio Folklore 90 Online",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -987,7 +948,7 @@
                 "web": "http://www.radiohoracioguarany.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/035/radio-horacio-guarany.a41d9842.png",
                 "city": "s Radio Horacio Guarany",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1003,7 +964,7 @@
                 "web": "http://www.radiouno.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/657/radio-uno-1031-fm.39b4232d.png",
                 "city": "s Radio Uno 103.1 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/UNOAAC_SC",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1019,7 +980,7 @@
                 "web": "http://www.lu4radio.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/290/radio-patagonia-argentina-630-am.d61e2334.png",
                 "city": "s Radio Patagonia Argentina 630 AM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad42",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1035,7 +996,7 @@
                 "web": "http://radioparadiseonline.radioporweb.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/846/radio-paradise-argentina.763626e1.jpg",
                 "city": "s Radio Paradise",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/umpncb876nhvv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1051,7 +1012,7 @@
                 "web": "http://www.radiozonica.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/731/radio-zonica.b2b19fa4.png",
                 "city": "s Radio Zonica",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streamlky.alsolnet.com/radiozonica",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1067,7 +1028,7 @@
                 "web": "http://www.universidadcalf.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/113/radio-universidad-calf.08f4ca87.png",
                 "city": "s Radio Universidad CALF",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://cdn.instream.audio/:9032/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1083,7 +1044,7 @@
                 "web": "http://www.radiolaluna.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/635/radio-la-luna-1140-am.111959be.jpg",
                 "city": "s Radio La Luna 1140 AM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1099,7 +1060,7 @@
                 "web": "https://radiomix.online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/081/radio-mix-internacional.21f8184f.png",
                 "city": "s Radio Mix Internacional",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/0w3hgpmh6gruv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1115,7 +1076,7 @@
                 "web": "http://www.radiocaff.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/848/radio-caff.ff601671.jpg",
                 "city": "s Radio CAFF",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streams.radio.co/s6b80bc417/listen",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1131,7 +1092,7 @@
                 "web": "http://www.radiorepublica.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/439/radio-republica.7ae6e563.jpg",
                 "city": "s Radio Republica",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://radios.streamingdha.com.ar/8032/;",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1147,7 +1108,7 @@
                 "web": "https://www.pagina12.com.ar/malena",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/486/radio-malena-891-fm.8925dcf4.png",
                 "city": "s Radio Malena",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/MALENAAAC_SC",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1163,7 +1124,7 @@
                 "web": "http://radioactiva979.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/398/radio-activa-979-fm.00277845.jpg",
                 "city": "s Radio Activa 97.9 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1179,7 +1140,7 @@
                 "web": "https://radiovidacelestial.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/022/radio-vida-celestial.7fd5b0ba.png",
                 "city": "s Radio Vida Celestial",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streaming.radiosenlinea.com.ar/8752/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1195,7 +1156,7 @@
                 "web": "http://www.radioexitoenvivo.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/393/radio-exito-945-fm.b27055f9.png",
                 "city": "s Radio Exito 94.5 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1211,7 +1172,7 @@
                 "web": "http://www.motivodevida.org",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/225/radio-motivo-de-vida-online.01b6eb5a.png",
                 "city": "s Radio Motivo de Vida Online",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://paginas.moisespaulino.com:8017/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1227,7 +1188,7 @@
                 "web": "",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/975/radio-nipper-123-hit-master.bdb96c2d.png",
                 "city": "s Radio Nipper 123 Hit Master",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/qfafga65h18uv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1243,7 +1204,7 @@
                 "web": "https://sonicaargentina.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/711/radio-mega-star.91433e63.jpg",
                 "city": "s Radio Mega Star",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1259,7 +1220,7 @@
                 "web": "http://www.radiofmlider.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/465/radio-lider-1021.fee2a45a.png",
                 "city": "s Radio Lider 102.1",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streaming01.shockmedia.com.ar:9588/;",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1275,7 +1236,7 @@
                 "web": "http://www.estacionlatidos.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/973/radio-latidos-argentina.2b8a6116.jpg",
                 "city": "s Estacion Latidos Agentina",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streaming01.shockmedia.com.ar:10822/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1291,7 +1252,7 @@
                 "web": "",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/883/radio-rasec-tropical.2acc1522.jpg",
                 "city": "s Radio Rasec Tropical",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/nxtguevdmtzuv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1307,7 +1268,7 @@
                 "web": "http://www.radioteleredemption.cf/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/478/radio-tele-redemption.f80778a8.png",
                 "city": "s Radio Tele Redemption",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream-179.zeno.fm/eus45p5tty8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJldXM0NXA1dHR5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ill3NDhmX0dHUlhxYzFySW9VQlVuVmciLCJpYXQiOjE3NzUzMzY3NDAsImV4cCI6MTc3NTMzNjgwMH0.ORdyfMcXcnPJX9kYtsTCl90Td7AqXU792etIdj-eBoE",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1323,7 +1284,7 @@
                 "web": "https://noticiasconenfoque.com.ar/envivo/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/285/radio-almafuerte.225b0900.jpg",
                 "city": "s Radio Almafuerte",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/xe0meztbh0hvv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1339,7 +1300,7 @@
                 "web": "https://cadenaeco1530.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/876/radio-cadena-eco.32aa15a1.png",
                 "city": "s Radio Cadena Eco 1530 AM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zenolive.com/svszp3e072quv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1355,7 +1316,7 @@
                 "web": "http://radio26dejulio.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/729/radio-26-de-julio.e10bf056.png",
                 "city": "s Radio 26 De Julio",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://server4.hostradios.com:8062/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1371,7 +1332,7 @@
                 "web": "https://radiorayo.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/138/radio-rayo.1cb305a0.png",
                 "city": "s Radio Rayo",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1387,7 +1348,7 @@
                 "web": "http://www.radiografica.org.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/085/radio-grafica.faa5b14f.png",
                 "city": "s Radio Gráfica",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1403,7 +1364,7 @@
                 "web": "",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/241/radio-poder-y-fuego-argentina.86e204eb.png",
                 "city": "s Radio Poder y Fuego Argentina",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream-57.zeno.fm/8hqqfgy88e9uv?zs=FlJYFu3IR6mSR-5Wd58YUA",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1419,7 +1380,7 @@
                 "web": "https://radioinsignia.blogspot.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/157/radio-insignia.f0aa4c8d.jpg",
                 "city": "s Radio Insignia",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/f4zwmhrykxduv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1435,7 +1396,7 @@
                 "web": "http://radiolu11.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/742/radio-lu11-1280-am.4fc079f7.jpg",
                 "city": "s Radio LU11 1280 AM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1451,7 +1412,7 @@
                 "web": "http://www.radiolimiteargentina.blogspot.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/953/radio-limite-argentina.3926a35b.jpg",
                 "city": "s Radio Limite Argentina",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream-176.zeno.fm/g04wpx4mdwzuv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1467,7 +1428,7 @@
                 "web": "https://radio.ovemanradio.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/854/radio-oveman.f0be0507.png",
                 "city": "s Radio Oveman",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream2.cibersoft.com:8200/;",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1483,7 +1444,7 @@
                 "web": "https://ute.org.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/607/radio-ute.d021ab7f.png",
                 "city": "s UTE Digital",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://server.streamcasthd.com/8174/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1499,7 +1460,7 @@
                 "web": "http://www.impactobol.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/285/radio-impacto.01c6542d.jpg",
                 "city": "s Radio Impacto",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streaming.radiosenlinea.com.ar/8428/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1515,7 +1476,7 @@
                 "web": "https://redencion-celetial-argen.blogspot.com/?m=1",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/758/radio-redencion-celestial.b17cadf3.jpg",
                 "city": "s Radio Redención Celestial Argentina",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/n492ca5wdg0uv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1531,7 +1492,7 @@
                 "web": "https://www.radioportenia.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/810/radio-portena.25907c31.png",
                 "city": "s Radio Porteña",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://us9.maindigitalstream.com/ssl/7194",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1547,7 +1508,7 @@
                 "web": "http://www.911fm.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/236/radio-911-fm.4957e1b8.png",
                 "city": "s Radio 911 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1563,7 +1524,7 @@
                 "web": "https://radiocastelar.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/345/radio-castelar-argentina1.6668f826.jpg",
                 "city": "s Radio Castelar Argentina",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://radiocastelar.com.ar/hls/stream.m3u8",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1579,7 +1540,7 @@
                 "web": "https://radiobanfield24hs.blogspot.com/2019/02/online.html",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/069/radio-banfield.59aff09f.jpg",
                 "city": "s Radio Banfield",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/t28gfvqy8rquv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1595,7 +1556,7 @@
                 "web": "",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/289/radio-tiempo-de-sembradores.9df809d2.jpg",
                 "city": "s Radio Tiempo de Sembradores",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/qyqesbymns8uv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1611,7 +1572,7 @@
                 "web": "",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/894/radio-ln.d58537e1.png",
                 "city": "s Radio LN",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/ew76ftdrv4zuv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1627,7 +1588,7 @@
                 "web": "https://www.radiolagloriadedios.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/292/radio-online-la-gloria-de-dios.ece848cb.png",
                 "city": "s Radio Online - La Gloria de Dios",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/hek2t0k13yzuv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1643,7 +1604,7 @@
                 "web": "http://www.koradi.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/555/radio-koradi-espanol.a6bd611a.png",
                 "city": "s Radio Koradi",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://sc.host-live.com/8210/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1659,7 +1620,7 @@
                 "web": "https://radiomusic24hs.wixsite.com/web-site",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/759/radio-music-argentina.c15cfd1a.jpg",
                 "city": "s Radio Music",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream-171.zeno.fm/kpe8291pcq8uv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1675,7 +1636,7 @@
                 "web": "https://xat.com/RADIOFMAYERNOMAS",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/923/radio-fm-ayer-nomas.1aeae41e.png",
                 "city": "s Radio FM Ayer Nomas",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://technoplayerserver.net/8142/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1691,7 +1652,7 @@
                 "web": "https://generalrodriguez.gob.ar/radio/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/089/radio-municipal-general-rodriguez.5fa09f37.png",
                 "city": "s Radio Municipal General Rodríguez",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1707,7 +1668,7 @@
                 "web": "http://www.radiopunto.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/339/radio-punto2.b7a6dca4.jpg",
                 "city": "s Radio Punto",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1723,7 +1684,7 @@
                 "web": "https://radiomontecastro.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/423/radio-monte-castro.4e75de4c.png",
                 "city": "s Radio Monte Castro",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/7ap5ph1271zuv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1739,7 +1700,7 @@
                 "web": "https://unyka.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/119/radio-unyka-argentina.43c3956e.png",
                 "city": "s Radio Unyka Argentina",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://app0102.sonicpanelradio.com:8094/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1755,7 +1716,7 @@
                 "web": "http://www.radiosolcatamarca.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/644/radio-sol-catamarca.8e4a7409.jpg",
                 "city": "s Radio Sol Catamarca",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://miestacion.turadioonline.com.ar/8040/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1771,7 +1732,7 @@
                 "web": "http://www.sal.org.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/077/radio-salco.4fbc5a5b.png",
                 "city": "s Radio SALCO",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1787,7 +1748,7 @@
                 "web": "http://radioconsentido.blogspot.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/220/radio-con-sentido.641200f5.png",
                 "city": "s Radio con Sentido",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/3yqamafdy38uv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1803,7 +1764,7 @@
                 "web": "https://radiolamadriguera.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/452/radio-la-madriguera.1634c93e.jpg",
                 "city": "s Radio La Madriguera",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream-179.zeno.fm/hngda9okejavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJobmdkYTlva2VqYXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InNNQ3k5dE83U3ltclVDT1U3OU9wWVEiLCJpYXQiOjE3NTM5NzQyMTQsImV4cCI6MTc1Mzk3NDI3NH0.GbrPzvlYAARYQzI2l-",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1819,7 +1780,7 @@
                 "web": "https://tropicallatina.radio12345.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/352/radio-tropical-latina.a1c557fd.jpg",
                 "city": "s tropicallatrina",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1835,7 +1796,7 @@
                 "web": "http://radiocaput.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/228/radio-caput.10dd6655.png",
                 "city": "s Radio Caput",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://radiostreamingserver.com.ar/proxy/caput/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1851,7 +1812,7 @@
                 "web": "https://sonidosindicaldeli.wixsite.com/my-site-1",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/275/radio-sonido-sindical-del-interior.9bc35c0a.jpg",
                 "city": "s Radio La Voz Sindical del Interior",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/7bgy2bahoh5vv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1867,7 +1828,7 @@
                 "web": "http://radioandriiuus.net/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/634/radio-andriiuus.5527ee79.png",
                 "city": "s Radio Andriiuus",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streaming01.shockmedia.com.ar:10954/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1883,7 +1844,7 @@
                 "web": "https://radioayerza.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/485/radio-ayerza.9847aabb.jpg",
                 "city": "s Radio Ayerza Argentina",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://radioayerza.com.ar/hls/stream.m3u8",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1899,7 +1860,7 @@
                 "web": "http://www.radiosur.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/225/radio-sur-fm.67cdda27.jpg",
                 "city": "s Radio Sur FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://01.solumedia.com.ar:8020/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1915,7 +1876,7 @@
                 "web": "https://radiocuruzu.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/878/radio-curuzu-online.ec83b1a2.png",
                 "city": "s Radio Curuzu Online",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streaming.evolucionstreaming.com:10872/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1931,7 +1892,7 @@
                 "web": "https://radiogamaeninternet.webnode.page/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/382/radio-gama.c0ddcb9c.png",
                 "city": "s Radio Gama",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream-174.zeno.fm/a31p9p451xhvv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1947,7 +1908,7 @@
                 "web": "https://guazon071.wixsite.com/radiosonicasalto",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/854/radio-sonica-salto.868ddc30.png",
                 "city": "s Radio Sonica Salto",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/0184wy5pwy8uv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1963,7 +1924,7 @@
                 "web": "https://xat.com/radio_amistadyamor",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/543/radio-amor-y-amistad.5f3f5207.png",
                 "city": "s Radio Amor Y Amistad",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://mx.hdaudiostreaming.com:7000/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1979,7 +1940,7 @@
                 "web": "http://www.radiomixer.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/679/radio-mixer-897-fm.25d2e581.jpg",
                 "city": "s Radio Mixer 89.7 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://server.laradio.online/proxy/mauro_carlini?1726907887851=&mp=/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -1995,7 +1956,7 @@
                 "web": "http://www.radiocdoarg.org",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/378/radio-cdo-argentina.8cb5cea3.png",
                 "city": "s Radio CDO Argentina",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://servidor1.miradiolive.com/8332/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2011,7 +1972,7 @@
                 "web": "http://www.conexionberazategui.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/512/radio-conexion-berazategui.a03c1082.png",
                 "city": "s Radio Conexión Berazategui",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://live20.bozztv.com/giatv/giatv-ConexionBerazategui/ConexionBerazategui/playlist.m3u8",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2027,7 +1988,7 @@
                 "web": "http://www.radiobendecidos.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/224/radio-bendecidos-argentina.2726aef6.jpg",
                 "city": "s Radio Bendecidos Argentina",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/gu1te5kfgrruv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2043,7 +2004,7 @@
                 "web": "http://www.radioasamblea.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/027/radio-asamblea.e20bf87a.png",
                 "city": "s Radio Asamblea",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://server.laradio.online/proxy/ricardo_lopez?mp=/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2059,7 +2020,7 @@
                 "web": "https://brisaenfermeros.com/radio/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/230/radio-brisa.97113bdf.png",
                 "city": "s Radio Brisa",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://c5.radioboss.fm:8331/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2075,7 +2036,7 @@
                 "web": "http://www.radiosayro.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/264/radio-sayro.1a0275e9.png",
                 "city": "s Radio Sayro",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/sureqkp1ng8uv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2091,7 +2052,7 @@
                 "web": "http://www.fmsudamericana.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/780/radio-sudamericana-1023-fm.e9435c86.png",
                 "city": "s Radio Sudamericana 102.3 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streamingraddios.online/proxy/fmsudame?mp=/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2107,7 +2068,7 @@
                 "web": "https://radioamadeus.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/003/radio-cultura-musical-1049-fm.74722d4f.jpg",
                 "city": "s Radio Amadeus 91.1 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streamingradiolinks.xyz/8484/;",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2123,7 +2084,7 @@
                 "web": "https://www.radiobaires.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/819/radio-baires.f9fc49cf.png",
                 "city": "s Radio Baires",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.radiobaires.com/live",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2139,7 +2100,7 @@
                 "web": "http://radiocapital.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/875/radio-capital-argentina.2ec11214.png",
                 "city": "s Radio Capital",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://sonic.host-live.com/8284/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2155,7 +2116,7 @@
                 "web": "https://benditatrinidadargentina.net/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/719/radio-bendita-trinidad-argentina.eff6e5c8.png",
                 "city": "s Radio Bendita Trinidad Argentina",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://masstreaming.online/8020/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2171,7 +2132,7 @@
                 "web": "http://www.radiodelasnaciones.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/372/radio-de-las-naciones.217a149e.png",
                 "city": "s Radio de las Naciones",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "http://69.64.46.123:8057/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2187,7 +2148,7 @@
                 "web": "http://moreno.gob.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/104/radio-publica-de-moreno.f8572fc1.jpg",
                 "city": "s Radio Publica de Moreno",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/gmy2pr34dchvv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2203,7 +2164,7 @@
                 "web": "https://radiomelodyjujuy.wixsite.com/melodyjujuy",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/669/radio-melody-jujuy.bd00ebfc.jpg",
                 "city": "s Radio Melody Jujuy",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream-175.zeno.fm/u9nm6fb84c9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1OW5tNmZiODRjOXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidjdnZlo3ckJUVXl4QXU5cXBhcTlhQSIsImlhdCI6MTc1NDA0MjkxNywiZXhwIjoxNzU0MDQyOTc3fQ.vMb",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2219,7 +2180,7 @@
                 "web": "https://www.tecnica941.evolucionstreaming.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/794/radio-tecnica-941-fm.054369a8.png",
                 "city": "s Radio Técnica 94.1 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streaming.evolucionstreaming.com:10912/",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2235,7 +2196,7 @@
                 "web": "https://radioecoalem.blogspot.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/959/radio-eco-alem.05f91088.png",
                 "city": "s Radio ECO Alem",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/qrwc6mdkewzuv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2251,7 +2212,7 @@
                 "web": "",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/565/radio-traso.a4ce6263.jpg",
                 "city": "s Radio TRASO",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/362zy6uve48uv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2267,7 +2228,7 @@
                 "web": "https://www.instagram.com/radiofolkloreargentino",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/803/radio-folklore-argentino.945b38d7.jpg",
                 "city": "s Radio Folklore Argentino",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream-176.zeno.fm/doxppi62q8itv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2283,7 +2244,7 @@
                 "web": "https://radioclickdifusionesonline.weebly.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/628/radio-click.ada739fd.png",
                 "city": "s Radio Click",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://az03.streaminghd.net.ar/8128/;",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2299,7 +2260,7 @@
                 "web": "http://endirecto.com.ar/radioelfogon",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/780/radio-el-fogon.84c859a7.png",
                 "city": "s Radio El Fogon",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://server4.hostradios.com/8104/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2315,7 +2276,7 @@
                 "web": "https://radioalabanzascristianas.wordpress.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/845/radio-aalabanzas-cristianas.a9e10be9.jpg",
                 "city": "s Radio Aalabanzas Cristianas",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/ounivomkch3tv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2331,7 +2292,7 @@
                 "web": "https://tani-radio.blogspot.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/274/radio-tani.2c2d1bf0.png",
                 "city": "s Radio Taní",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://autodj.nvradios.com/listen/radio_tan%C3%AD/radio.mp3",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2347,7 +2308,7 @@
                 "web": "https://retroclasic.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/466/radio-nova-isidro-casanova-bs-as.9e34624e.jpg",
                 "city": "s Radio Nova Isidro Casanova Bs As",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2363,7 +2324,7 @@
                 "web": "https://radiocondortropical.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/269/radio-condor-tropical.9a3fbe65.png",
                 "city": "s Radio Condor Tropical",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/he51gc4pimwtv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2379,7 +2340,7 @@
                 "web": "http://lamil35.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/700/radio-lamil35.550802fb.png",
                 "city": "s Radio Lamil35",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream-173.zeno.fm/ysrb314dvhruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5c3JiMzE0ZHZocnV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjktRFM0VGZHUVFLUFRXZm9mbWxITVEiLCJpYXQiOjE3NTM5NTY0NTIsImV4cCI6MTc1Mzk1NjUxMn0.EY8DcYRZV0KDXfbi42",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2395,7 +2356,7 @@
                 "web": "https://www.radioinvox.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/430/radio-invox.4a9590a1.jpg",
                 "city": "s Radio Invox",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/b5q3dbe6zuquv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2411,7 +2372,7 @@
                 "web": "https://www.radioexito.streamaudiousa.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/858/radio-exito-argentina.45293ae8.jpg",
                 "city": "s Radio Éxito",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://radioenlinea.click:8070/radio.mp3",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2427,7 +2388,7 @@
                 "web": "https://diarioimagen.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/867/radio-gen.8187d6c4.jpg",
                 "city": "s Radio Gen",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streaming5.locucionar.com/proxy/radiogen919?mp=/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2443,7 +2404,7 @@
                 "web": "http://www.argentina.gob.ar/gendarmeria",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/403/radio-centinela.223af72f.jpg",
                 "city": "s Radio Centinela",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://01.solumedia.com.ar:8050/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2459,7 +2420,7 @@
                 "web": "http://www.radiojcb.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/028/radio-jcb-1049-fm.5e739049.jpg",
                 "city": "s Radio JCB 104.9 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2475,7 +2436,7 @@
                 "web": "http://radiodjvid81.blogspot.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/263/radio-djvid81.45f7452a.png",
                 "city": "s Radio djvid81",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/4mn9vm30hd0uv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2491,7 +2452,7 @@
                 "web": "https://www.radioplanetatoerra.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/583/radio-planeta-tierra.56b0ef37.jpg",
                 "city": "s Radio Planeta Tierra",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream-176.zeno.fm/4uy5c9gao2hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0dXk1YzlnYW8yaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUy14VkFSeXRSTjZtdm1ZVFFXQjlHZyIsImlhdCI6MTc1NDA0NTUxMCwiZXhwIjoxNzU0MDQ1NTcwfQ.Hw7",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2507,7 +2468,7 @@
                 "web": "https://www.fmriolapaz.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/523/radio-rio-1061-fm.1ddb6f30.png",
                 "city": "s Radio Rio 106.1 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streaming.escuchanosonline.com/8260/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2523,7 +2484,7 @@
                 "web": "http://www.eurowebdigital.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/069/radio-ba89-fm.a40b4606.jpg",
                 "city": "s Radio BA89 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/xqstrbp8qm0uv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2539,7 +2500,7 @@
                 "web": "http://www.radioboomshow.mex.tl",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/178/radio-boom-show.41655445.jpg",
                 "city": "s Radio Boom Show",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream-175.zeno.fm/zp0417paza0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6cDA0MTdwYXphMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU0wydUpxRjNSaVdISTR6Y19pN29PQSIsImlhdCI6MTc1NDAzODc3MSwiZXhwIjoxNzU0MDM4ODMxfQ._RF",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2555,7 +2516,7 @@
                 "web": "http://espaciopower.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/199/radio-power-909-fm.ce33cefb.jpg",
                 "city": "s Radio Power 90.9 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2571,7 +2532,7 @@
                 "web": "",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/541/radio-ory.4dc7e89f.jpg",
                 "city": "s Radio Ory",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/17ufeevg1hhvv",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2587,7 +2548,7 @@
                 "web": "https://radio.eduneu.ar/public/radio4",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/226/radio-eduneu-4.19985a17.png",
                 "city": "s Radio Eduneu 4",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://radio.eduneu.ar:8030/transmision.mp3",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2603,7 +2564,7 @@
                 "web": "https://nehuenradio.wordpress.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/299/radio-nehuen.dcb27cea.jpg",
                 "city": "s Radio Nehuén",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://emisora.zonasinergia.com:7144/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2619,7 +2580,7 @@
                 "web": "",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/809/radio-siete-punto-cero.20df330f.png",
                 "city": "s Radio Siete Punto Cero",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://streaming.radiosenlinea.com.ar:10484/;",
                 "categories": [
                     "antiguas / éxitos clásicos",
@@ -2635,7 +2596,7 @@
                 "web": "https://radio-comrade.webcindario.com/ESCUCHAR.html",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/549/radio-comrade.e178f04d.png",
                 "city": "s Radio Comrade",
-                "province": "Ciudad Autónoma de Buenos Aires",
+                "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/uruxsz7ckr6tv",
                 "categories": [
                     "antiguas / éxitos clásicos",

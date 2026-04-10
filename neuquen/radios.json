@@ -1,0 +1,211 @@
+[
+    {
+        "zone": "Neuquén",
+        "items": [
+            {
+                "id": "neuquen-exito-argentina",
+                "name": "Éxito Argentina",
+                "web": "https://www.radioexitoargentina.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/109/radio-exito-argentina-argentina.3b717be2.png",
+                "city": "s Éxito Argentina",
+                "province": "Neuquén",
+                "stream": "https://stream.zeno.fm/quanyln72hpvv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "neuquen-fun-1001-fm",
+                "name": "Fun 100.1 FM",
+                "web": "http://www.radiofun.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/386/radio-fun-1001-fm.23116806.png",
+                "city": "s Fun 100.1 FM",
+                "province": "Neuquén",
+                "stream": "https://streaming2.locucionar.com/proxy/radiofun?mp=/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "neuquen-y-television-del-neuquen",
+                "name": "Radio y Televisión del Neuquén",
+                "web": "http://www.rtnweb.gob.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/124/radio-y-television-del-neuquen.eb65f0a9.png",
+                "city": "s Radio y Televisión del Neuquén",
+                "province": "Neuquén",
+                "stream": "https://media.neuquen.gov.ar/rtn/radio/playlist.m3u8",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "neuquen-mas-web",
+                "name": "Mas Web",
+                "web": "https://www.rmw.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/364/radio-mas-web.f0f3a07f.jpg",
+                "city": "s Mas Web",
+                "province": "Neuquén",
+                "stream": "https://streaming6.locucionar.com:24412/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "neuquen-red-el-sol",
+                "name": "Red El Sol",
+                "web": "https://www.redelsol.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/171/radio-red-el-sol.ef08c6d2.png",
+                "city": "s Red El Sol",
+                "province": "Neuquén",
+                "stream": "https://frontend.radiohdvivo.com/redsolnqn/live",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "neuquen-fm-lider-955",
+                "name": "FM Líder 95.5",
+                "web": "http://www.cutralcoalinstante.com/radio",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/357/radio-fm-lider-955.c9a12ca3.png",
+                "city": "s FM Líder 95.5",
+                "province": "Neuquén",
+                "stream": "https://c14.radioboss.fm:8367/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "neuquen-neuquem",
+                "name": "Neuquem",
+                "web": "https://radioneuquem.blogspot.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/827/radio-neuquem.af9cdc37.png",
+                "city": "s Neuquem",
+                "province": "Neuquén",
+                "stream": "https://sonicpanel.oficialserver.com/8358/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "neuquen-varsovia",
+                "name": "Varsovia",
+                "web": "https://radiovarsovia.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/596/radio-varsovia.3ec16c67.png",
+                "city": "s Varsovia",
+                "province": "Neuquén",
+                "stream": "https://server.streamcasthd.com/8124/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "neuquen-vibra",
+                "name": "Vibra Buta Ranquil (NqN)",
+                "web": "",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/678/radio-vibra.6bd6d4b0.png",
+                "city": "s Vibra Buta Ranquil",
+                "province": "Neuquén",
+                "stream": "https://stream.zeno.fm/4k5dc6n7cy8uv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "neuquen-municipal-zapala",
+                "name": "Municipal Zapala",
+                "web": "https://prensazapala.wixsite.com/radiomunicipalzapala",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/977/radio-municipal-zapala.3608d982.png",
+                "city": "s Municipal Zapala",
+                "province": "Neuquén",
+                "stream": "https://stream.zeno.fm/xqqgtnf1w7zuv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "neuquen-la-red",
+                "name": "La Red AM 910",
+                "web": "https://www.lared.am/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/295/la-red-am.94f5f9be.jpg",
+                "city": "s La Red AM 910",
+                "province": "Neuquén",
+                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "neuquen-con-vos",
+                "name": "Con Vos 89.9",
+                "web": "http://radioconvos.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg",
+                "city": "s Con Vos 89.9",
+                "province": "Neuquén",
+                "stream": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "neuquen-rivadavia",
+                "name": "Rivadavia 630 AM",
+                "web": "http://rivadavia.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg",
+                "city": "s Rivadavia 630 AM",
+                "province": "Neuquén",
+                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            }
+        ]
+    }
+]
