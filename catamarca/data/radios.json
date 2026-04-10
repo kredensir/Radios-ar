@@ -3,15 +3,14 @@
         "zone": "Catamarca",
         "items": [
             {
-                "id": "catamarca-esperanza-fm-963",
-                "name": "Esperanza FM 96.3",
-                "web": "https://radioesperanza.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/154/radio-esperanza-argentina.15c94ba8.png",
-                "city": "Tinogasta",
+                "id": "catamarca-ancasti-fm-985",
+                "name": "Ancasti FM 98.5",
+                "web": "http://www.radioancasti.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/956/radio-ancasti.3e40f746.jpg",
+                "city": "Ancasti",
                 "province": "Catamarca",
-                "stream": "https://streaming.escuchanosonline.com:7249/stream",
+                "stream": "https://streaming.gostreaming.com.ar:10957/;/;type=mp3",
                 "categories": [
-                    "comunidad",
                     "musica"
                 ]
             },
@@ -25,18 +24,6 @@
                 "stream": "https://streaming1.locucionar.com/proxy/radiojornada?mp=/stream",
                 "categories": [
                     "comunidad"
-                ]
-            },
-            {
-                "id": "catamarca-ancasti-fm-985",
-                "name": "Ancasti FM 98.5",
-                "web": "http://www.radioancasti.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/956/radio-ancasti.3e40f746.jpg",
-                "city": "Ancasti",
-                "province": "Catamarca",
-                "stream": "https://streaming.gostreaming.com.ar:10957/;/;type=mp3",
-                "categories": [
-                    "musica"
                 ]
             },
             {
@@ -100,35 +87,16 @@
                 ]
             },
             {
-                "id": "catamarca-municipal-chumbicha",
-                "name": "Radio Municipal Chumbicha",
-                "web": "https://municipalfmradio.wixsite.com/radiomunicipal",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/272/radio-municipal-chumbicha.30bdd945.png",
-                "city": "Null--",
+                "id": "catamarca-esperanza-fm-963",
+                "name": "Esperanza FM 96.3",
+                "web": "https://radioesperanza.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/154/radio-esperanza-argentina.15c94ba8.png",
+                "city": "Tinogasta",
                 "province": "Catamarca",
-                "stream": "https://streaming.radiosenlinea.com.ar:8676/",
+                "stream": "https://streaming.escuchanosonline.com:7249/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "catamarca-valle-viejo",
-                "name": "Radio Valle Viejo",
-                "web": "http://radiovalleviejo.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/668/radio-valle-viejo.eef259ed.jpg",
-                "city": "null--",
-                "province": "Catamarca",
-                "stream": "https://stm2.livecastradio.com:9379/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad",
+                    "musica"
                 ]
             }
         ]
