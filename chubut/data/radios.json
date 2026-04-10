@@ -15,31 +15,6 @@
                 ]
             },
             {
-                "id": "chubut-3-cadena-patagonia-am-780",
-                "name": "3 Cadena Patagonia AM 780",
-                "web": "https://radio3cadenapatagonia.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/399/radio-3-cadena-patagonia.504c8055.jpg",
-                "city": "Trelew",
-                "province": "Chubut",
-                "stream": "https://radio01.ferozo.com/proxy/ra01000981?mp=/stream",
-                "categories": [
-                    "noticias"
-                ]
-            },
-            {
-                "id": "chubut-comunitaria-malvinas-fm-1017",
-                "name": "Comunitaria Malvinas FM 101.7",
-                "web": "https://radiocomunitariamalvinas.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/088/radio-comunitaria-malvinas.0d2a7595.jpg",
-                "city": "Gobernador Costa",
-                "province": "Chubut",
-                "stream": "https://streaming01.shockmedia.com.ar:10698/stream",
-                "categories": [
-                    "comunidad",
-                    "noticias"
-                ]
-            },
-            {
                 "id": "chubut-austral-fm-949",
                 "name": "Austral FM 94.9",
                 "web": "https://www.radioaustral.ar",
@@ -49,17 +24,6 @@
                 "stream": "https://miestacion.turadioonline.com.ar/8154/stream",
                 "categories": [
                     "musica",
-                    "noticias"
-                ]
-            },
-            {
-                "id": "chubut-mas-1019",
-                "name": "Radio Más 101.9",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/404/radio-mas-1019.b88733f8.png",
-                "city": "Puerto Madryn",
-                "province": "Chubut",
-                "stream": "https://edge02.radiohdvivo.com/tresprods/mas",
-                "categories": [
                     "noticias"
                 ]
             },
@@ -76,15 +40,16 @@
                 ]
             },
             {
-                "id": "chubut-jerusalen-1019-fm",
-                "name": "Jerusalen FM 101.9",
-                "web": "http://www.radiojerusalen.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/722/radio-jerusalen-1019-fm.6baffd37.png",
-                "city": "Puerto Madryn",
+                "id": "chubut-comunitaria-malvinas-fm-1017",
+                "name": "Comunitaria Malvinas FM 101.7",
+                "web": "https://radiocomunitariamalvinas.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/088/radio-comunitaria-malvinas.0d2a7595.jpg",
+                "city": "Gobernador Costa",
                 "province": "Chubut",
-                "stream": "https://genexservicios.com:8004/;",
+                "stream": "https://streaming01.shockmedia.com.ar:10698/stream",
                 "categories": [
-                    "religion"
+                    "comunidad",
+                    "noticias"
                 ]
             },
             {
@@ -100,8 +65,31 @@
                 ]
             },
             {
-                "id": "chubut-rovina",
-                "name": "Rovina",
+                "id": "chubut-mas-1019",
+                "name": "Radio Más FM 101.9",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/404/radio-mas-1019.b88733f8.png",
+                "city": "Puerto Madryn",
+                "province": "Chubut",
+                "stream": "https://edge02.radiohdvivo.com/tresprods/mas",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "chubut-jerusalen-1019-fm",
+                "name": "Jerusalen FM 101.9",
+                "web": "http://www.radiojerusalen.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/722/radio-jerusalen-1019-fm.6baffd37.png",
+                "city": "Puerto Madryn",
+                "province": "Chubut",
+                "stream": "https://genexservicios.com:8004/;",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "chubut-rovina-995-fm",
+                "name": "Rovina FM 99.5",
                 "web": "https://www.radiorovina.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/096/radio-rovina.902fd2ea.jpg",
                 "city": "Trelew",
@@ -112,99 +100,15 @@
                 ]
             },
             {
-                "id": "chubut-mas-1045-fm",
-                "name": "Clara Online",
-                "web": "http://www.escuchamas.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/846/radio-mas-1045-fm.326f0598.png",
-                "city": "Null--",
+                "id": "chubut-3-cadena-patagonia-am-780",
+                "name": "3 Cadena Patagonia AM 780",
+                "web": "https://radio3cadenapatagonia.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/399/radio-3-cadena-patagonia.504c8055.jpg",
+                "city": "Trelew",
                 "province": "Chubut",
-                "stream": "",
+                "stream": "https://radio01.ferozo.com/proxy/ra01000981?mp=/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chubut-conexion-web-tv",
-                "name": "Radio Conexion Web Tv",
-                "web": "https://radioconexionwebtv.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/398/radio-conexion-web-tv.1a398946.png",
-                "city": "Null",
-                "province": "Chubut",
-                "stream": "https://emisora.zonasinergia.com/8146/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chubut-1002",
-                "name": "Radio 100",
-                "web": "",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/509/radio-1002.e383f3d5.png",
-                "city": "Null",
-                "province": "Chubut",
-                "stream": "https://radio100.stream.laut.fm:8080/radio100",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chubut-baires-90s",
-                "name": "Radio Baires 90s",
-                "web": "https://www.radiobaires.com/baires90s/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/955/radio-baires-90s.c065647d.png",
-                "city": "Null--",
-                "province": "Chubut",
-                "stream": "https://stream90s.radiobaires.com/live",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chubut-baires-80s",
-                "name": "Radio Baires 80s",
-                "web": "https://www.radiobaires.com/baires80s/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/956/radio-baires-80s.d5bf7817.png",
-                "city": "Null--",
-                "province": "Chubut",
-                "stream": "https://stream80s.radiobaires.com/live",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chubut-sueno",
-                "name": "Radio Sueño",
-                "web": "https://radiosuenio.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/220/radio-sueno.e96de7f1.png",
-                "city": "Null",
-                "province": "Chubut",
-                "stream": "https://streaming01.radiosenlinea.com.ar/8250/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "noticias"
                 ]
             }
         ]
