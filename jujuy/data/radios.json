@@ -228,6 +228,18 @@
                 ]
             },
             {
+                "id": "jujuy-viltipco-963",
+                "name": "Viltipoco FM 96.3",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/quebrada/963-logo-viltipoco.webp",
+                "city": "Purmamarca",
+                "province": "Jujuy",
+                "stream": "https://srv1.streamingradio.ar/8040/stream",
+                "categories": [
+                    "folclore",
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "jujuy-que-buena-949",
                 "name": "Que Buena FM 94.9",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/quebrada/949-logo-que-buena.webp",
