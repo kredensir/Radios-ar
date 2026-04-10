@@ -3,211 +3,77 @@
         "zone": "Chaco",
         "items": [
             {
-                "id": "chaco-mocovi",
-                "name": "Radio Mocoví",
-                "web": "https://mocovi.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/620/radio-mocovi.f877e05e.jpg",
-                "city": "s Radio Mocoví",
-                "province": "Chaco",
-                "stream": "https://cdn.instream.audio/:9548/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chaco-club",
-                "name": "Radio Club",
-                "web": "http://www.radioclub.com.ar",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/794/radio-club-argentina.e3e54d90.jpg",
-                "city": "s Radio Club",
-                "province": "Chaco",
-                "stream": "https://radios.solumedia.com/6004/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chaco-futuro-989-fm",
-                "name": "Radio Futuro 98.9 FM",
-                "web": "https://fmfuturo989.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/748/radio-futuro-989-fm.91967b2e.png",
-                "city": "s Radio Futuro 98.9 FM",
-                "province": "Chaco",
-                "stream": "",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chaco-redimidos-por-jesus",
-                "name": "Radio Redimidos Por Jesús",
+                "id": "chaco-redimidos-por-jesus-online",
+                "name": "Redimidos Por Jesús Online",
                 "web": "https://www.radioredimidosporjesus.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/927/radio-redimidos-por-jesus.3242c717.png",
-                "city": "s Radio Redimidos Por Jesús",
+                "city": "Chaco",
                 "province": "Chaco",
                 "stream": "https://a9.asurahosting.com:8920/radio.mp3",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "religion"
                 ]
             },
             {
-                "id": "chaco-amistad",
-                "name": "Radio Amistad",
+                "id": "chaco-amistad-online",
+                "name": "Amistad Online",
                 "web": "http://www.radioamistad.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/239/radio-amistad-argentina.318ce881.jpg",
-                "city": "s Radio Amistad",
+                "city": "Chaco",
                 "province": "Chaco",
                 "stream": "https://a2.asurahosting.com:6580/radio.mp3",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "musica"
                 ]
             },
             {
                 "id": "chaco-fan-969-fm",
-                "name": "Radio Fan 96.9 FM",
+                "name": "Fan FM 96.9",
                 "web": "http://www.lafanradio.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/408/radio-fan-969-fm.b0b4e097.jpg",
-                "city": "s Radio Fan 96.9 FM",
+                "city": "Juan José Castelli",
                 "province": "Chaco",
                 "stream": "https://streaming5.locucionar.com/proxy/radiofan969?mp=/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "chaco-club-online",
+                "name": "Club Online",
+                "web": "http://www.radioclub.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/794/radio-club-argentina.e3e54d90.jpg",
+                "city": "Resistencia",
+                "province": "Chaco",
+                "stream": "https://radios.solumedia.com/6004/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "chaco-futuro-989-fm",
+                "name": "Futuro FM 98.9",
+                "web": "https://fmfuturo989.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/748/radio-futuro-989-fm.91967b2e.png",
+                "city": "Sáenz Peña",
+                "province": "Chaco",
+                "stream": "https://edge04.radiohdvivo.com/futuro989",
+                "categories": [
+                    "comunidad",
+                    "noticias"
                 ]
             },
             {
                 "id": "chaco-online-saenz-pena",
-                "name": "Radio Online Saenz Peña",
+                "name": "Saenz Peña Online",
                 "web": "https://radioonline18.blogspot.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/099/radio-online-saenz-pena.0a81878d.jpg",
-                "city": "s Radio Online Saenz Peña",
+                "city": "Sáenz Peña",
                 "province": "Chaco",
                 "stream": "https://stream.zeno.fm/sexyeampbrzuv",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chaco-genesis-903-fm",
-                "name": "Radio Genesis 90.3 FM",
-                "web": "https://fmgenesis.esenvivo.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/297/radio-genesis-903-fm.530b2c95.png",
-                "city": "s Radio Genesis 90.3 FM",
-                "province": "Chaco",
-                "stream": "",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chaco-magica",
-                "name": "Radio Magica",
-                "web": "http://www.radiomagica999.com.ar",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/332/radio-magica.0ab0d143.jpg",
-                "city": "s Radio Magica",
-                "province": "Chaco",
-                "stream": "https://streaming5.locucionar.com/proxy/radiomagica999?mp=/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chaco-sembradora",
-                "name": "Radio Sembradora",
-                "web": "https://radiosembradora.weebly.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/423/radio-sembradora.2cca0817.jpg",
-                "city": "s Radio Sembradora",
-                "province": "Chaco",
-                "stream": "https://stream.zeno.fm/q747e6x7ytzuv",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chaco-la-red",
-                "name": "La Red AM 910",
-                "web": "https://www.lared.am/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/295/la-red-am.94f5f9be.jpg",
-                "city": "s La Red AM 910",
-                "province": "Chaco",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chaco-con-vos",
-                "name": "Radio Con Vos 89.9",
-                "web": "http://radioconvos.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg",
-                "city": "s Radio Con Vos 89.9",
-                "province": "Chaco",
-                "stream": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "chaco-rivadavia",
-                "name": "Radio Rivadavia 630 AM",
-                "web": "http://rivadavia.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg",
-                "city": "s Radio Rivadavia 630 AM",
-                "province": "Chaco",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad",
+                    "noticias"
                 ]
             }
         ]
