@@ -442,7 +442,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1011-logo-latina.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
-                "stream": "https://stream-gtlc.telecentro.net.ar/hls/radiolatinahls/0/playlist.m3u8",
+                "stream": "https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8",
                 "categories": [
                     "musica"
                 ]
@@ -742,182 +742,6 @@
         "zone": "Ciudad Autónoma de Buenos Aires",
         "items": [
             {
-                "id": "ciudad-autonoma-de-buenos-aires-la-red",
-                "name": "La Red AM 910",
-                "web": "https://www.lared.am/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/295/la-red-am.94f5f9be.jpg",
-                "city": "s La Red AM 910",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-rock-and-pop",
-                "name": "FM Rock & Pop",
-                "web": "http://fmrockandpop.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/744/fm-rock-pop.32c080fd.jpg",
-                "city": "s FM Rock & Pop",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC_SC",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-rivadavia",
-                "name": "Radio Rivadavia 630 AM",
-                "web": "http://rivadavia.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg",
-                "city": "s Radio Rivadavia 630 AM",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-blue",
-                "name": "Blue FM",
-                "web": "https://bluefm.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/283/blue-fm.16451e69.jpg",
-                "city": "s Blue FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC_SC?pname=TDSdk",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-con-vos",
-                "name": "Radio Con Vos 89.9",
-                "web": "http://radioconvos.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg",
-                "city": "s Radio Con Vos 89.9",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-10",
-                "name": "Radio 10",
-                "web": "http://radio10.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/837/radio-10-argentina.81f75ed5.png",
-                "city": "s Radio 10",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-disney",
-                "name": "Radio Disney Latinoamérica",
-                "web": "https://radiodisney.disneylatino.com/argentina",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/941/radio-disney-latinoamerica.732b64f4.png",
-                "city": "s Radio Disney Latinoamérica",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-continental",
-                "name": "Continental 590 AM",
-                "web": "https://www.continental.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/464/continental.275b128d.png",
-                "city": "s Continental 590 AM",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-pop-1015",
-                "name": "POP Radio 101.5",
-                "web": "https://www.radiopop.fm/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/836/pop-1015-fm.f58421ff.png",
-                "city": "s POP Radio 101.5",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://popradio.stweb.tv/popradio/live/playlist.m3u8",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-metro-951",
-                "name": "Metro 95.1",
-                "web": "http://www.metro951.com/home/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/284/metro-951.14def48c.jpg",
-                "city": "s Metro 95.1",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC_SC?dist=triton-widget&pname=tdwidgets",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-vale-975",
-                "name": "Vale 97.5",
-                "web": "https://www.radiovale.fm/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/840/radio-vale-975-fm.b167bdb2.png",
-                "city": "s Vale 97.5",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://vale.stweb.tv/vale/live/playlist.m3u8",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
                 "id": "ciudad-autonoma-de-buenos-aires-clasica",
                 "name": "Radio Clásica",
                 "web": "https://radioclasica.com.ar",
@@ -925,70 +749,6 @@
                 "city": "s Radio Clásica",
                 "province": "Ciudad Autónoma de Buenos Aires",
                 "stream": "https://radioclasica.radioca.st/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-splendid",
-                "name": "Splendid AM 990",
-                "web": "https://la990.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/671/la-990.00ab0ac1.jpg",
-                "city": "s Splendid AM 990",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/AM990AAC_SC",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-one",
-                "name": "Radio One 103.7",
-                "web": "https://www.radioone1037.fm/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/839/radio-one-1037-fm.a28f0058.png",
-                "city": "s Radio One 103.7",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://one.stweb.tv/one/live/playlist.m3u8",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-del-plata",
-                "name": "Radio Del Plata 1030 AM",
-                "web": "https://www.amdelplata.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/999/radio-del-plata-1030-am.49a5c062.png",
-                "city": "s Radio Del Plata 1030 AM",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://stream-177.zeno.fm/sxpab7rt7hhvv",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-nacional-folklorica-fm-987",
-                "name": "Radio Nacional Folklórica FM 98.7",
-                "web": "http://www.radionacional.com.ar/nacional-folklorica/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/473/radio-nacional-folklorica-fm-987.e644bd78.png",
-                "city": "s Radio Nacional Folklórica FM 98.7",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38",
                 "categories": [
                     "antiguas / éxitos clásicos",
                     "noticias",
@@ -1030,22 +790,6 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-nacional-rock-937-fm",
-                "name": "Radio Nacional Rock 93.7 FM",
-                "web": "http://www.radionacional.com.ar/nacionalrock/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/474/radio-nacional-rock-937-fm.ef5a14dd.png",
-                "city": "s Radio Nacional Rock 93.7 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad39",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
                 "id": "ciudad-autonoma-de-buenos-aires-berlin",
                 "name": "Berlin 107.7",
                 "web": "https://berlin1077.com/",
@@ -1053,118 +797,6 @@
                 "city": "s Berlin 107.7",
                 "province": "Ciudad Autónoma de Buenos Aires",
                 "stream": "https://s8.stweb.tv/berlin/live/playlist.m3u8",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-folclorisimo-1410-am",
-                "name": "Radio Folclorisimo 1410 AM",
-                "web": "http://radiofolclorisimo.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/917/radio-folclorisimo-1410-am.621cc70c.png",
-                "city": "Radio Folclorisimo 1410 AM es una reconocida emisora de radio en Argentina que se dedica a la música folclórica y a las tradiciones culturales de nuestro país. Transmitiendo en la frecuencia AM 1410",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://streamlky.alsolnet.com/radiofolclorisimohd",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-la-red",
-                "name": "La Red AM 910",
-                "web": "https://www.lared.am/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/295/la-red-am.94f5f9be.jpg",
-                "city": "s La Red AM 910",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-con-vos",
-                "name": "Radio Con Vos 89.9",
-                "web": "http://radioconvos.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg",
-                "city": "s Radio Con Vos 89.9",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-rivadavia",
-                "name": "Radio Rivadavia 630 AM",
-                "web": "http://rivadavia.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg",
-                "city": "s Radio Rivadavia 630 AM",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-argentina-570-am",
-                "name": "Radio Argentina 570 AM",
-                "web": "http://am570radioargentina.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/931/radio-argentina-570-am.b7fd0221.png",
-                "city": "s Radio Argentina 570 AM",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://server.laradio.online:15224/live.mp3",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-nacional-folklorica-987-fm",
-                "name": "Radio Nacional Folklorica 98.7 FM",
-                "web": "https://www.radionacional.com.ar/nacional-folklorica-1/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/252/radio-nacional-folklorica-987-fm.c5a3065f.png",
-                "city": "s Radio Nacional Folklorica 98.7 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad38",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-cooperativa-770-am",
-                "name": "Radio República AM 770",
-                "web": "https://r770.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/811/radio-cooperativa-770-am.1472ae9a.png",
-                "city": "s Radio República AM 770",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://cdn.instream.audio:9582/stream",
                 "categories": [
                     "antiguas / éxitos clásicos",
                     "noticias",
@@ -1206,22 +838,6 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-buenos-aires",
-                "name": "Radio Buenos Aires",
-                "web": "http://www.radiobuenosaires.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/369/radio-buenos-aires.07af8329.png",
-                "city": "s Radio Buenos Aires",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://nl.digitalrm.pt:8052/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
                 "id": "ciudad-autonoma-de-buenos-aires-ciudad-am-1110",
                 "name": "Radio Ciudad AM 1110",
                 "web": "http://www.buenosaires.gob.ar/radiociudad",
@@ -1245,22 +861,6 @@
                 "city": "s Radio General Belgrano 840 AM",
                 "province": "Ciudad Autónoma de Buenos Aires",
                 "stream": "https://streaming2.locucionar.com/proxy/radiowall1?mp=/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-cultura-979-fm",
-                "name": "Radio Cultura 97.9 FM",
-                "web": "http://fmradiocultura.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/060/radio-cultura-979-fm.a4f240af.jpg",
-                "city": "s Radio Cultura 97.9 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "",
                 "categories": [
                     "antiguas / éxitos clásicos",
                     "noticias",
@@ -1462,22 +1062,6 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-la-quebrada",
-                "name": "Radio La Quebrada",
-                "web": "https://radiolaquebrada.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/591/radio-la-quebrada.5fb7ef90.jpg",
-                "city": "s Radio La Quebrada",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
                 "id": "ciudad-autonoma-de-buenos-aires-universidad-calf",
                 "name": "Radio Universidad CALF",
                 "web": "http://www.universidadcalf.com/",
@@ -1549,22 +1133,6 @@
                 "city": "s Radio Republica",
                 "province": "Ciudad Autónoma de Buenos Aires",
                 "stream": "https://radios.streamingdha.com.ar/8032/;",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-jai-963-fm",
-                "name": "Radio Jai 96.3 FM",
-                "web": "https://www.radiojai.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/529/radio-jai-963-fm.11c7bd1e.jpg",
-                "city": "s Radio Jai 96.3 FM",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8",
                 "categories": [
                     "antiguas / éxitos clásicos",
                     "noticias",
@@ -2669,38 +2237,6 @@
                 "city": "s Radio ECO Alem",
                 "province": "Ciudad Autónoma de Buenos Aires",
                 "stream": "https://stream.zeno.fm/qrwc6mdkewzuv",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-baires-90s",
-                "name": "Radio Baires 90s",
-                "web": "https://www.radiobaires.com/baires90s/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/955/radio-baires-90s.c065647d.png",
-                "city": "s Radio Baires 90s",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://stream90s.radiobaires.com/live",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-baires-80s",
-                "name": "Radio Baires 80s",
-                "web": "https://www.radiobaires.com/baires80s/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/956/radio-baires-80s.d5bf7817.png",
-                "city": "s Radio Baires 80s",
-                "province": "Ciudad Autónoma de Buenos Aires",
-                "stream": "https://stream80s.radiobaires.com/live",
                 "categories": [
                     "antiguas / éxitos clásicos",
                     "noticias",
