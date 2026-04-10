@@ -3,155 +3,11 @@
         "zone": "Salta",
         "items": [
             {
-                "id": "salta-fm-cumbiambera",
-                "name": "FM Cumbiambera",
-                "web": "http://www.fmcumbiambera.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/951/radio-fm-cumbiambera.ec0e29a3.jpg",
-                "city": "FM Cumbiambera",
-                "province": "Salta",
-                "stream": "https://streaming1.locucionar.com/proxy/fmcumbiambera?mp=/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-salta-840-am",
-                "name": "Salta 840 AM",
-                "web": "http://www.radiosalta.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/683/radio-salta-840-am.55779197.jpg",
-                "city": "Salta 840 AM",
-                "province": "Salta",
-                "stream": "https://01.solumedia.com.ar:8348/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-deejay-fm",
-                "name": "Deejay FM",
-                "web": "http://radiodeejay.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/314/radio-deejay-fm-argentina.b916bb7d.jpg",
-                "city": "s Deejay FM",
-                "province": "Salta",
-                "stream": "https://streaming.radiosenlinea.com.ar:10648/stream/stream/?nocache=1&type=http",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-guemes-1063-fm",
-                "name": "Güemes 106.3 FM",
-                "web": "http://www.radioguemes.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/259/radio-guemes-1063-fm.53c6bc54.jpg",
-                "city": "s Güemes 106.3 FM",
-                "province": "Salta",
-                "stream": "https://server.radiostreaming.com.ar/8564/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-sophia-995-fm",
-                "name": "Sophia 99.5 FM",
-                "web": "http://www.radiosophia.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/424/radio-sophia-995-fm.7b2e3a1e.jpg",
-                "city": "s Sophia 99.5 FM",
-                "province": "Salta",
-                "stream": "https://cdn.instream.audio/:9136/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-noticias-881",
-                "name": "Noticias 88.1",
-                "web": "https://www.fmnoticias881.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/677/radio-noticias-881.2b8dbe61.png",
-                "city": "s Noticias 88.1",
-                "province": "Salta",
-                "stream": "https://stream.radioinfo.ar/p/8062/stream/?nocache=1&type=http",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-vida-yrigoyen",
-                "name": "Vida Yrigoyen",
-                "web": "https://zeno.fm/radio/radio-vida0h1rxc8af2zuv/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/119/radio-vida-yrigoyen.bb5b0c38.jpg",
-                "city": "s Vida Yrigoyen",
-                "province": "Salta",
-                "stream": "https://stream.zeno.fm/0ub92c8af2zuv",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-gen3",
-                "name": "Gen",
-                "web": "https://radiogensalta.wixsite.com/radio-gen-salta",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/394/radio-gen1.b1ceea32.jpg",
-                "city": "s Gen",
-                "province": "Salta",
-                "stream": "https://streaming3.locucionar.com/proxy/radiogensalta?mp=/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-uno-991-fm",
-                "name": "Uno 99.1 FM",
-                "web": "http://www.radiounohits.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/091/radio-uno-991-fm.2bf815d2.jpg",
-                "city": "s Uno 99.1 FM",
-                "province": "Salta",
-                "stream": "https://radios.solumedia.com:6380/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
                 "id": "salta-municipal-fm-cachi",
                 "name": "Municipal FM Cachi",
                 "web": "https://radiocachi.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/899/radio-municipal-fm-cachi.840aab52.png",
-                "city": "s Municipal FM Cachi",
+                "city": "Cachi",
                 "province": "Salta",
                 "stream": "https://ssl.radiosnethosting.com/index.php?port=8148",
                 "categories": [
@@ -159,19 +15,124 @@
                 ]
             },
             {
+                "id": "salta-uno-991-fm",
+                "name": "Uno FM 99.1",
+                "web": "http://www.radiounohits.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/091/radio-uno-991-fm.2bf815d2.jpg",
+                "city": "Chabás",
+                "province": "Santa Fe",
+                "stream": "https://radios.solumedia.com:6380/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-belgrano-fm-941",
+                "name": "Belgrano FM 94.1",
+                "web": "http://www.radiobelgranoembarcacion.blogspot.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/374/radio-belgrano-embarcacion.178e3af1.jpg",
+                "city": "Embarcación",
+                "province": "Salta",
+                "stream": "https://media.nexxisgroup.com.ar/listen/embarcacionbelgrano/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "salta-fm-cumbiambera-889",
+                "name": "FM Cumbiambera FM 88.9",
+                "web": "http://www.fmcumbiambera.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/951/radio-fm-cumbiambera.ec0e29a3.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://streaming1.locucionar.com/proxy/fmcumbiambera?mp=/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-salta-840-am",
+                "name": "Salta AM 840",
+                "web": "http://www.radiosalta.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/683/radio-salta-840-am.55779197.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://01.solumedia.com.ar:8348/stream",
+                "categories": [
+                    "folklore"
+                ]
+            },
+            {
+                "id": "salta-deejay-fm-925",
+                "name": "Deejay FM 92.5",
+                "web": "http://radiodeejay.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/314/radio-deejay-fm-argentina.b916bb7d.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://streaming.radiosenlinea.com.ar:10648/stream/stream/?nocache=1&type=http",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "salta-guemes-1063-fm",
+                "name": "Güemes FM 106.3",
+                "web": "http://www.radioguemes.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/259/radio-guemes-1063-fm.53c6bc54.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://server.radiostreaming.com.ar/8564/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "salta-sophia-995-fm",
+                "name": "Sophia FM 99.5",
+                "web": "http://www.radiosophia.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/424/radio-sophia-995-fm.7b2e3a1e.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://cdn.instream.audio/:9136/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-noticias-881",
+                "name": "Noticias FM 88.1",
+                "web": "https://www.fmnoticias881.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/677/radio-noticias-881.2b8dbe61.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://stream.radioinfo.ar/p/8062/stream/?nocache=1&type=http",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "salta-gen3-online",
+                "name": "Gen Online",
+                "web": "https://radiogensalta.wixsite.com/radio-gen-salta",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/394/radio-gen1.b1ceea32.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://streaming3.locucionar.com/proxy/radiogensalta?mp=/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
                 "id": "salta-ucasal-991-fm",
-                "name": "Ucasal 99.1 FM",
+                "name": "Ucasal FM 99.1",
                 "web": "http://myradiostream.com/clavefm",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/329/radio-ucasal-991-fm.c5f6c14a.png",
-                "city": "s Ucasal 99.1 FM",
+                "city": "Ciudad de Salta",
                 "province": "Salta",
                 "stream": "https://radios.solumedia.com/6352/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad"
                 ]
             },
             {
@@ -179,295 +140,137 @@
                 "name": "90.9 FM",
                 "web": "http://www.radio909.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/459/radio-909-fm.78545076.png",
-                "city": "s 90.9 FM",
+                "city": "Ciudad de Salta",
                 "province": "Salta",
                 "stream": "https://streaming01.shockmedia.com.ar/9178/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "musica",
+                    "comunidad"
                 ]
             },
             {
-                "id": "salta-belgrano-embarcacion",
-                "name": "Belgrano Embarcacion",
-                "web": "http://www.radiobelgranoembarcacion.blogspot.com.ar",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/374/radio-belgrano-embarcacion.178e3af1.jpg",
-                "city": "s Belgrano Embarcacion",
+                "id": "salta-nexo-fm-939",
+                "name": "Nexo FM 93.9",
+                "web": "http://nexofm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/470/radio-nexo.d333d277.jpg",
+                "city": "Ciudad de Salta",
                 "province": "Salta",
-                "stream": "https://media.nexxisgroup.com.ar/listen/embarcacionbelgrano/stream",
+                "stream": "http://52.9.150.45:8005/;",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad",
+                    "musica"
                 ]
             },
             {
-                "id": "salta-tropico-online",
-                "name": "Del Tropico",
+                "id": "salta-tropico-fm-881",
+                "name": "Tropico FM 88.1",
                 "web": "http://www.radiodeltropico.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/725/radio-tropico-online.27464116.jpg",
-                "city": "s Del Tropico",
+                "city": "Ciudad de Salta",
                 "province": "Salta",
                 "stream": "https://streaming01.shockmedia.com.ar/8810/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-intercom-fm",
-                "name": "InterCom FM",
-                "web": "http://www.radiointercom.com.ar",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/811/radio-intercom-fm.4b92325b.png",
-                "city": "s InterCom FM",
-                "province": "Salta",
-                "stream": "https://stream.radioinfo.ar/p/9010/stream/?nocache=1&type=http",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-ciudad-oran",
-                "name": "Ciudad Oran",
-                "web": "https://radiociudadoran.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/384/radio-ciudad-oran.828a7adf.jpg",
-                "city": "s Ciudad Oran",
-                "province": "Salta",
-                "stream": "https://radios.solumedia.com/6430/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-vos-901-fm",
-                "name": "Vos 90.1 FM",
-                "web": "http://vosyla901.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/770/radio-vos-901-fm.586c96b4.png",
-                "city": "s Vos 90.1 FM",
-                "province": "Salta",
-                "stream": "https://streaming01.shockmedia.com.ar/9200/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-show-salta",
-                "name": "Show Salta",
-                "web": "https://radioshowsalta.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/073/radio-show-salta.2d96cd99.png",
-                "city": "s Show Salta",
-                "province": "Salta",
-                "stream": "https://frontend.radiohdvivo.com/radioshowsalta/live",
                 "categories": [
                     "musica"
                 ]
             },
             {
-                "id": "salta-gen2",
-                "name": "GEN",
-                "web": "https://radiogensalta.wixsite.com/radio-gen-salta",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/377/radio-gen-argentina.42ed91ff.png",
-                "city": "s GEN",
+                "id": "salta-intercom-fm-983",
+                "name": "InterCom FM 98.3",
+                "web": "http://www.radiointercom.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/811/radio-intercom-fm.4b92325b.png",
+                "city": "Ciudad de Salta",
                 "province": "Salta",
-                "stream": "https://streaming3.locucionar.com/proxy/radiogensalta?mp=/stream",
+                "stream": "https://stream.radioinfo.ar/p/9010/stream/?nocache=1&type=http",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad",
+                    "musica"
                 ]
             },
             {
-                "id": "salta-oran",
-                "name": "Orán",
-                "web": "http://www.radiooran.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/572/radio-oran.f02aed5b.jpg",
-                "city": "s Orán",
+                "id": "salta-vos-901-fm",
+                "name": "Vos FM 90.1",
+                "web": "http://vosyla901.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/770/radio-vos-901-fm.586c96b4.png",
+                "city": "Ciudad de Salta",
                 "province": "Salta",
-                "stream": "https://stream-174.zeno.fm/gfbaoc56onntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnZmJhb2M1Nm9ubnR2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUDNXTXNFelpTMW16eDBhZW5OcGVTQSIsImlhdCI6MTc1NDM5MDczMywiZXhwIjoxNzU0MzkwNzkzfQ.xlb",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-bit-1035-fm",
-                "name": "Bit 103.5 FM",
-                "web": "",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/315/radio-bit-1035-fm.d743615f.png",
-                "city": "s Bit 103.5 FM",
-                "province": "Salta",
-                "stream": "https://streaming.escuchanosonline.com:7305/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-fm-alba",
-                "name": "FM Alba",
-                "web": "http://www.fmalba.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/648/radio-fm-alba.074ce87e.png",
-                "city": "s FM Alba",
-                "province": "Salta",
-                "stream": "https://server6.hostradios.com/8246/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-uno-salta-fm",
-                "name": "Uno Salta FM",
-                "web": "http://www.radiounosalta.com.ar",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/561/radio-uno-salta-fm.a585f17e.png",
-                "city": "s Uno Salta FM",
-                "province": "Salta",
-                "stream": "https://centova.questreaming.com:4080/;",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-cadena-noa",
-                "name": "Cadena Noa",
-                "web": "https://www.radiocadenanoa.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/573/radio-cadena-noa.bcf63cac.jpg",
-                "city": "s Cadena Noa",
-                "province": "Salta",
-                "stream": "https://stream.zeno.fm/0phh9ke98e9uv",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-baires-90s",
-                "name": "Baires 90s",
-                "web": "https://www.radiobaires.com/baires90s/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/955/radio-baires-90s.c065647d.png",
-                "city": "s Baires 90s",
-                "province": "Salta",
-                "stream": "https://stream90s.radiobaires.com/live",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-baires-80s",
-                "name": "Baires 80s",
-                "web": "https://www.radiobaires.com/baires80s/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/956/radio-baires-80s.d5bf7817.png",
-                "city": "s Baires 80s",
-                "province": "Salta",
-                "stream": "https://stream80s.radiobaires.com/live",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "salta-nexo",
-                "name": "Nexo 93.9 FM",
-                "web": "http://nexofm.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/470/radio-nexo.d333d277.jpg",
-                "city": "s Nexo 93.9 FM",
-                "province": "Salta",
-                "stream": "http://52.9.150.45:8005/;",
+                "stream": "https://streaming01.shockmedia.com.ar/9200/stream",
                 "categories": [
                     "comunidad"
                 ]
             },
             {
-                "id": "salta-la-red",
-                "name": "La Red AM 910",
-                "web": "https://www.lared.am/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/295/la-red-am.94f5f9be.jpg",
-                "city": "s La Red AM 910",
+                "id": "salta-show-salta-1017-fm",
+                "name": "Show Salta FM 101.7",
+                "web": "https://radioshowsalta.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/073/radio-show-salta.2d96cd99.png",
+                "city": "Ciudad de Salta",
                 "province": "Salta",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC",
+                "stream": "https://frontend.radiohdvivo.com/radioshowsalta/live",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "musica",
+                    "comunidad"
                 ]
             },
             {
-                "id": "salta-con-vos",
-                "name": "Con Vos 89.9",
-                "web": "http://radioconvos.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg",
-                "city": "s Con Vos 89.9",
+                "id": "salta-ciudad-oran-995-fm",
+                "name": "Ciudad Oran FM 99.5",
+                "web": "https://radiociudadoran.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/384/radio-ciudad-oran.828a7adf.jpg",
+                "city": "San Ramón de la Nueva Orán",
                 "province": "Salta",
-                "stream": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
+                "stream": "https://radios.solumedia.com/6430/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "folklore",
+                    "comunidad"
                 ]
             },
             {
-                "id": "salta-rivadavia",
-                "name": "Rivadavia 630 AM",
-                "web": "http://rivadavia.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg",
-                "city": "s Rivadavia 630 AM",
+                "id": "salta-vida-yrigoyen-online",
+                "name": "Vida Yrigoyen Online",
+                "web": "https://zeno.fm/radio/radio-vida0h1rxc8af2zuv/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/119/radio-vida-yrigoyen.bb5b0c38.jpg",
+                "city": "San Ramón de la Nueva Orán",
                 "province": "Salta",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
+                "stream": "https://stream.zeno.fm/0ub92c8af2zuv",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "musica",
+                    "religion"
+                ]
+            },
+            {
+                "id": "salta-oran-fm-909",
+                "name": "Orán FM 90.9",
+                "web": "http://www.radiooran.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/572/radio-oran.f02aed5b.jpg",
+                "city": "San Ramón de la Nueva Orán",
+                "province": "Salta",
+                "stream": "https://stream-174.zeno.fm/gfbaoc56onntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnZmJhb2M1Nm9ubnR2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUDNXTXNFelpTMW16eDBhZW5OcGVTQSIsImlhdCI6MTc1NDM5MDczMywiZXhwIjoxNzU0MzkwNzkzfQ.xlb",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "salta-bit-1035-fm",
+                "name": "Bit FM 103.5",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/315/radio-bit-1035-fm.d743615f.png",
+                "city": "San Ramón de la Nueva Orán",
+                "province": "Salta",
+                "stream": "https://streaming.escuchanosonline.com:7305/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-fm-alba-893",
+                "name": "FM Alba 89.3",
+                "web": "http://www.fmalba.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/648/radio-fm-alba.074ce87e.png",
+                "city": "Tartagal",
+                "province": "Salta",
+                "stream": "https://server6.hostradios.com/8246/stream",
+                "categories": [
+                    "comunidad"
                 ]
             }
         ]
