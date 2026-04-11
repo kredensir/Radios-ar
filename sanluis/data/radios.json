@@ -1,0 +1,20 @@
+[
+    {
+        "zone": "San Luis",
+        "items": [
+            {
+                "id": "san-luis-popular-de-san-luis-985",
+                "name": "Radio Popular FM 98.5",
+                "web": "https://www.radiopopularsanluis.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/608/radio-popular-de-san-luis.d2c10601.png",
+                "city": "Ciudad de San Luis",
+                "province": "San Luis",
+                "stream": "https://sonicpanel.hostradios.com/8094/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            }
+        ]
+    }
+]
