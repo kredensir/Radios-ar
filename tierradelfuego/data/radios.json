@@ -3,6 +3,18 @@
         "zone": "Tierra del Fuego",
         "items": [
             {
+                "id": "tierra-del-fuego-plus-983-mhz",
+                "name": "Plus FM 98.3",
+                "web": "https://radioplus983.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/573/radio-plus-983-mhz.0732c100.png",
+                "city": "Río Grande",
+                "province": "Tierra del Fuego",
+                "stream": "https://streaming2.locucionar.com/proxy/riograndeplus?mp=/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
                 "id": "tierra-del-fuego-provincia-999",
                 "name": "Provincia FM 99.9",
                 "web": "http://www.radioprovinciatdf.com.ar",
@@ -38,18 +50,6 @@
                 "categories": [
                     "musica",
                     "comunidad"
-                ]
-            },
-            {
-                "id": "tierra-del-fuego-plus-983-mhz",
-                "name": "Plus FM 98.3",
-                "web": "https://radioplus983.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/573/radio-plus-983-mhz.0732c100.png",
-                "city": "Río Grande",
-                "province": "Tierra del Fuego",
-                "stream": "https://streaming2.locucionar.com/proxy/riograndeplus?mp=/stream",
-                "categories": [
-                    "musica"
                 ]
             }
         ]

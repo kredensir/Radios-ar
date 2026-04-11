@@ -1,0 +1,55 @@
+[
+    {
+        "zone": "Santa Cruz",
+        "items": [
+            {
+                "id": "santa-cruz-21-901",
+                "name": "Radio 21 FM 90.1",
+                "web": "http://www.radio21.com.ar/web/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/002/radio-21.8c4a6ffa.png",
+                "city": "Caleta Olivia",
+                "province": "Santa Cruz",
+                "stream": "https://cdn.instream.audio/:9135/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "santa-cruz-fm-desire-1017",
+                "name": "Radio Desire FM 101.7",
+                "web": "https://radiofmdesire.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/453/radio-fm-desire-1017.5cafcde0.jpg",
+                "city": "Puerto Deseado",
+                "province": "Santa Cruz",
+                "stream": "https://centova.servidoraweb.net:9031/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "santa-cruz-catolica-999",
+                "name": "Radio Católica FM 99.9",
+                "web": "http://www.rcatolica.net/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/949/radio-catolica-argentina.e69e7386.jpg",
+                "city": "Puerto Santa Cruz",
+                "province": "Santa Cruz",
+                "stream": "https://stream.zeno.fm/smctf84agy5tv",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "santa-cruz-amgyp-online",
+                "name": "Amgyp Online",
+                "web": "https://radioamgyp.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/817/radio-amgyp.e5fe9e90.png",
+                "city": "Río Gallegos",
+                "province": "Santa Cruz",
+                "stream": "https://az11.yesstreaming.net:8120/radio.mp3",
+                "categories": [
+                    "musica"
+                ]
+            }
+        ]
+    }
+]
