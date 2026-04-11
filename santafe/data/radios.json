@@ -1,0 +1,597 @@
+[
+    {
+        "zone": "Santa Fe",
+        "items": [
+            {
+                "id": "salta-uno-991-fm",
+                "name": "Uno FM 99.1",
+                "web": "http://www.radiounohits.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/091/radio-uno-991-fm.2bf815d2.jpg",
+                "city": "Chabás",
+                "province": "Santa Fe",
+                "stream": "https://radios.solumedia.com:6380/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "santa-fe-2-1230-am",
+                "name": "Radio 2 1230 AM",
+                "web": "http://www.rosario3.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/118/radio-2-1230-am.799714a8.png",
+                "city": "s Radio 2 1230 AM",
+                "province": "Santa Fe",
+                "stream": "https://streaming320tb.locucionar.com/proxy/radio2?mp=/stream/1/",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-cristiana-fm-957",
+                "name": "Cristiana FM 95.7",
+                "web": "http://www.radiocristiana957.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/529/radio-cristiana2.90e1b9bc.png",
+                "city": "Rosario",
+                "province": "Santa Fe",
+                "stream": "https://genexservicios.com:8098/;",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "santa-fe-fisherton-cnn-895-fm",
+                "name": "Radio Fisherton - CNN 89.5 FM",
+                "web": "http://www.fishertoncnn.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/079/radio-fisherton-cnn-895-fm.2deced0e.png",
+                "city": "s Radio Fisherton - CNN 89.5 FM",
+                "province": "Santa Fe",
+                "stream": "https://media425.digitar.net:8141/radio.mp3",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-house2",
+                "name": "Radio House",
+                "web": "http://www.houseradio.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/698/radio-house1.115a5b43.png",
+                "city": "s Radio House",
+                "province": "Santa Fe",
+                "stream": "https://server.streamcasthd.com/8130/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-victoria-980-am",
+                "name": "Radio Victoria AM 980",
+                "web": "http://lt39noticias.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/114/radio-victoria-lt39.279f626f.png",
+                "city": "Rosario",
+                "province": "Santa Fe",
+                "stream": "https://chino.republicahosting.com:2346/live",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "santa-fe-rafaela",
+                "name": "Radio Rafaela",
+                "web": "https://www.radiorafaela.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/213/radio-rafaela.09992b6c.jpg",
+                "city": "s Radio Rafaela",
+                "province": "Santa Fe",
+                "stream": "https://server.streamcasthd.com/8196/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-80s",
+                "name": "Radio 80s",
+                "web": "https://radioo80s.blogspot.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/029/radio-80s.807cfc0b.png",
+                "city": "s Radio 80s",
+                "province": "Santa Fe",
+                "stream": "https://stream.zeno.fm/qad79gkcqcquv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-infinity",
+                "name": "Radio Infinity",
+                "web": "https://radioinfinity.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/576/radio-infinity.b4bca4db.png",
+                "city": "s Radio Infinity",
+                "province": "Santa Fe",
+                "stream": "https://sonic.host-live.com/8192/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-si-989-fm",
+                "name": "Radio Sí 98.9 FM",
+                "web": "https://www.rosarioplus.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/087/radio-si-989-fm.1b9ef82a.png",
+                "city": "s Radio Sí 98.9 FM",
+                "province": "Santa Fe",
+                "stream": "https://server.laradio.online/proxy/si989?mp=/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-universidad-1033-fm",
+                "name": "Radio Universidad 103.3 FM",
+                "web": "https://radio.unr.edu.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/472/radio-universidad-1033-fm.149a1718.png",
+                "city": "s Radio Universidad 103.3 FM",
+                "province": "Santa Fe",
+                "stream": "https://cdn.instream.audio/:9202/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-del-pueblo-830-am",
+                "name": "Radio Del Pueblo 830 AM",
+                "web": "http://radiodelpueblo.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/065/radio-del-pueblo-830-am.00b9100b.png",
+                "city": "s Radio Del Pueblo 830 AM",
+                "province": "Santa Fe",
+                "stream": "https://streaming6.locucionar.com:24248/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-fmx-1035",
+                "name": "Radio FMX 103.5",
+                "web": "https://lt10.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/848/radio-fmx-1035.e49b0d66.png",
+                "city": "s Radio FMX 103.5",
+                "province": "Santa Fe",
+                "stream": "https://radio.arcast.net:1060/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-villa-trinidad-979-fm",
+                "name": "Villa Trinidad FM 97.9",
+                "web": "http://www.fm979villatrinidad.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/841/radio-villa-trinidad.2de3393c.jpg",
+                "city": "Ciudad de Santa Fe",
+                "province": "Santa Fe",
+                "stream": "https://stm2.livecastradio.com:20130/;",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "santa-fe-eme",
+                "name": "Radio EME",
+                "web": "http://www.radioeme.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/830/radio-eme.d4d6b27c.jpg",
+                "city": "s Radio EME",
+                "province": "Santa Fe",
+                "stream": "https://servidor1.hostradios.com:8010/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-uno-991-fm",
+                "name": "Radio Uno 99.1 FM",
+                "web": "http://www.radiounohits.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/091/radio-uno-991-fm.2bf815d2.jpg",
+                "city": "s Radio Uno 99.1 FM",
+                "province": "Santa Fe",
+                "stream": "https://radios.solumedia.com:6380/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-la-red",
+                "name": "La Red AM 910",
+                "web": "https://www.lared.am/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/295/la-red-am.94f5f9be.jpg",
+                "city": "s La Red AM 910",
+                "province": "Santa Fe",
+                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-con-vos",
+                "name": "Radio Con Vos 89.9",
+                "web": "http://radioconvos.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg",
+                "city": "s Radio Con Vos 89.9",
+                "province": "Santa Fe",
+                "stream": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-rivadavia",
+                "name": "Radio Rivadavia 630 AM",
+                "web": "http://rivadavia.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg",
+                "city": "s Radio Rivadavia 630 AM",
+                "province": "Santa Fe",
+                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-el-arca-argentina-online",
+                "name": "Radio El Arca Online",
+                "web": "https://www.radioelarca.es.tl",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/581/radio-el-arca-argentina-online.1f2f5f29.jpg",
+                "city": "s Radio El Arca Online",
+                "province": "Santa Fe",
+                "stream": "https://server.laradio.online/proxy/joel_romero?1726681468888=&mp=/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-belgrano-suardi",
+                "name": "Radio Belgrano Suardi",
+                "web": "https://www.radiobelgranosuardi.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/231/radio-belgrano-suardi.bc10a932.jpg",
+                "city": "s Radio Belgrano Suardi",
+                "province": "Santa Fe",
+                "stream": "https://stm.livecastradio.com:7160/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-city-santa-fe",
+                "name": "Radio City Santa Fe",
+                "web": "http://www.citysantafe.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/629/radio-city-santa-fe.5793631f.jpg",
+                "city": "s Radio City Santa Fe",
+                "province": "Santa Fe",
+                "stream": "https://emisora.radiosplay.com.ar/8042/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-city",
+                "name": "Radio City Rafaela",
+                "web": "https://www.aireradiocity.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/194/radio-city-argentina.c2acb5cc.png",
+                "city": "s Radio City Rafaela",
+                "province": "Santa Fe",
+                "stream": "https://sysmedia.com.ar:8100/radiocityonline.mp3",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-en-contacto-1009-fm",
+                "name": "En Contacto FM 100.9",
+                "web": "https://radioencontacto.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/327/radio-en-contacto.2e7874ea.png",
+                "city": "Las Parejas",
+                "province": "Santa Fe",
+                "stream": "http://server1.veemesoft.com.ar:9760/;",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "santa-fe-q-1077-fm",
+                "name": "Radio Q Argentina",
+                "web": "http://www.radioq107.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/871/radio-q-1077-fm.159fc025.png",
+                "city": "s Radio Q Argentina",
+                "province": "Santa Fe",
+                "stream": "https://sc.sudacastream.com/radioq/;stream.mp3",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-uno-fm-1013",
+                "name": "Uno FM 101.3",
+                "web": "http://www.radiounosf.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/964/radio-uno-fm-1013.c1cd51f4.jpg",
+                "city": "Ciudad de Santa Fe",
+                "province": "Santa Fe",
+                "stream": "https://ssl.radiosnethosting.com/centova2_puerto4numeros.php?port=9888",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "santa-fe-cell",
+                "name": "Radio Cell",
+                "web": "http://www.radiocellenvivo.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/145/radio-cell.cdd8647c.png",
+                "city": "s Radio Cell",
+                "province": "Santa Fe",
+                "stream": "https://radiosar.com:9380/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-ade-online",
+                "name": "ADE Online",
+                "web": "https://airedeesperanza.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/755/radio-3-online.6a5f3cc0.png",
+                "city": "Esperanza",
+                "province": "Santa Fe",
+                "stream": "https://emisoras.fmbrother.com/8022/;",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "santa-fe-cultural-913-fm",
+                "name": "Cultural FM 91.3",
+                "web": "http://www.fmcultural.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/245/radio-cultural-913-fm.8bcd9ce3.jpg",
+                "city": "Ciudad de Santa Fe",
+                "province": "Santa Fe",
+                "stream": "https://ssl.radiosnethosting.com/index.php?port=9682",
+                "categories": [
+                    "comunidad",
+                    "deportes"
+                ]
+            },
+            {
+                "id": "santa-fe-pulso-casilda",
+                "name": "RADIO PULSO CASILDA",
+                "web": "https://grupoecono.com.ar/radiopulsocasilda/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/532/radio-pulso-casilda.55483876.jpg",
+                "city": "s RADIO PULSO CASILDA",
+                "province": "Santa Fe",
+                "stream": "https://radios.solumedia.com/6380/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-baires-90s",
+                "name": "Radio Baires 90s",
+                "web": "https://www.radiobaires.com/baires90s/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/955/radio-baires-90s.c065647d.png",
+                "city": "s Radio Baires 90s",
+                "province": "Santa Fe",
+                "stream": "https://stream90s.radiobaires.com/live",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-baires-80s",
+                "name": "Radio Baires 80s",
+                "web": "https://www.radiobaires.com/baires80s/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/956/radio-baires-80s.d5bf7817.png",
+                "city": "s Radio Baires 80s",
+                "province": "Santa Fe",
+                "stream": "https://stream80s.radiobaires.com/live",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-la-maga",
+                "name": "Radio La Maga",
+                "web": "http://www.radiolamaga.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/508/radio-la-maga.8be25750.png",
+                "city": "s Radio La Maga",
+                "province": "Santa Fe",
+                "stream": "https://stm.livecastradio.com:7168/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-esmeralda",
+                "name": "Radio Esmeralda",
+                "web": "https://radioesmeralda.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/399/radio-esmeralda-argentina.c5485554.jpg",
+                "city": "s Radio Esmeralda",
+                "province": "Santa Fe",
+                "stream": "https://streaming6.locucionar.com:24360/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-universidad-rafaela-fm",
+                "name": "Radio Universidad Rafaela FM",
+                "web": "http://www.universidadradio.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/632/radio-universidad-rafaela-fm.9c6b0088.png",
+                "city": "s Radio Universidad Rafaela FM",
+                "province": "Santa Fe",
+                "stream": "https://desatec.net/8214/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-pan-de-vida-fm-1029",
+                "name": "Pan de Vida FM 102.9",
+                "web": "http://www.radiopandevida.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/793/radio-pan-de-vida-argentina.d1457ad3.jpg",
+                "city": "Rosario",
+                "province": "Santa Fe",
+                "stream": "https://genexservicios.com:8194/;",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "santa-fe-el-espectador-1001-fm",
+                "name": "Radio El Espectador 100.1 FM",
+                "web": "http://www.radioelespectador.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/249/radio-el-espectador-1001-fm.5d59dd7e.png",
+                "city": "s Radio El Espectador 100.1 FM",
+                "province": "Santa Fe",
+                "stream": "https://streaming3.locucionar.com/proxy/elespectador1001?mp=/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-vivencias-1031",
+                "name": "Radio Vivencias 103.1 FM",
+                "web": "https://vivenciasfm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/213/radio-vivencias-1031.5020c1f7.jpg",
+                "city": "s Radio Vivencias 103.1 FM",
+                "province": "Santa Fe",
+                "stream": "https://streaming1.locucionar.com/proxy/fmvivencias1031?mp=/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santa-fe-chudas",
+                "name": "Radio Chudas",
+                "web": "http://www.radiochudas.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/572/radio-chudas.5b91c36a.jpg",
+                "city": "s Radio Chudas",
+                "province": "Santa Fe",
+                "stream": "https://01.solumedia.com.ar:7867/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            }
+        ]
+    }
+]

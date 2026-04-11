@@ -15,18 +15,6 @@
                 ]
             },
             {
-                "id": "salta-uno-991-fm",
-                "name": "Uno FM 99.1",
-                "web": "http://www.radiounohits.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/091/radio-uno-991-fm.2bf815d2.jpg",
-                "city": "Chabás",
-                "province": "Santa Fe",
-                "stream": "https://radios.solumedia.com:6380/stream",
-                "categories": [
-                    "musica"
-                ]
-            },
-            {
                 "id": "salta-belgrano-fm-941",
                 "name": "Belgrano FM 94.1",
                 "web": "http://www.radiobelgranoembarcacion.blogspot.com.ar",
