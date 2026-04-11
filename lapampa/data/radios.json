@@ -1,0 +1,34 @@
+[
+    {
+        "zone": "La Pampa",
+        "items": [
+            {
+                "id": "la-pampa-megaton-lru387-1067-fm",
+                "name": "Megaton FM 106.7",
+                "web": "http://www.radiomegaton.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/487/radio-megaton-lru387-1067-fm.36e1d92f.png",
+                "city": "Eduardo Castex",
+                "province": "La Pampa",
+                "stream": "https://streaming.escuchanosonline.com:7279/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "la-pampa-solidaria-gral-pico-online",
+                "name": "Solidária Gral Pico Online",
+                "web": "https://radiosolidaria.jrcontenidos.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/782/radio-solidaria-gral-pico.e48b1fd6.jpg",
+                "city": "General Pico",
+                "province": "La Pampa",
+                "stream": "http://server6.hostradios.com/8736/stream",
+                "categories": [
+                    "comunidad",
+                    "musica",
+                    "noticias"
+                ]
+            }
+        ]
+    }
+]

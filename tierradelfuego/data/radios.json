@@ -17,7 +17,7 @@
             },
             {
                 "id": "tierra-del-fuego-argentina-ushuaia-fm-979",
-                "name": "Argentina Ushuaia FM 97.9",
+                "name": "Argentina FM 97.9",
                 "web": "https://www.radioargentinaushuaia.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/381/radio-argentina-ushuaia.9f903b89.png",
                 "city": "Ushuaia",
@@ -34,7 +34,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/371/radio-colegio-sobral.cfb7d203.png",
                 "city": "Ushuaia",
                 "province": "Tierra del Fuego",
-                "stream": "https://giss.tv:8001/radiosobral.mp3",
+                "stream": "http://giss.tv:8001/radiosobral.mp3",
                 "categories": [
                     "musica",
                     "comunidad"
@@ -42,7 +42,7 @@
             },
             {
                 "id": "tierra-del-fuego-plus-983-mhz",
-                "name": "Radio Plus FM 98.3",
+                "name": "Plus FM 98.3",
                 "web": "https://radioplus983.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/573/radio-plus-983-mhz.0732c100.png",
                 "city": "Río Grande",
