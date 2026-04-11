@@ -1,0 +1,44 @@
+[
+    {
+        "zone": "La Rioja",
+        "items": [
+            {
+                "id": "la-rioja-total-la-rioja-online",
+                "name": "Total Cristiana Online",
+                "web": "https://fmtotal.wixsite.com/line",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/499/radio-total-la-rioja.c00b7914.jpg",
+                "city": "Ciudad de La Rioja",
+                "province": "La Rioja",
+                "stream": "https://sc.host-live.com/8040/stream",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "la-rioja-fenix-951-fm",
+                "name": "Fenix FM 95.1",
+                "web": "http://www.fenix951.com.ar/nuevo_2013/main.html",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/131/radio-fenix-951-fm.41b2c208.jpg",
+                "city": "Ciudad de La Rioja",
+                "province": "La Rioja",
+                "stream": "https://server7.hostradios.com/8112/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "la-rioja-municipal-935-fm",
+                "name": "Municipal FM 93.5",
+                "web": "http://www.radiomunicipalaminga935.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/407/radio-municipal-935-fm.046a81c0.png",
+                "city": "Aminga",
+                "province": "La Rioja",
+                "stream": "https://stream.zeno.fm/tgjfmmrn7savv",
+                "categories": [
+                    "comunidad"
+                ]
+            }
+        ]
+    }
+]
