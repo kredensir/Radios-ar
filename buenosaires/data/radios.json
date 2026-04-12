@@ -499,6 +499,94 @@
                 "categories": [
                     "musica"
                 ]
+            },
+            {
+                "id": "ciudad-autonoma-de-buenos-aires-limite-argentina",
+                "name": "Limite Argentina",
+                "web": "http://www.radiolimiteargentina.blogspot.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/953/radio-limite-argentina.3926a35b.jpg",
+                "city": "Lomas de Zamora",
+                "province": "Buenos Aires",
+                "stream": "https://stream-176.zeno.fm/g04wpx4mdwzuv",
+                "categories": [
+                    "musica",
+                    "tropical"
+                ]
+            },
+            {
+                "id": "ciudad-autonoma-de-buenos-aires-municipal-general-rodriguez-895",
+                "name": "Municipal General Rodríguez FM 89.5",
+                "web": "https://generalrodriguez.gob.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/089/radio-municipal-general-rodriguez.5fa09f37.png",
+                "city": "General Rodriguez",
+                "province": "Buenos Aires",
+                "stream": "http://generalrodriguez.gob.ar:8000/radio",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "ciudad-autonoma-de-buenos-aires-publica-de-moreno",
+                "name": "Publica de Moreno FM 90.7",
+                "web": "http://moreno.gob.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/104/radio-publica-de-moreno.f8572fc1.jpg",
+                "city": "Moreno",
+                "province": "Buenos Aires",
+                "stream": "https://stream-179.zeno.fm/9m7mxee7yf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5bTdteGVlN3lmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InpicWNlN09ZU1NHZ2ZoMzVjelFXc2ciLCJpYXQiOjE3NzYwMzA1MDcsImV4cCI6MTc3NjAzMDU2N30.0UEcTFwkxfLcnU_i_bfQXhBswfI7i6nA6Cjl9BdHwbw",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "ciudad-autonoma-de-buenos-aires-click-online",
+                "name": "Radio Click Online",
+                "web": "https://radioclickdifusionesonline.weebly.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/628/radio-click.ada739fd.png",
+                "city": "Berazategui",
+                "province": "Buenos Aires",
+                "stream": "https://az03.streaminghd.net.ar:7063/stream",
+                "categories": [
+                    "musica",
+                    "religion"
+                ]
+            },
+            {
+                "id": "ciudad-autonoma-de-buenos-aires-nova-isidro-casanova-online",
+                "name": "Nova Isidro Casanova Online",
+                "web": "https://retroclasic.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/466/radio-nova-isidro-casanova-bs-as.9e34624e.jpg",
+                "city": "Isidro Casanova",
+                "province": "Buenos Aires",
+                "stream": "https://server4.hostradios.com:8102/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "ciudad-autonoma-de-buenos-aires-gen-919",
+                "name": "Gen FM 91.9",
+                "web": "https://diarioimagen.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/867/radio-gen.8187d6c4.jpg",
+                "city": "Arrecifes",
+                "province": "Buenos Aires",
+                "stream": "https://streaming5.locucionar.com/proxy/radiogen919?mp=/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "ciudad-autonoma-de-buenos-aires-old-time-online",
+                "name": "Old Time Online",
+                "web": "http://radioldtime.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/973/radio-old-time.3eb2e8f0.png",
+                "city": "Merlo",
+                "province": "Buenos Aires",
+                "stream": "https://cdn.instream.audio:9588/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
             }
         ]
     }

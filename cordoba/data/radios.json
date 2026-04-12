@@ -3,6 +3,19 @@
         "zone": "Córdoba",
         "items": [
             {
+                "id": "ciudad-autonoma-de-buenos-aires-sudamericana-1023-fm",
+                "name": "Sudamericana 102.3 FM",
+                "web": "http://www.fmsudamericana.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/780/radio-sudamericana-1023-fm.e9435c86.png",
+                "city": "Río Cuarto",
+                "province": "Cordoba",
+                "stream": "https://streaming3.locucionar.com/proxy/sudamericana1023?mp=/stream",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "cordoba-genesis-903-fm",
                 "name": "Genesis 90.3 FM",
                 "web": "https://fmgenesis.esenvivo.com/",
