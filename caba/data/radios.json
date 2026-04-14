@@ -758,7 +758,7 @@
                 "name": "Berlin 107.7",
                 "web": "https://berlin1077.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/750/radio-berlin.f0b3ecae.png",
-                "city": "s Berlin 107.7",
+                "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://s8.stweb.tv/berlin/live/playlist.m3u8",
                 "categories": [
@@ -783,7 +783,7 @@
                 "name": "Radio El Mundo",
                 "web": "https://radioelmundoam1070.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/787/radio-el-mundo.b17f3b4e.jpg",
-                "city": "s Radio El Mundo",
+                "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://streaming.escuchanosonline.com:7118/stream",
                 "categories": [
@@ -796,7 +796,7 @@
                 "name": "Radio Party",
                 "web": "http://www.radioparty.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/418/radio-party-argentina.d494aeb3.jpg",
-                "city": "s Radio Party",
+                "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://stream.serviciowebdigital.com/8754/stream",
                 "categories": [
@@ -804,27 +804,11 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-sucesos-1350-am",
-                "name": "Radio Sucesos 104.7 FM",
-                "web": "http://www.radiosucesos.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/619/radio-sucesos-1047-fm.d33836a1.jpg",
-                "city": "Null",
-                "province": "Buenos Aires",
-                "stream": "https://ssl.dainusradio.com/shoutcast2/2341/stream/1/",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
                 "id": "ciudad-autonoma-de-buenos-aires-mirlo",
                 "name": "Radio Mirlo",
                 "web": "https://edithsartelli.wixsite.com/radiomirlo",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/190/radio-mirlo.05aeeca7.jpg",
-                "city": "s Radio Mirlo",
+                "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://stream.zeno.fm/e6hg6b5vn7zuv",
                 "categories": [
@@ -836,7 +820,7 @@
                 "name": "Radio And Rock Network",
                 "web": "http://www.radioandrock.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/820/radio-and-rock.2535923f.png",
-                "city": "s Radio And Rock Network",
+                "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://server.radiostreaming.com.ar/8324/stream",
                 "categories": [
@@ -848,7 +832,7 @@
                 "name": "Radio UBA",
                 "web": "https://www.uba.ar/ubaradio",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/784/radio-uba.89d750aa.jpg",
-                "city": "s Radio UBA",
+                "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://radiostreaming.rec.uba.ar:8000/LiveRadioUBA",
                 "categories": [
@@ -925,7 +909,7 @@
                 "name": "Universidad CALF Online",
                 "web": "http://www.universidadcalf.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/113/radio-universidad-calf.08f4ca87.png",
-                "city": "s Radio Universidad CALF",
+                "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://cdn.instream.audio/:9032/stream",
                 "categories": [
@@ -1533,22 +1517,6 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-sur-fm",
-                "name": "Radio Sur FM",
-                "web": "http://www.radiosur.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/225/radio-sur-fm.67cdda27.jpg",
-                "city": "Null",
-                "province": "Buenos Aires",
-                "stream": "https://01.solumedia.com.ar:8020/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
                 "id": "ciudad-autonoma-de-buenos-aires-curuzu-online",
                 "name": "Curuzu Online",
                 "web": "https://radiocuruzu.com.ar/",
@@ -1670,22 +1638,6 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-capital",
-                "name": "Radio Capital",
-                "web": "http://radiocapital.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/875/radio-capital-argentina.2ec11214.png",
-                "city": "Null",
-                "province": "Buenos Aires",
-                "stream": "https://sonic.host-live.com/8284/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
                 "id": "ciudad-autonoma-de-buenos-aires-bendita-trinidad-argentina-889",
                 "name": "Bendita Trinidad Argentina FM 88.9",
                 "web": "https://benditatrinidadargentina.net/",
@@ -1698,22 +1650,6 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-folklore-argentino",
-                "name": "Radio Folklore Argentino",
-                "web": "https://www.instagram.com/radiofolkloreargentino",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/803/radio-folklore-argentino.945b38d7.jpg",
-                "city": "Null",
-                "province": "Buenos Aires",
-                "stream": "https://stream-176.zeno.fm/doxppi62q8itv",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
                 "id": "ciudad-autonoma-de-buenos-aires-el-fogon",
                 "name": "El Fogon",
                 "web": "http://endirecto.com.ar/radioelfogon",
@@ -1723,22 +1659,6 @@
                 "stream": "https://srv10.streamingradio.ar/8162/stream?1776031731901",
                 "categories": [
                     "musica"
-                ]
-            },
-            {
-                "id": "ciudad-autonoma-de-buenos-aires-tani",
-                "name": "Radio Taní",
-                "web": "https://tani-radio.blogspot.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/274/radio-tani.2c2d1bf0.png",
-                "city": "Null",
-                "province": "Buenos Aires",
-                "stream": "https://autodj.nvradios.com/listen/radio_tan%C3%AD/radio.mp3",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
                 ]
             },
             {
@@ -1856,7 +1776,7 @@
                 "name": "Boom Show Online",
                 "web": "http://www.radioboomshow.mex.tl",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/178/radio-boom-show.41655445.jpg",
-                "city": "s Radio Boom Show",
+                "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://stream-175.zeno.fm/zp0417paza0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6cDA0MTdwYXphMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU0wydUpxRjNSaVdISTR6Y19pN29PQSIsImlhdCI6MTc1NDAzODc3MSwiZXhwIjoxNzU0MDM4ODMxfQ._RF",
                 "categories": [
@@ -1902,7 +1822,7 @@
                 "id": "ciudad-autonoma-de-buenos-aires-siete-punto-cero-online",
                 "name": "Siete Punto Cero Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/809/radio-siete-punto-cero.20df330f.png",
-                "city": "s Radio Siete Punto Cero",
+                "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://streaming.radiosenlinea.com.ar:10484/;",
                 "categories": [
@@ -1927,7 +1847,7 @@
                 "name": "ECO Alem Online",
                 "web": "https://radioecoalem.blogspot.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/959/radio-eco-alem.05f91088.png",
-                "city": "Leandro N. Alem",
+                "city": "CABA",
                 "province": "Misiones",
                 "stream": "https://stream.zeno.fm/qrwc6mdkewzuv",
                 "categories": [
