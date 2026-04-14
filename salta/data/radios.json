@@ -1,6 +1,10 @@
 [
     {
-        "zone": "Salta",
+        "zone": "Puna",
+        "items": []
+    },
+    {
+        "zone": "Valles Calchaquíes",
         "items": [
             {
                 "id": "salta-municipal-fm-cachi",
@@ -13,19 +17,12 @@
                 "categories": [
                     "comunidad"
                 ]
-            },
-            {
-                "id": "salta-belgrano-fm-941",
-                "name": "Belgrano FM 94.1",
-                "web": "http://www.radiobelgranoembarcacion.blogspot.com.ar",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/374/radio-belgrano-embarcacion.178e3af1.jpg",
-                "city": "Embarcación",
-                "province": "Salta",
-                "stream": "https://media.nexxisgroup.com.ar/listen/embarcacionbelgrano/stream",
-                "categories": [
-                    "comunidad"
-                ]
-            },
+            }
+        ]
+    },
+    {
+        "zone": "Valle de Lerma",
+        "items": [
             {
                 "id": "salta-fm-cumbiambera-889",
                 "name": "FM Cumbiambera FM 88.9",
@@ -196,6 +193,23 @@
                 "stream": "https://frontend.radiohdvivo.com/radioshowsalta/live",
                 "categories": [
                     "musica",
+                    "comunidad"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "Selva y Chaco",
+        "items": [
+            {
+                "id": "salta-belgrano-fm-941",
+                "name": "Belgrano FM 94.1",
+                "web": "http://www.radiobelgranoembarcacion.blogspot.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/374/radio-belgrano-embarcacion.178e3af1.jpg",
+                "city": "Embarcación",
+                "province": "Salta",
+                "stream": "https://media.nexxisgroup.com.ar/listen/embarcacionbelgrano/stream",
+                "categories": [
                     "comunidad"
                 ]
             },
