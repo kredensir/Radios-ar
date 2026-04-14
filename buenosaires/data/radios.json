@@ -501,7 +501,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-limite-argentina",
+                "id": "buenos-aires-limite-argentina",
                 "name": "Limite Argentina",
                 "web": "http://www.radiolimiteargentina.blogspot.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/953/radio-limite-argentina.3926a35b.jpg",
@@ -514,7 +514,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-municipal-general-rodriguez-895",
+                "id": "buenos-aires-municipal-general-rodriguez-895",
                 "name": "Municipal General Rodríguez FM 89.5",
                 "web": "https://generalrodriguez.gob.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/089/radio-municipal-general-rodriguez.5fa09f37.png",
@@ -527,7 +527,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-publica-de-moreno",
+                "id": "buenos-aires-publica-de-moreno",
                 "name": "Publica de Moreno FM 90.7",
                 "web": "http://moreno.gob.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/104/radio-publica-de-moreno.f8572fc1.jpg",
@@ -539,7 +539,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-click-online",
+                "id": "buenos-aires-click-online",
                 "name": "Radio Click Online",
                 "web": "https://radioclickdifusionesonline.weebly.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/628/radio-click.ada739fd.png",
@@ -552,7 +552,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-nova-isidro-casanova-online",
+                "id": "buenos-aires-nova-isidro-casanova-online",
                 "name": "Nova Isidro Casanova Online",
                 "web": "https://retroclasic.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/466/radio-nova-isidro-casanova-bs-as.9e34624e.jpg",
@@ -564,7 +564,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-gen-919",
+                "id": "buenos-aires-gen-919",
                 "name": "Gen FM 91.9",
                 "web": "https://diarioimagen.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/867/radio-gen.8187d6c4.jpg",
@@ -576,7 +576,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-old-time-online",
+                "id": "buenos-aires-old-time-online",
                 "name": "Old Time Online",
                 "web": "http://radioldtime.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/973/radio-old-time.3eb2e8f0.png",
@@ -586,6 +586,19 @@
                 "categories": [
                     "comunidad",
                     "musica"
+                ]
+            },
+            {
+                "id": "buenos-aires-viamonte",
+                "name": "Viamonte",
+                "web": "http://radioviamonte.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/696/radio-viamonte.32a1b897.png",
+                "city": "Viamonte",
+                "province": "Buenos Aires",
+                "stream": "https://sonicpanel.hostradios.com:7175/;",
+                "categories": [
+                    "musica",
+                    "comunidad"
                 ]
             }
         ]

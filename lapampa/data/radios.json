@@ -3,6 +3,19 @@
         "zone": "La Pampa",
         "items": [
             {
+                "id": "la-pampa-azul-1073-fm",
+                "name": "Azul FM 107.3",
+                "web": "http://radioazul.argentinastream.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/693/radio-azul-1073-fm.37beaf0c.jpg",
+                "city": "Miguel Riglos",
+                "province": "La Pampa",
+                "stream": "https://server.laradio.online/proxy/marcelo_alejo?mp=/stream&1776178110205",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
                 "id": "la-pampa-megaton-lru387-1067-fm",
                 "name": "Megaton FM 106.7",
                 "web": "http://www.radiomegaton.com.ar",

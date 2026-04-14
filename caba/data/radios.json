@@ -1,6 +1,6 @@
 [
     {
-        "zone": "CABA",
+        "zone": "Popular",
         "items": [
             {
                 "id": "caba-la-100-999",
@@ -389,18 +389,6 @@
                 ]
             },
             {
-                "id": "caba-jai-fm-963",
-                "name": "Radio JAI FM 96.3",
-                "type": "tv",
-                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/963-logo-jai.webp",
-                "city": "CABA",
-                "province": "Buenos Aires",
-                "stream": "https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDg6NDE6MjUgUE0maGFzaF92YWx1ZT1rd0VSalJ4c3hHdnZIQnlybTNnK0ZRPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTEy",
-                "categories": [
-                    "musica"
-                ]
-            },
-            {
                 "id": "caba-nacional-clasica-fm-975",
                 "name": "Nacional Clásica FM 97.5",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional.webp",
@@ -739,10 +727,10 @@
         ]
     },
     {
-        "zone": "Ciudad Autónoma de Buenos Aires",
+        "zone": "CABA",
         "items": [
             {
-                "id": "ciudad-autonoma-de-buenos-aires-clasica",
+                "id": "caba-clasica",
                 "name": "Radio Clásica",
                 "web": "https://radioclasica.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/798/radio-clasica-argentina.604642bc.png",
@@ -754,7 +742,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-berlin",
+                "id": "caba-berlin",
                 "name": "Berlin 107.7",
                 "web": "https://berlin1077.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/750/radio-berlin.f0b3ecae.png",
@@ -767,7 +755,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-london-online",
+                "id": "caba-london-online",
                 "name": "London Online",
                 "web": "http://www.radiolondon.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/150/radio-london.7b628ed1.png",
@@ -779,7 +767,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-el-mundo",
+                "id": "caba-el-mundo",
                 "name": "Radio El Mundo",
                 "web": "https://radioelmundoam1070.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/787/radio-el-mundo.b17f3b4e.jpg",
@@ -792,7 +780,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-party",
+                "id": "caba-party",
                 "name": "Radio Party",
                 "web": "http://www.radioparty.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/418/radio-party-argentina.d494aeb3.jpg",
@@ -804,7 +792,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-mirlo",
+                "id": "caba-mirlo",
                 "name": "Radio Mirlo",
                 "web": "https://edithsartelli.wixsite.com/radiomirlo",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/190/radio-mirlo.05aeeca7.jpg",
@@ -816,7 +804,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-and-rock",
+                "id": "caba-and-rock",
                 "name": "Radio And Rock Network",
                 "web": "http://www.radioandrock.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/820/radio-and-rock.2535923f.png",
@@ -828,7 +816,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-uba",
+                "id": "caba-uba",
                 "name": "Radio UBA",
                 "web": "https://www.uba.ar/ubaradio",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/784/radio-uba.89d750aa.jpg",
@@ -841,7 +829,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-folklore-90-online",
+                "id": "caba-folklore-90-online",
                 "name": "Folklore 90 Online",
                 "web": "http://radiofolklore90.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/922/radio-folklore-90-online.a59e8b9e.png",
@@ -854,7 +842,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-horacio-guarany-online",
+                "id": "caba-horacio-guarany-online",
                 "name": "Horacio Guarany Online",
                 "web": "http://www.radiohoracioguarany.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/035/radio-horacio-guarany.a41d9842.png",
@@ -867,7 +855,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-uno-1031-fm",
+                "id": "caba-uno-1031-fm",
                 "name": "Uno 103.1 FM",
                 "web": "http://www.radiouno.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/657/radio-uno-1031-fm.39b4232d.png",
@@ -880,7 +868,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-paradise-online",
+                "id": "caba-paradise-online",
                 "name": "Paradise Online",
                 "web": "http://radioparadiseonline.radioporweb.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/846/radio-paradise-argentina.763626e1.jpg",
@@ -892,7 +880,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-zonica-online",
+                "id": "caba-zonica-online",
                 "name": "Zonica Online",
                 "web": "http://www.radiozonica.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/731/radio-zonica.b2b19fa4.png",
@@ -905,7 +893,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-universidad-calf",
+                "id": "caba-universidad-calf",
                 "name": "Universidad CALF Online",
                 "web": "http://www.universidadcalf.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/113/radio-universidad-calf.08f4ca87.png",
@@ -918,7 +906,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-la-luna-1140-am",
+                "id": "caba-la-luna-1140-am",
                 "name": "La Luna AM 1140",
                 "web": "http://www.radiolaluna.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/635/radio-la-luna-1140-am.111959be.jpg",
@@ -931,7 +919,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-mix-internacional-online",
+                "id": "caba-mix-internacional-online",
                 "name": "Mix Internacional Online",
                 "web": "https://radiomix.online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/081/radio-mix-internacional.21f8184f.png",
@@ -943,7 +931,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-caff-online",
+                "id": "caba-caff-online",
                 "name": "CAFF Online",
                 "web": "http://www.radiocaff.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/848/radio-caff.ff601671.jpg",
@@ -957,7 +945,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-republica-am-670",
+                "id": "caba-republica-am-670",
                 "name": "Republica AM 670",
                 "web": "http://www.radiorepublica.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/439/radio-republica.7ae6e563.jpg",
@@ -970,7 +958,19 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-malena-891-fm",
+                "id": "caba-jai-fm-963",
+                "name": "Radio JAI FM 96.3",
+                "type": "tv",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/963-logo-jai.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDg6NDE6MjUgUE0maGFzaF92YWx1ZT1rd0VSalJ4c3hHdnZIQnlybTNnK0ZRPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTEy",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "caba-malena-891-fm",
                 "name": "Malena FM 89.1",
                 "web": "https://www.pagina12.com.ar/malena",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/486/radio-malena-891-fm.8925dcf4.png",
@@ -984,7 +984,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-activa-979-fm",
+                "id": "caba-activa-979-fm",
                 "name": "Activa FM 97.9",
                 "web": "http://radioactiva979.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/398/radio-activa-979-fm.00277845.jpg",
@@ -997,7 +997,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-vida-celestial-online",
+                "id": "caba-vida-celestial-online",
                 "name": "Vida Celestial Online",
                 "web": "https://radiovidacelestial.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/022/radio-vida-celestial.7fd5b0ba.png",
@@ -1009,7 +1009,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-exito-945-fm",
+                "id": "caba-exito-945-fm",
                 "name": "Exito FM 94.5",
                 "web": "http://www.radioexitoenvivo.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/393/radio-exito-945-fm.b27055f9.png",
@@ -1021,7 +1021,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-motivo-de-vida-online",
+                "id": "caba-motivo-de-vida-online",
                 "name": "Motivo de Vida Online",
                 "web": "http://www.motivodevida.org",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/225/radio-motivo-de-vida-online.01b6eb5a.png",
@@ -1033,7 +1033,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-nipper-123-hit-master",
+                "id": "caba-nipper-123-hit-master",
                 "name": "Nipper 123 Hit Master Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/975/radio-nipper-123-hit-master.bdb96c2d.png",
                 "city": "CABA",
@@ -1044,7 +1044,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-mega-star-online",
+                "id": "caba-mega-star-online",
                 "name": "Mega Star Online",
                 "web": "https://sonicaargentina.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/711/radio-mega-star.91433e63.jpg",
@@ -1056,7 +1056,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-lider-1021",
+                "id": "caba-lider-1021",
                 "name": "Lider FM 102.1",
                 "web": "http://www.radiofmlider.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/465/radio-lider-1021.fee2a45a.png",
@@ -1068,7 +1068,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-latidos-online",
+                "id": "caba-latidos-online",
                 "name": "Estacion Latidos Agentina Online",
                 "web": "http://www.estacionlatidos.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/973/radio-latidos-argentina.2b8a6116.jpg",
@@ -1080,7 +1080,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-rasec-tropical-online",
+                "id": "caba-rasec-tropical-online",
                 "name": "Rasec Tropical Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/883/radio-rasec-tropical.2acc1522.jpg",
                 "city": "CABA",
@@ -1092,7 +1092,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-tele-redemption-online",
+                "id": "caba-tele-redemption-online",
                 "name": "Tele Redemption Online",
                 "web": "http://www.radioteleredemption.cf/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/478/radio-tele-redemption.f80778a8.png",
@@ -1104,7 +1104,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-almafuerte-online",
+                "id": "caba-almafuerte-online",
                 "name": "Almafuerte Online",
                 "web": "https://noticiasconenfoque.com.ar/envivo/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/285/radio-almafuerte.225b0900.jpg",
@@ -1117,7 +1117,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-cadena-eco",
+                "id": "caba-cadena-eco",
                 "name": "Cadena Eco AM 1530",
                 "web": "https://cadenaeco1530.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/876/radio-cadena-eco.32aa15a1.png",
@@ -1129,7 +1129,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-26-de-julio-1580",
+                "id": "caba-26-de-julio-1580",
                 "name": "26 De Julio AM 1580",
                 "web": "http://radio26dejulio.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/729/radio-26-de-julio.e10bf056.png",
@@ -1142,7 +1142,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-rayo-online",
+                "id": "caba-rayo-online",
                 "name": "Rayo Online",
                 "web": "https://radiorayo.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/138/radio-rayo.1cb305a0.png",
@@ -1154,7 +1154,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-grafica-89.3",
+                "id": "caba-grafica-89.3",
                 "name": "Radio Gráfica FM 89.3",
                 "web": "http://www.radiografica.org.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/085/radio-grafica.faa5b14f.png",
@@ -1167,7 +1167,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-poder-y-fuego-argentina-online",
+                "id": "caba-poder-y-fuego-argentina-online",
                 "name": "Poder y Fuego Argentina Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/241/radio-poder-y-fuego-argentina.86e204eb.png",
                 "city": "CABA",
@@ -1178,7 +1178,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-insignia-online",
+                "id": "caba-insignia-online",
                 "name": "Radio Insignia Online",
                 "web": "https://radioinsignia.blogspot.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/157/radio-insignia.f0aa4c8d.jpg",
@@ -1190,7 +1190,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-lu11-1280-am",
+                "id": "caba-lu11-1280-am",
                 "name": "LU11 AM 1280",
                 "web": "http://radiolu11.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/742/radio-lu11-1280-am.4fc079f7.jpg",
@@ -1203,7 +1203,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-oveman-online",
+                "id": "caba-oveman-online",
                 "name": "Oveman Online",
                 "web": "https://radio.ovemanradio.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/854/radio-oveman.f0be0507.png",
@@ -1215,7 +1215,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-ute-online",
+                "id": "caba-ute-online",
                 "name": "UTE Digital Online",
                 "web": "https://ute.org.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/607/radio-ute.d021ab7f.png",
@@ -1227,7 +1227,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-impacto-1013",
+                "id": "caba-impacto-1013",
                 "name": "Impacto FM 101.3",
                 "web": "http://www.impactobol.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/285/radio-impacto.01c6542d.jpg",
@@ -1239,7 +1239,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-redencion-celestial-online",
+                "id": "caba-redencion-celestial-online",
                 "name": "Redención Celestial Argentina Online",
                 "web": "https://redencion-celetial-argen.blogspot.com/?m=1",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/758/radio-redencion-celestial.b17cadf3.jpg",
@@ -1251,7 +1251,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-portena-89.7",
+                "id": "caba-portena-89.7",
                 "name": "Porteña FM 89.7",
                 "web": "https://www.radioportenia.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/810/radio-portena.25907c31.png",
@@ -1264,7 +1264,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-911-fm",
+                "id": "caba-911-fm",
                 "name": "Radio FM 911",
                 "web": "http://www.911fm.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/236/radio-911-fm.4957e1b8.png",
@@ -1276,7 +1276,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-castelar-argentina-online",
+                "id": "caba-castelar-argentina-online",
                 "name": "Castelar Argentina Online",
                 "web": "https://radiocastelar.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/345/radio-castelar-argentina1.6668f826.jpg",
@@ -1288,7 +1288,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-banfiel-online",
+                "id": "caba-banfiel-online",
                 "name": "Banfield Online",
                 "web": "https://radiobanfield24hs.blogspot.com/2019/02/online.html",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/069/radio-banfield.59aff09f.jpg",
@@ -1300,7 +1300,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-tiempo-de-sembradores-online",
+                "id": "caba-tiempo-de-sembradores-online",
                 "name": "Tiempo de Sembradores Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/289/radio-tiempo-de-sembradores.9df809d2.jpg",
                 "city": "CABA",
@@ -1311,7 +1311,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-ln-online",
+                "id": "caba-ln-online",
                 "name": "LN Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/894/radio-ln.d58537e1.png",
                 "city": "CABA",
@@ -1322,7 +1322,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-la-gloria-de-dios-online",
+                "id": "caba-la-gloria-de-dios-online",
                 "name": "La Gloria de Dios Online",
                 "web": "https://www.radiolagloriadedios.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/292/radio-online-la-gloria-de-dios.ece848cb.png",
@@ -1334,7 +1334,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-koradi-online",
+                "id": "caba-koradi-online",
                 "name": "Koradi Online",
                 "web": "http://www.koradi.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/555/radio-koradi-espanol.a6bd611a.png",
@@ -1346,7 +1346,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-music-online",
+                "id": "caba-music-online",
                 "name": "Music Online",
                 "web": "https://radiomusic24hs.wixsite.com/web-site",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/759/radio-music-argentina.c15cfd1a.jpg",
@@ -1358,7 +1358,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-fm-ayer-nomas-online",
+                "id": "caba-fm-ayer-nomas-online",
                 "name": "FM Ayer Nomas Online",
                 "web": "https://xat.com/RADIOFMAYERNOMAS",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/923/radio-fm-ayer-nomas.1aeae41e.png",
@@ -1370,7 +1370,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-punto-14000",
+                "id": "caba-punto-14000",
                 "name": "Punto AM 1400",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/339/radio-punto2.b7a6dca4.jpg",
                 "city": "CABA",
@@ -1381,7 +1381,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-monte-castro",
+                "id": "caba-monte-castro",
                 "name": "Monte Castro",
                 "web": "https://radiomontecastro.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/423/radio-monte-castro.4e75de4c.png",
@@ -1393,7 +1393,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-unyka-argentina-94.5",
+                "id": "caba-unyka-argentina-94.5",
                 "name": "Unyka Argentina FM 94.5",
                 "web": "https://unyka.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/119/radio-unyka-argentina.43c3956e.png",
@@ -1405,7 +1405,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-sol-catamarca-online",
+                "id": "caba-sol-catamarca-online",
                 "name": "Sol Catamarca Online",
                 "web": "http://www.radiosolcatamarca.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/644/radio-sol-catamarca.8e4a7409.jpg",
@@ -1417,7 +1417,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-salco-online",
+                "id": "caba-salco-online",
                 "name": "Radio Salco Online",
                 "web": "http://www.sal.org.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/077/radio-salco.4fbc5a5b.png",
@@ -1430,7 +1430,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-con-sentido-online",
+                "id": "caba-con-sentido-online",
                 "name": "Con Sentido Online",
                 "web": "http://radioconsentido.blogspot.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/220/radio-con-sentido.641200f5.png",
@@ -1442,7 +1442,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-la-madriguera-online",
+                "id": "caba-la-madriguera-online",
                 "name": "La Madriguera Online",
                 "web": "https://radiolamadriguera.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/452/radio-la-madriguera.1634c93e.jpg",
@@ -1454,7 +1454,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-tropical-latina-online",
+                "id": "caba-tropical-latina-online",
                 "name": "Tropical Latrina Online",
                 "web": "https://tropicallatina.radio12345.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/352/radio-tropical-latina.a1c557fd.jpg",
@@ -1467,7 +1467,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-caput-online",
+                "id": "caba-caput-online",
                 "name": "Caput Online",
                 "web": "http://radiocaput.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/228/radio-caput.10dd6655.png",
@@ -1480,7 +1480,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-sonido-sindical-del-interior-online",
+                "id": "caba-sonido-sindical-del-interior-online",
                 "name": "La Voz Sindical del Interior Online",
                 "web": "https://sonidosindicaldeli.wixsite.com/my-site-1",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/275/radio-sonido-sindical-del-interior.9bc35c0a.jpg",
@@ -1493,7 +1493,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-andriiuus-online",
+                "id": "caba-andriiuus-online",
                 "name": "Andriiuus Online",
                 "web": "http://radioandriiuus.net/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/634/radio-andriiuus.5527ee79.png",
@@ -1505,7 +1505,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-ayerza-online",
+                "id": "caba-ayerza-online",
                 "name": "Ayerza Argentina Online",
                 "web": "https://radioayerza.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/485/radio-ayerza.9847aabb.jpg",
@@ -1517,7 +1517,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-curuzu-online",
+                "id": "caba-curuzu-online",
                 "name": "Curuzu Online",
                 "web": "https://radiocuruzu.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/878/radio-curuzu-online.ec83b1a2.png",
@@ -1530,7 +1530,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-gama-1490",
+                "id": "caba-gama-1490",
                 "name": "Gama AM 1490",
                 "web": "https://radiogamaeninternet.webnode.page/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/382/radio-gama.c0ddcb9c.png",
@@ -1543,7 +1543,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-sonica-salto-online",
+                "id": "caba-sonica-salto-online",
                 "name": "Sonica Salto Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/854/radio-sonica-salto.868ddc30.png",
                 "city": "CABA",
@@ -1554,7 +1554,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-amor-y-amistad-online",
+                "id": "caba-amor-y-amistad-online",
                 "name": "Amor Y Amistad Online",
                 "web": "https://xat.com/radio_amistadyamor",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/543/radio-amor-y-amistad.5f3f5207.png",
@@ -1566,7 +1566,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-mixer-941-fm",
+                "id": "caba-mixer-941-fm",
                 "name": "Mixer 89.7 FM",
                 "web": "http://www.radiomixer.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/679/radio-mixer-897-fm.25d2e581.jpg",
@@ -1578,7 +1578,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-cdo-argentina-online",
+                "id": "caba-cdo-argentina-online",
                 "name": "CDO Argentina Online",
                 "web": "http://www.radiocdoarg.org",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/378/radio-cdo-argentina.8cb5cea3.png",
@@ -1590,7 +1590,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-conexion-berazategui-88.1",
+                "id": "caba-conexion-berazategui-88.1",
                 "name": "Conexión Berazategui FM 88.1",
                 "web": "http://www.conexionberazategui.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/512/radio-conexion-berazategui.a03c1082.png",
@@ -1602,7 +1602,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-bendecidos-argentina-online",
+                "id": "caba-bendecidos-argentina-online",
                 "name": "Bendecidos Argentina Online",
                 "web": "http://www.radiobendecidos.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/224/radio-bendecidos-argentina.2726aef6.jpg",
@@ -1614,7 +1614,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-asamblea-941",
+                "id": "caba-asamblea-941",
                 "name": "Asamblea FM 94.1",
                 "web": "http://www.radioasamblea.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/027/radio-asamblea.e20bf87a.png",
@@ -1627,7 +1627,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-sayro-online",
+                "id": "caba-sayro-online",
                 "name": "Sayro Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/264/radio-sayro.1a0275e9.png",
                 "city": "CABA",
@@ -1638,7 +1638,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-bendita-trinidad-argentina-889",
+                "id": "caba-bendita-trinidad-argentina-889",
                 "name": "Bendita Trinidad Argentina FM 88.9",
                 "web": "https://benditatrinidadargentina.net/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/719/radio-bendita-trinidad-argentina.eff6e5c8.png",
@@ -1650,7 +1650,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-el-fogon",
+                "id": "caba-el-fogon",
                 "name": "El Fogon",
                 "web": "http://endirecto.com.ar/radioelfogon",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/780/radio-el-fogon.84c859a7.png",
@@ -1662,7 +1662,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-condor-tropical-online",
+                "id": "caba-condor-tropical-online",
                 "name": "Condor Tropical Online",
                 "web": "https://radiocondortropical.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/269/radio-condor-tropical.9a3fbe65.png",
@@ -1674,7 +1674,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-lamil35",
+                "id": "caba-lamil35",
                 "name": "Canal Lamil35",
                 "type": "tv",
                 "web": "http://lamil35.com/",
@@ -1688,7 +1688,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-invox-online",
+                "id": "caba-invox-online",
                 "name": "Invox Online",
                 "web": "https://www.radioinvox.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/430/radio-invox.4a9590a1.jpg",
@@ -1700,7 +1700,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-centinela-online",
+                "id": "caba-centinela-online",
                 "name": "Centinela Online",
                 "web": "http://www.argentina.gob.ar/gendarmeria",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/403/radio-centinela.223af72f.jpg",
@@ -1712,7 +1712,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-jcb-1049-fm",
+                "id": "caba-jcb-1049-fm",
                 "name": "JCB FM 104.9",
                 "web": "http://www.radiojcb.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/028/radio-jcb-1049-fm.5e739049.jpg",
@@ -1724,7 +1724,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-djvid81-online",
+                "id": "caba-djvid81-online",
                 "name": "Djvid81 Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/263/radio-djvid81.45f7452a.png",
                 "city": "CABA",
@@ -1735,7 +1735,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-planeta-tierra-online",
+                "id": "caba-planeta-tierra-online",
                 "name": "Planeta Tierra Online",
                 "web": "https://www.radioplanetatoerra.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/583/radio-planeta-tierra.56b0ef37.jpg",
@@ -1747,7 +1747,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-rio-1061-fm",
+                "id": "caba-rio-1061-fm",
                 "name": "Rio FM 106.1",
                 "web": "https://www.fmriolapaz.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/523/radio-rio-1061-fm.1ddb6f30.png",
@@ -1760,7 +1760,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-ba89-fm-891",
+                "id": "caba-ba89-fm-891",
                 "name": "BA89 FM 89.1",
                 "web": "http://www.eurowebdigital.com",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/069/radio-ba89-fm.a40b4606.jpg",
@@ -1772,7 +1772,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-boom-show-online",
+                "id": "caba-boom-show-online",
                 "name": "Boom Show Online",
                 "web": "http://www.radioboomshow.mex.tl",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/178/radio-boom-show.41655445.jpg",
@@ -1784,7 +1784,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-power-909-fm",
+                "id": "caba-power-909-fm",
                 "name": "Power FM 90.9 FM",
                 "web": "http://espaciopower.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/199/radio-power-909-fm.ce33cefb.jpg",
@@ -1796,7 +1796,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-ory-Online",
+                "id": "caba-ory-Online",
                 "name": "Ory Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/541/radio-ory.4dc7e89f.jpg",
                 "city": "CABA",
@@ -1807,7 +1807,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-nehuen-online",
+                "id": "caba-nehuen-online",
                 "name": "Nehuén Online",
                 "web": "https://nehuenradio.wordpress.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/299/radio-nehuen.dcb27cea.jpg",
@@ -1819,7 +1819,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-siete-punto-cero-online",
+                "id": "caba-siete-punto-cero-online",
                 "name": "Siete Punto Cero Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/809/radio-siete-punto-cero.20df330f.png",
                 "city": "CABA",
@@ -1830,7 +1830,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-comrade-online",
+                "id": "caba-comrade-online",
                 "name": "Comrade Online",
                 "web": "https://radio-comrade.webcindario.com/ESCUCHAR.html",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/549/radio-comrade.e178f04d.png",
@@ -1843,7 +1843,7 @@
                 ]
             },
             {
-                "id": "ciudad-autonoma-de-buenos-aires-eco-alem-online",
+                "id": "caba-eco-alem-online",
                 "name": "ECO Alem Online",
                 "web": "https://radioecoalem.blogspot.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/959/radio-eco-alem.05f91088.png",
