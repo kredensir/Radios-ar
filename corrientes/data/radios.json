@@ -1,13 +1,13 @@
 [
     {
-        "zone": "Corrientes",
+        "zone": "Capital y Noroeste",
         "items": [
             {
-                "id": "corrientes-chamame",
-                "name": "Radio Chamamé",
+                "id": "corrientes-chamame-online",
+                "name": "Chamamé Online",
                 "web": "http://www.fundacionmemoriadelchamame.com/radio/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/640/radio-chamame.73a20784.png",
-                "city": "s Radio Chamamé",
+                "city": "Ciudad de Corrientes",
                 "province": "Corrientes",
                 "stream": "https://stream.zenolive.com/84y7b87p4gruv",
                 "categories": [
@@ -17,146 +17,139 @@
             },
             {
                 "id": "corrientes-sudamericana-1005-fm",
-                "name": "Radio Sudamericana 100.5 FM",
+                "name": "Sudamericana FM 100.5",
                 "web": "http://www.radiosudamericana.com/notix/index.php",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/559/radio-sudamericana-1005-fm.cf9bd12d.jpg",
-                "city": "s Radio Sudamericana 100.5 FM",
+                "city": "Ciudad de Corrientes",
                 "province": "Corrientes",
                 "stream": "https://turadioenvivo.com/proxy/sudamericana/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad",
+                    "noticias"
                 ]
             },
             {
                 "id": "corrientes-unne-997-fm",
-                "name": "Radio UNNE 99.7",
+                "name": "UNNE FM 99.7",
                 "web": "https://medios.unne.edu.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/943/radio-unne-997-fm.6cfbe3bb.jpg",
-                "city": "s Radio UNNE 99.7",
+                "city": "Ciudad de Corrientes",
                 "province": "Corrientes",
                 "stream": "https://stream.unne.edu.ar/radio",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad",
+                    "noticias"
                 ]
             },
             {
                 "id": "corrientes-sol-fm-1049",
-                "name": "Radio Sol FM 104.9",
+                "name": "Sol FM 104.9",
                 "web": "http://www.solfm.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/680/radio-sol-fm-1049.9789ab83.png",
-                "city": "s Radio Sol FM 104.9",
+                "city": "Ciudad de Corrientes",
                 "province": "Corrientes",
                 "stream": "https://server7.hostradios.com/8170/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad",
+                    "noticias"
                 ]
             },
             {
-                "id": "corrientes-metro",
-                "name": "Radio Metro",
-                "web": "https://www.radiometrosanjuan.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/360/radio-metro-argentina.ab02d3df.png",
-                "city": "s Radio Metro",
-                "province": "Corrientes",
-                "stream": "https://streaming.radiosenlinea.com.ar/cp/links.php?m=pls&p=8108",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "corrientes-rosario-clasica",
-                "name": "Radio Rosario Clásica",
+                "id": "corrientes-rosario-clasica-907",
+                "name": "Rosario Clásica FM 90.7",
                 "web": "https://www.rosarioclasica.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/730/radio-rosario-clasica.86e910c3.png",
-                "city": "s Radio Rosario Clásica",
+                "city": "Ciudad de Corrientes",
                 "province": "Corrientes",
                 "stream": "https://streaming1.locucionar.com/proxy/clasicarosario?mp=/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "musica"
                 ]
             },
             {
-                "id": "corrientes-dos",
-                "name": "Radio Dos",
+                "id": "corrientes-dos-993",
+                "name": "Dos FM 99.3",
                 "web": "http://www.radiodos.com.ar/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/591/radio-dos-argentina.f3a12e4e.png",
-                "city": "s Radio Dos",
+                "city": "Ciudad de Corrientes",
                 "province": "Corrientes",
                 "stream": "https://radios.solumedia.com/6396/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "comunidad",
+                    "noticias"
                 ]
             },
             {
                 "id": "corrientes-mega-online",
-                "name": "Radio Mega Online",
+                "name": "Mega Online",
                 "web": "https://zeno.fm/radio/radio-mega-online/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/924/radio-mega-online-argentina.4eaf2141.jpg",
-                "city": "s Radio Mega Online",
+                "city": "Ciudad de Corrientes",
                 "province": "Corrientes",
                 "stream": "https://stream.zeno.fm/v8974885mfhvv",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "corrientes-saladas",
-                "name": "Radio Saladas play",
-                "web": "https://radiosaladas.wuaze.com",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/212/radio-saladas.37330e49.png",
-                "city": "s Radio Saladas play",
-                "province": "Corrientes",
-                "stream": "https://stream.zeno.fm/emsaxdlcoayuv",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "musica"
                 ]
             },
             {
                 "id": "corrientes-parana-919-fm",
-                "name": "Radio Fresh",
+                "name": "Fresh FM 101.9",
                 "web": "https://zeno.fm/radio/radio-fresh-kx1x/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/161/radio-parana-919-fm.d6e89822.jpg",
-                "city": "s Radio Fresh",
+                "city": "Ciudad de Corrientes",
                 "province": "Corrientes",
                 "stream": "https://stream.zeno.fm/32y1xu16za0uv",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
+                    "musica",
+                    "comunidad"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "Paraná Sur",
+        "items": [
+            {
+                "id": "corrientes-si-911-fm",
+                "name": "Si FM 91.1",
+                "web": "https://www.radiosi.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/984/radio-si-911-fm.5f64f773.jpg",
+                "city": "Gdor. Juan E. Martínez",
+                "province": "Corrientes",
+                "stream": "https://01.solumedia.com.ar:9038/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "corrientes-saladas-online",
+                "name": "Saladas Play Online",
+                "web": "https://radiosaladas.wuaze.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/212/radio-saladas.37330e49.png",
+                "city": "Saladas",
+                "province": "Corrientes",
+                "stream": "https://stream.zeno.fm/emsaxdlcoayuv",
+                "categories": [
+                    "musica"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "Región del Iberá",
+        "items": [
+            {
+                "id": "corrientes-city-1035-fm",
+                "name": "City FM 103.5",
+                "web": "https://radiocitymercedes.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/078/radio-city-1035-fm.3e230f56.jpg",
+                "city": "Mercedes",
+                "province": "Corrientes",
+                "stream": "https://server7.hostradios.com/8210/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
                 ]
             },
             {
@@ -164,7 +157,7 @@
                 "name": "Radio Vintage",
                 "web": "https://radiovintageclasicos.blogspot.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/029/radio-vintage-argentina.08a2ffbf.png",
-                "city": "s Radio Vintage",
+                "city": "Null",
                 "province": "Corrientes",
                 "stream": "https://stream.zenolive.com/znq3wpzw34zuv",
                 "categories": [
@@ -174,103 +167,12 @@
                     "años 80 / 90",
                     "country"
                 ]
-            },
-            {
-                "id": "corrientes-la-salvacion",
-                "name": "Radio La Salvacion",
-                "web": "",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/443/radio-la-salvacion-argentina.f34e8290.jpg",
-                "city": "s Radio La Salvacion",
-                "province": "Corrientes",
-                "stream": "https://stream-174.zeno.fm/5nx3v4umcc9uv",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "corrientes-city-1035-fm",
-                "name": "Radio City 103.5 FM",
-                "web": "https://radiocitymercedes.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/078/radio-city-1035-fm.3e230f56.jpg",
-                "city": "s Radio City 103.5 FM",
-                "province": "Corrientes",
-                "stream": "https://server7.hostradios.com/8210/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "corrientes-si-911-fm",
-                "name": "Radio Si 91.1 FM",
-                "web": "https://www.radiosi.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/984/radio-si-911-fm.5f64f773.jpg",
-                "city": "s Radio Si 91.1 FM",
-                "province": "Corrientes",
-                "stream": "https://01.solumedia.com.ar:9038/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "corrientes-la-red",
-                "name": "La Red AM 910",
-                "web": "https://www.lared.am/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/295/la-red-am.94f5f9be.jpg",
-                "city": "s La Red AM 910",
-                "province": "Corrientes",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "corrientes-con-vos",
-                "name": "Radio Con Vos 89.9",
-                "web": "http://radioconvos.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg",
-                "city": "s Radio Con Vos 89.9",
-                "province": "Corrientes",
-                "stream": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
-            {
-                "id": "corrientes-rivadavia",
-                "name": "Radio Rivadavia 630 AM",
-                "web": "http://rivadavia.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg",
-                "city": "s Radio Rivadavia 630 AM",
-                "province": "Corrientes",
-                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            },
+            }
+        ]
+    },
+    {
+        "zone": "Región de la Costa del Uruguay",
+        "items": [
             {
                 "id": "corrientes-x-virasoro-1059-fm",
                 "name": "X Virasoro FM 105.9",
