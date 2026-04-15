@@ -1,0 +1,142 @@
+[
+    {
+        "zone": "Cordillerana",
+        "items": [
+            {
+                "id": "rio-negro-huemul-885",
+                "name": "Huemul FM 88.5",
+                "web": "http://www.radiohuemul.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/986/radio-huemul.fe99abd2.png",
+                "city": "Bariloche",
+                "province": "Río Negro",
+                "stream": "https://01.solumedia.com.ar:8488/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "rio-negro-limay-online",
+                "name": "Limay Online",
+                "web": "https://radiolimay.webcindario.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/485/radio-limay.ca10ad7c.jpg",
+                "city": "Bariloche",
+                "province": "Río Negro",
+                "stream": "https://stream.zeno.fm/trzpwnlqoxftv",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "rio-negro-seis-bariloche-1031 ",
+                "name": "Seis Bariloche FM 103.1",
+                "web": "https://www.bariloche2000.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/130/radio-bariloche-2000.824a23a1.png",
+                "city": "Bariloche",
+                "province": "Río Negro",
+                "stream": "https://guille777.radioca.st/stream",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "rio-negro-100-999",
+                "name": "Radio 100 FM 99.9",
+                "web": "https://www.radio100.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/789/radio-100-argentina.7226b052.jpg",
+                "city": "El Bolsón",
+                "province": "Río Negro",
+                "stream": "https://stream-176.zeno.fm/rd3392k6ynhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyZDMzOTJrNnluaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikt6bGdDa0xuUkxtRmUxRHVkLXd6c2ciLCJpYXQiOjE3NzYyOTI4MjgsImV4cCI6MTc3NjI5Mjg4OH0.PeKO90y4hvsyd2jjnFmm6syAkAzOrMEhJDjIcJfHIKk",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "rio-negro-la-negra-901",
+                "name": "La Negra FM 90.1",
+                "web": "http://radiolanegra.blogspot.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/301/radio-la-negra.99a8ca8f.jpg",
+                "city": "El Bolsón",
+                "province": "Río Negro",
+                "stream": "https://dn721800.ca.archive.org/0/items/20250506lamatera/20250506lamatera.mp3",
+                "categories": [
+                    "comunidad"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "Alto Valle",
+        "items": [
+            {
+                "id": "rio-negro-el-atalaya-online",
+                "name": "El Atalaya Online",
+                "web": "https://elatalayaradiotvevangelicaonline.blogspot.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/700/radio-el-atalaya-online-cipolletti-argentina.734b175e.png",
+                "city": "Cipolletti",
+                "province": "Río Negro",
+                "stream": "https://miestacion.turadioonline.com.ar/8300/stream",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "rio-negro-kairos-fm-online",
+                "name": "Kairos FM Online",
+                "web": "https://radiokairosroca.blogspot.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/637/radio-kairos-fm.fa112ce0.png",
+                "city": "General Roca",
+                "province": "Río Negro",
+                "stream": "https://stream.zeno.fm/fa2zykrotmstv",
+                "categories": [
+                    "religion"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "La Costa y Valle Inferior",
+        "items": [
+            {
+                "id": "rio-negro-em-979",
+                "name": "EM 97.9",
+                "web": "https://radioem.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/316/radio-em-979.fc28f647.jpg",
+                "city": "Viedma",
+                "province": "Río Negro",
+                "stream": "https://edge02.radiohdvivo.com/radioem",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "rio-negro-popular-viedma-1059",
+                "name": "Popular Viedma FM 105.9",
+                "web": "https://www.radiopopularviedma.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/833/radio-popular-viedma.d9912d91.png",
+                "city": "Viedma",
+                "province": "Río Negro",
+                "stream": "https://streaming1.locucionar.com/proxy/radiopopular?mp=/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "rio-negro-zona-liberada-1067",
+                "name": "Zona Liberada FM 106.7",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/559/radio-zona-liberada.3d4cf6d5.jpg",
+                "city": "Viedma",
+                "province": "Río Negro",
+                "stream": "https://servidor1.miradiolive.com/8044/stream",
+                "categories": [
+                    "musica"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "Línea Sur",
+        "items": [
+            {}
+        ]
+    }
+]
