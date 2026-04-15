@@ -1,0 +1,112 @@
+[
+    {
+        "zone": "Capital y Litoral",
+        "items": [
+            {
+                "id": "formosa-activa-formosa-1073",
+                "name": "Activa Formosa FM 107.3",
+                "web": "http://www.radioactivaformosa.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/475/radio-activa-formosa.036234d0.png",
+                "city": "Ciudad de Formosa",
+                "province": "Formosa",
+                "stream": "http://streaming01.shockmedia.com.ar:9614/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "formosa-fernando-907",
+                "name": "Fernando FM 90.7",
+                "web": "http://www.radiofernando.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/643/radio-fernando.ccf22712.jpg",
+                "city": "Ciudad de Formosa",
+                "province": "Formosa",
+                "stream": "https://streaming.radiosenlinea.com.ar/8116/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "formosa-frontera-online",
+                "name": "Frontera Online",
+                "web": "https://frontera.appderadios.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/471/radio-frontera-argentina.a359abb2.png",
+                "city": "Ciudad de Formosa",
+                "province": "Formosa",
+                "stream": "https://stream.xweb.ar/8128/stream",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "formosa-sublime-gracia-tv-online",
+                "name": "Sublime Gracia TV Online",
+                "web": "http://www.sublimegraciatv.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/636/radio-sublime-gracia-tv.b1e4bbf1.png",
+                "city": "Ciudad de Formosa",
+                "province": "Formosa",
+                "stream": "http://cdn.instream.audio:9289/stream",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "formosa-uno-mayor-villafane-fm-985",
+                "name": "Uno Villafañe FM 98.5",
+                "web": "http://www.radiounoonline.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/563/radio-uno-mayor-villafane-fm-985.12730e01.png",
+                "city": "Ciudad de Formosa",
+                "province": "Formosa",
+                "stream": "https://server7.hostradios.com/8110/stream?t=1776291302830",
+                "categories": [
+                    "musica",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "formosa-clan-fm-online",
+                "name": "Clan FM Online",
+                "web": "http://www.radioclanfm.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/986/radio-clan-fm.c749e938.jpg",
+                "city": "Ciudad de Formosa",
+                "province": "Formosa",
+                "stream": "https://stream-179.zeno.fm/7krtygmrvy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3a3J0eWdtcnZ5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjJRUGNrNDhuVHo2WEN3dWxqdTJfNUEiLCJpYXQiOjE3NzYyOTE0MzYsImV4cCI6MTc3NjI5MTQ5Nn0.g9ATsTxfk6DBov3lYwItVMjLEtbbFNVQlRhh0FIyx9w",
+                "categories": [
+                    "deportes",
+                    "noticias"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "Pirané",
+        "items": [
+            {}
+        ]
+    },
+    {
+        "zone": "El Impenetrable y Centro-Oeste",
+        "items": [
+            {}
+        ]
+    },
+    {
+        "zone": "Pilcomayo y Extremo Oeste",
+        "items": [
+            {
+                "id": "formosa-fiesta-clorinda-online",
+                "name": "Fiesta Clorinda Online",
+                "web": "http://radiofiestaclorinda.tk/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/627/radio-fiesta-clorinda.2c428e5f.png",
+                "city": "Clorinda",
+                "province": "Formosa",
+                "stream": "https://stream.zeno.fm/u6r9821rp2zuv",
+                "categories": [
+                    "musica"
+                ]
+            }
+        ]
+    }
+]
