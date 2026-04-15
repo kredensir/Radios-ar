@@ -97,6 +97,19 @@
                 ]
             },
             {
+                "id": "buenos-aires-arroba-online",
+                "name": "Arroba Online",
+                "web": "http://www.radioarroba.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/654/radio-arroba.a922bc08.jpg",
+                "city": "AMBA",
+                "province": "Buenos Aires",
+                "stream": "https://argentina.republicahosting.com:1029/live",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
                 "id": "buenos-aires-online-campeones",
                 "name": "Campeones Online",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/buenosaires/buenosaires/online-logo-campeones.webp",

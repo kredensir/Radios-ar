@@ -235,6 +235,19 @@
                 ]
             },
             {
+                "id": "cordoba-libre-927",
+                "name": "Libre FM 92.7",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/301/radio-libre-argentina.8545274c.png",
+                "city": "Ciudad de Córdoba",
+                "province": "Córdoba",
+                "stream": "https://streaming6.locucionar.com:24404/stream",
+                "categories": [
+                    "musica",
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
                 "id": "cordoba-los-desterra2-online",
                 "name": "Los Desterra2 Online",
                 "web": "https://propagandasparaven.wixsite.com/losdesterra2",

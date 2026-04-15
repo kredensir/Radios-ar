@@ -1,0 +1,89 @@
+[
+    {
+        "zone": "Gran San Juan",
+        "items": [
+            {
+                "id": "san-juan-alas-1017-fm",
+                "name": "Alas 101.7 FM",
+                "web": "https://changomovil.net/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/527/radio-alas-1017-fm.d53fdb50.png",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://server.laradio.online:58741/live",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "san-juan-la-red-fm-893",
+                "name": "La Red FM 89.3",
+                "web": "https://www.diariohuarpe.com/radio/la-red",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/553/radio-la-red-fm-893.9caf1253.png",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://streaming.radiosenlinea.com.ar:10929/;;;stream.mp3",
+                "categories": [
+                    "comunidad",
+                    "noticias",
+                    "deportes"
+                ]
+            },
+            {
+                "id": "san-juan-la-voz-1005-fm",
+                "name": "La Voz FM 100.5",
+                "web": "http://www.lavozfm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/863/radio-la-voz-1005-fm.17225dd7.jpg",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://host.serviceinfinito.com.ar:7003/;stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "san-juan-santa-cecilia-917-fm",
+                "name": "Santa Cecilia FM 91.7",
+                "web": "http://www.santaceciliafm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/600/radio-santa-cecilia-917-fm.4da1b275.png",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://01.solumedia.com.ar:8492/stream",
+                "categories": [
+                    "musica",
+                    "deportes"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "Valles Cordilleranos",
+        "items": [
+            {
+                "id": "san-juan-manantial-online",
+                "name": "Manantial Online",
+                "web": "https://www.radiomanantial993.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/262/radio-manantial-argentina.95d91b4e.png",
+                "city": "Calingasta",
+                "province": "San Juan",
+                "stream": "https://edge02.radiohdvivo.com/manantial993",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "Valle de Jáchal",
+        "items": [
+            {}
+        ]
+    },
+    {
+        "zone": "Valle de Tulum y el Este",
+        "items": [
+            {}
+        ]
+    }
+]
