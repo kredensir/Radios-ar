@@ -1,0 +1,109 @@
+[
+    {
+        "zone": "Santiago del Estero",
+        "items": [
+            {
+                "id": "santiago-del-estero-lv11",
+                "name": "Radio LV11",
+                "web": "http://radiolv11.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/302/radio-lv11.13e50755.png",
+                "city": "s Radio LV11",
+                "province": "Santiago del Estero",
+                "stream": "https://streaming.evolucionstreaming.com/8040/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santiago-del-estero-la-trova-online",
+                "name": "La Trova Online",
+                "web": "http://www.radiolatrova.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/380/radio-la-trova.938cc60a.png",
+                "city": "Ciudad de Santiago del Estero",
+                "province": "Santiago del Estero",
+                "stream": "https://stm11.xcast.com.br:8114/;",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "santiago-del-estero-con-aguante",
+                "name": "RADIO CON AGUANTE",
+                "web": "http://www.radioconaguante.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/013/radio-con-aguante.e20050f2.png",
+                "city": "s RADIO CON AGUANTE",
+                "province": "Santiago del Estero",
+                "stream": "https://streaming01.shockmedia.com.ar/9536/;",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santiago-del-estero-provincia-1009",
+                "name": "Radio Provincia 100.9 FM",
+                "web": "http://www.radioprovincia1055.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/826/radio-provincia-1009.bc57ce60.jpg",
+                "city": "s Radio Provincia 100.9 FM",
+                "province": "Santiago del Estero",
+                "stream": "https://streaming2.locucionar.com/proxy/provincia?mp=/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santiago-del-estero-soft-1021-fm",
+                "name": "Radio Soft 102.1 FM",
+                "web": "http://www.softradio.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/325/radio-soft-1021-fm.de195227.png",
+                "city": "s Radio Soft 102.1 FM",
+                "province": "Santiago del Estero",
+                "stream": "https://sslstream.online/8198/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "santiago-del-estero-data-termas-online",
+                "name": "Data Termas Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/664/radio-data-termas.3c4ac337.png",
+                "city": "Termas de Río Hondo",
+                "province": "Santiago del Estero",
+                "stream": "https://edge02.radiohdvivo.com/datatermas",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "santiago-del-estero-marplus-1025-fm",
+                "name": "Radio MarPlus 102.5 FM",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/796/radio-marplus-1025-fm.1431de94.jpg",
+                "city": "s Radio MarPlus 102.5 FM",
+                "province": "Santiago del Estero",
+                "stream": "https://stream.zeno.fm/as9bvc7t7hhvv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            }
+        ]
+    }
+]
