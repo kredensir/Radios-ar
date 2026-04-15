@@ -628,19 +628,6 @@
                 "categories": [
                     "musica"
                 ]
-            },
-            {
-                "id": "corrientes-x-virasoro-1059-fm",
-                "name": "X Virasoro FM 105.9",
-                "web": "http://radioxvirasoro1059.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/864/radio-x-virasoro-1059-fm.2441abb6.jpg",
-                "city": "Gdor. Virasoro",
-                "province": "Corrientes",
-                "stream": "https://streaming01.shockmedia.com.ar:10854/stream",
-                "categories": [
-                    "musica",
-                    "comunidad"
-                ]
             }
         ]
     }
