@@ -1,0 +1,292 @@
+[
+    {
+        "zone": "Tucumán",
+        "items": [
+            {
+                "id": "tucuman-rock-and-pop",
+                "name": "FM Rock & Pop",
+                "web": "http://fmrockandpop.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/744/fm-rock-pop.32c080fd.jpg",
+                "city": "s FM Rock & Pop",
+                "province": "Tucumán",
+                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC_SC",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-independencia-590-am",
+                "name": "LV12 AM 590",
+                "web": "https://www.lv12.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/308/lv12.c6f0bb8d.png",
+                "city": "San Miguel de Tucumán",
+                "province": "Tucumán",
+                "stream": "https://frontend.radiohdvivo.com/radiolv12/live",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "tucuman-bicentenario-fm",
+                "name": "Radio Bicentenario FM",
+                "web": "https://www.radiobicentenario.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/019/radio-bicentenario-fm.0341ca8e.jpg",
+                "city": "s Radio Bicentenario FM",
+                "province": "Tucumán",
+                "stream": "https://01.solumedia.com.ar:7792/;stream/1",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-la-jeta-retro",
+                "name": "Radio La Jeta Retro",
+                "web": "http://www.lajeta.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/003/radio-la-jeta-retro.06b3dc97.jpg",
+                "city": "s Radio La Jeta Retro",
+                "province": "Tucumán",
+                "stream": "https://stream.zeno.fm/6ckiwx9mcgftv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-renuevo-a-las-naciones",
+                "name": "Radio Renuevo",
+                "web": "https://bit.ly/radiorenuevo-online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/831/radio-renuevo-a-las-naciones.7d5f458b.jpg",
+                "city": "s Radio Renuevo",
+                "province": "Tucumán",
+                "stream": "https://stream.zeno.fm/hdt0m4avqg0uv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-retro-1079-fm",
+                "name": "Radio Retro 107.9 FM",
+                "web": "https://radiotv.ar/retrofm1079",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/045/radio-retro-1079-fm.ef1eeefc.jpg",
+                "city": "s Radio Retro 107.9 FM",
+                "province": "Tucumán",
+                "stream": "https://streaming01.shockmedia.com.ar:9124/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-morentica-del-valle",
+                "name": "Radio Morenita del Valle",
+                "web": "https://morenitadelvalle.argentinastream.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/683/radio-morentica-del-valle.342888c9.png",
+                "city": "s Radio Morenita del Valle",
+                "province": "Tucumán",
+                "stream": "https://server.radiostreaming.com.ar/8410/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-plano-informativo",
+                "name": "Radio Plano Informativo",
+                "web": "http://www.planoinformativo.fm/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/701/radio-plano-informativo.6e9f1b7d.png",
+                "city": "s Radio Plano Informativo",
+                "province": "Tucumán",
+                "stream": "https://stream11.mexiserver.com:9028/live",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-web-tucuman",
+                "name": "Radio Web Tucuman",
+                "web": "https://sites.google.com/view/radiowebtucumanfm/inicio",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/592/radio-web-tucuman.c26b6307.png",
+                "city": "s Radio Web Tucuman",
+                "province": "Tucumán",
+                "stream": "https://stream.zeno.fm/fsydscdoqpwvv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-la-jeta-hits",
+                "name": "Radio La Jeta Hits",
+                "web": "",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/002/radio-la-jeta-hits.44a058a4.jpg",
+                "city": "s Radio La Jeta Hits",
+                "province": "Tucumán",
+                "stream": "https://stream.zeno.fm/mpz5qcktlv9uv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-baires-90s",
+                "name": "Radio Baires 90s",
+                "web": "https://www.radiobaires.com/baires90s/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/955/radio-baires-90s.c065647d.png",
+                "city": "s Radio Baires 90s",
+                "province": "Tucumán",
+                "stream": "https://stream90s.radiobaires.com/live",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-baires-80s",
+                "name": "Radio Baires 80s",
+                "web": "https://www.radiobaires.com/baires80s/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/956/radio-baires-80s.d5bf7817.png",
+                "city": "s Radio Baires 80s",
+                "province": "Tucumán",
+                "stream": "https://stream80s.radiobaires.com/live",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-la-jeta-la-nelson",
+                "name": "Radio La Jeta La Nelson",
+                "web": "http://www.lajeta.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/004/radio-la-jeta-la-nelson.e576749e.jpg",
+                "city": "s Radio La Jeta La Nelson",
+                "province": "Tucumán",
+                "stream": "https://stream.zeno.fm/nvejjrtvirkuv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-la-jeta-rock",
+                "name": "Radio La Jeta Rock",
+                "web": "",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/001/radio-la-jeta-rock.dde10fc4.jpg",
+                "city": "s Radio La Jeta Rock",
+                "province": "Tucumán",
+                "stream": "https://stream.zeno.fm/anpe4r9tfyetv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-sandro",
+                "name": "Radio SANDRO",
+                "web": "",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/262/radio-sandro.d0fb763e.jpg",
+                "city": "s Radio SANDRO",
+                "province": "Tucumán",
+                "stream": "https://stream.zeno.fm/btrsgg99bm8uv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-wow",
+                "name": "Radio WoW",
+                "web": "https://radiowow.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/364/radio-wow-argentina.f34bea88.png",
+                "city": "s Radio WoW",
+                "province": "Tucumán",
+                "stream": "https://cdn.instream.audio/:9169/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-contacto",
+                "name": "Radio Contacto",
+                "web": "http://www.radiocontacto.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/447/radio-contacto.67675b30.png",
+                "city": "s Radio Contacto",
+                "province": "Tucumán",
+                "stream": "https://streaming.tucumanradio.com.ar:7102/;",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            },
+            {
+                "id": "tucuman-estacion-pacara",
+                "name": "Radio Estación Pacará",
+                "web": "https://zeno.fm/radio/radio-estacion-pacara-24-hs-online/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/571/radio-estacion-pacara.7a6b5194.png",
+                "city": "s Radio Estación Pacará",
+                "province": "Tucumán",
+                "stream": "https://stream.zeno.fm/h6ef7a41m8avv",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            }
+        ]
+    }
+]
