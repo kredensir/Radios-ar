@@ -84,6 +84,19 @@
                 ]
             },
             {
+                "id": "buenos-aires-con-aguante-online",
+                "name": "Con Aguante Online",
+                "web": "http://www.radioconaguante.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/013/radio-con-aguante.e20050f2.png",
+                "city": "AMBA",
+                "province": "Buenos Aires",
+                "stream": "https://streaming01.shockmedia.com.ar/9536/;",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
                 "id": "buenos-aires-online-campeones",
                 "name": "Campeones Online",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/buenosaires/buenosaires/online-logo-campeones.webp",
