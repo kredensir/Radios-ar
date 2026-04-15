@@ -1,6 +1,6 @@
 [
     {
-        "zone": "Catamarca",
+        "zone": "Valle Central",
         "items": [
             {
                 "id": "catamarca-ancasti-fm-985",
@@ -87,7 +87,12 @@
                 "categories": [
                     "musica"
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "zone": "Puna y Valles Altos",
+        "items": [
             {
                 "id": "catamarca-esperanza-fm-963",
                 "name": "Esperanza FM 96.3",
@@ -101,6 +106,18 @@
                     "musica"
                 ]
             }
+        ]
+    },
+    {
+        "zone": "Región de los Llanos",
+        "items": [
+            {}
+        ]
+    },
+    {
+        "zone": "Las Sierras y Humedales",
+        "items": [
+            {}
         ]
     }
 ]
