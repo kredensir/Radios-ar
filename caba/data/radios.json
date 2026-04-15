@@ -313,7 +313,8 @@
                 "province": "Buenos Aires",
                 "stream": "https://ipanel.instream.audio/8004/stream",
                 "categories": [
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
@@ -477,7 +478,8 @@
                 "stream": "https://streaming2.locucionar.com/proxy/radiowall1?mp=/stream",
                 "categories": [
                     "musica",
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
@@ -596,7 +598,8 @@
                 "stream": "https://cdn.instream.audio:9582/stream",
                 "categories": [
                     "noticias",
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
@@ -671,7 +674,8 @@
                 "stream": "https://27403.live.streamtheworld.com/AM990AAC.aac",
                 "categories": [
                     "comunidad",
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {

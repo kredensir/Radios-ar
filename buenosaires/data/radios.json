@@ -369,7 +369,8 @@
                 "stream": "https://streaming1.locucionar.com/proxy/laradiodechivilcoy?mp=/stream",
                 "categories": [
                     "comunidad",
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
@@ -613,7 +614,8 @@
                 "province": "Buenos Aires",
                 "stream": "https://streaming5.locucionar.com/proxy/radiorosales?mp=/stream",
                 "categories": [
-                    "musica"
+                    "musica",
+                    "deportes"
                 ]
             }
         ]

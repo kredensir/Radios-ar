@@ -35,7 +35,8 @@
                 "province": "Santa Fe",
                 "stream": "http://server1.veemesoft.com.ar:9760/;",
                 "categories": [
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
@@ -203,7 +204,7 @@
         "items": [
             {
                 "id": "santa-fe-fmx-1035",
-                "name": "Radio FMX 103.5",
+                "name": "FMX 103.5",
                 "web": "https://lt10.com.ar",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/848/radio-fmx-1035.e49b0d66.png",
                 "city": "Ciudad de Santa Fe",
@@ -212,7 +213,8 @@
                 "stream": "https://radio.arcast.net:1060/stream",
                 "categories": [
                     "musica",
-                    "folklore"
+                    "folklore",
+                    "deportes"
                 ]
             },
             {
@@ -236,7 +238,8 @@
                 "province": "Santa Fe",
                 "stream": "https://servidor1.hostradios.com:8010/stream",
                 "categories": [
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
@@ -286,7 +289,8 @@
                 "province": "Santa Fe",
                 "stream": "https://streaming1.locucionar.com/proxy/fmvivencias1031?mp=/stream",
                 "categories": [
-                    "musica"
+                    "musica",
+                    "deportes"
                 ]
             },
             {

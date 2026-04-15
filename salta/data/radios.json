@@ -68,7 +68,8 @@
                 "province": "Salta",
                 "stream": "https://server.radiostreaming.com.ar/8564/stream",
                 "categories": [
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
@@ -210,7 +211,8 @@
                 "province": "Salta",
                 "stream": "https://media.nexxisgroup.com.ar/listen/embarcacionbelgrano/stream",
                 "categories": [
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
@@ -223,7 +225,8 @@
                 "stream": "https://radios.solumedia.com/6430/stream",
                 "categories": [
                     "folklore",
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {

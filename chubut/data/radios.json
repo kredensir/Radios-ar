@@ -11,7 +11,8 @@
                 "province": "Chubut",
                 "stream": "https://cdn.instream.audio/:9051/stream",
                 "categories": [
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
@@ -108,7 +109,8 @@
                 "province": "Chubut",
                 "stream": "https://radio01.ferozo.com/proxy/ra01000981?mp=/stream",
                 "categories": [
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             }
         ]

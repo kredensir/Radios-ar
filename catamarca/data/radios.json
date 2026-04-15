@@ -11,7 +11,8 @@
                 "province": "Catamarca",
                 "stream": "https://streaming.gostreaming.com.ar:10957/;/;type=mp3",
                 "categories": [
-                    "musica"
+                    "musica",
+                    "deportes"
                 ]
             },
             {
@@ -60,7 +61,8 @@
                 "province": "Catamarca",
                 "stream": "https://masservidor.net:8694/stream",
                 "categories": [
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
