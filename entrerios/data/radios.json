@@ -1,0 +1,239 @@
+[
+    {
+        "zone": "Costa del Paraná",
+        "items": [
+            {
+                "id": "entre-rios-corazon-1041",
+                "name": "Corazon FM 104.1",
+                "web": "http://www.fmcorazon.org",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/023/radio-corazon-argentina.69e41b35.jpg",
+                "city": "Paraná",
+                "province": "Entre Ríos",
+                "stream": "https://radio01.ferozo.com/proxy/ra01000944?mp=/stream",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "entre-rios-general-urquiza-1260-am",
+                "name": "Gral Urquiza Parana AM 1260",
+                "web": "http://www.radionacional.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/348/radio-general-urquiza-1260-am.10ce6ea4.png",
+                "city": "Paraná",
+                "province": "Entre Ríos",
+                "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad44",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "entre-rios-la-amistad-1550-am",
+                "name": "La Amistad AM 1550",
+                "web": "http://radiolaamistad.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/465/radio-la-amistad-1550-am.b7959727.jpg",
+                "city": "La Paz",
+                "province": "Entre Ríos",
+                "stream": "http://streaming01.shockmedia.com.ar:9282/stream",
+                "categories": [
+                    "musica",
+                    "folklore"
+                ]
+            },
+            {
+                "id": "entre-rios-de-oro",
+                "name": "Oro Verde Radio",
+                "web": "http://oroverderadio.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/137/oro-verde-radio.02e427ba.png",
+                "city": "Oro Verde",
+                "province": "Entre Ríos",
+                "stream": "http://stm1.voxhd.com.br:11096/;",
+                "video": "https://cs3.voxhd.com.br/11096/11096/playlist.m3u8",
+                "categories": [
+                    "musica",
+                    "comunidad",
+                    "tv"
+                ]
+            },
+            {
+                "id": "entre-rios-general-guemes-online",
+                "name": "General Güemes Online",
+                "web": "http://guemesam.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/393/radio-general-guemes.0c404149.png",
+                "city": "Villa Urquiza",
+                "province": "Entre Ríos",
+                "stream": "https://sonic.host-live.com/8482/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "Costa del Uruguay",
+        "items": [
+            {
+                "id": "entre-rios-fenix-online",
+                "name": "Fenix Online",
+                "web": "http://www.radiofenixcdelu.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/462/radio-fenix-argentina.66c84de7.jpg",
+                "city": "Concepción del Uruguay",
+                "province": "Entre Ríos",
+                "stream": "https://streaming.evolucionstreaming.com:10719/stream?icy=http",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "entre-rios-9-digital-969",
+                "name": "9 Digital FM 96.9",
+                "web": "http://www.radio9digital.net/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/468/radio-9-digital.a23ab369.jpg",
+                "city": "Concepción del Uruguay",
+                "province": "Entre Ríos",
+                "stream": "https://ssl.radiosnethosting.com/index.php?port=9164",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "entre-rios-line-concordia-online",
+                "name": "Line Concordia Online",
+                "web": "http://radioline.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/770/radio-line-concordia.6107cd72.jpg",
+                "city": "Concordia",
+                "province": "Entre Ríos",
+                "stream": "https://server.streamcasthd.com/8712/stream",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "entre-rios-uno-de-aquellos-online",
+                "name": "Master Online",
+                "web": "https://masterfmconcordia.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/269/radio-uno-de-aquellos.8cbc73b1.jpg",
+                "city": "Concordia",
+                "province": "Entre Ríos",
+                "stream": "https://streaming.radiosenlinea.com.ar:10608/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "entre-rios-concordia-560",
+                "name": "Concordia AM 560 ",
+                "web": "http://www.lt15concordia.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/922/radio-concordia-lt15.a659dc84.png",
+                "city": "Concordia",
+                "province": "Entre Ríos",
+                "stream": "https://lt15concordia.radioca.st/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "entre-rios-zona-997",
+                "name": "Zona FM 99.7",
+                "web": "http://www.radiozona.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/705/radio-zona-997.f5b74e99.png",
+                "city": "Concordia",
+                "province": "Entre Ríos",
+                "stream": "https://cdn.instream.audio/:9349/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "entre-rios-integracion-905",
+                "name": "Integración 90.5",
+                "web": "https://federalaldia.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/601/radio-integracion-905.c3d28247.png",
+                "city": "Federal",
+                "province": "Entre Ríos",
+                "stream": "https://streaming01.shockmedia.com.ar/9992/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "entre-rios-bethel-gualeguaychu-online",
+                "name": "Bethel Gualeguaychú Online",
+                "web": "https://www.radiobethel.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/851/radio-bethel-gualeguaychu.51ba133f.jpg",
+                "city": "Gualeguaychú",
+                "province": "Entre Ríos",
+                "stream": "https://server.laradio.online/proxy/david_castro02?1724253865776=&mp=/stream",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "entre-rios-vida-fm-1035",
+                "name": "Vida FM 103.5",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/760/radio-vida-fm-1035.acf441ce.jpg",
+                "city": "Nogoyá",
+                "province": "Entre Ríos",
+                "stream": "https://stream.zeno.fm/mar5pydmgg0uv",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "Región Central",
+        "items": [
+            {
+                "id": "entre-rios-estacion-fox-online",
+                "name": "Estacion Fox Online",
+                "web": "http://www.radioestacionfox.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/164/radio-estacion-fox.534208be.png",
+                "city": "Villaguay",
+                "province": "Entre Ríos",
+                "stream": "https://streaming.radiosenlinea.com.ar/9236/stream",
+                "categories": [
+                    "musica"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "Región del Delta y Sur",
+        "items": [
+            {
+                "id": "entre-rios-gualeguay-1520",
+                "name": "Gualeguay AM 1520",
+                "web": "https://radiogualeguay.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/913/radio-gualeguay.aabc6088.png",
+                "city": "Gualeguay",
+                "province": "Entre Ríos",
+                "stream": "https://streaming01.shockmedia.com.ar/8340/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "entre-rios-100-fm-gualeguay-1049",
+                "name": "100 FM Gualeguay FM 104.9",
+                "web": "https://radiogualeguay.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/914/radio-100-fm-gualeguay.335b3337.png",
+                "city": "Gualeguay",
+                "province": "Entre Ríos",
+                "stream": "https://streaming01.shockmedia.com.ar/9216/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            }
+        ]
+    }
+]
