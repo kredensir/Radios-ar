@@ -3,6 +3,34 @@
         "zone": "Costa del Paraná",
         "items": [
             {
+                "id": "entre-rios-la-amistad-1550-am",
+                "name": "La Amistad AM 1550",
+                "web": "http://radiolaamistad.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/465/radio-la-amistad-1550-am.b7959727.jpg",
+                "city": "La Paz",
+                "province": "Entre Ríos",
+                "stream": "http://streaming01.shockmedia.com.ar:9282/stream",
+                "categories": [
+                    "musica",
+                    "folklore"
+                ]
+            },
+            {
+                "id": "entre-rios-de-oro",
+                "name": "Oro Verde Radio",
+                "web": "http://oroverderadio.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/137/oro-verde-radio.02e427ba.png",
+                "city": "Oro Verde",
+                "province": "Entre Ríos",
+                "stream": "http://stm1.voxhd.com.br:11096/;",
+                "video": "https://cs3.voxhd.com.br/11096/11096/playlist.m3u8",
+                "categories": [
+                    "musica",
+                    "comunidad",
+                    "tv"
+                ]
+            },
+            {
                 "id": "entre-rios-corazon-1041",
                 "name": "Corazon FM 104.1",
                 "web": "http://www.fmcorazon.org",
@@ -29,31 +57,16 @@
                 ]
             },
             {
-                "id": "entre-rios-la-amistad-1550-am",
-                "name": "La Amistad AM 1550",
-                "web": "http://radiolaamistad.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/465/radio-la-amistad-1550-am.b7959727.jpg",
-                "city": "La Paz",
+                "id": "entre-rios-uap-1043",
+                "name": "UAP FM 104.3",
+                "web": "http://fmestudiantil.uap.edu.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/736/fm-estudiantil-1043.234b8893.jpg",
+                "city": "San Martín",
                 "province": "Entre Ríos",
-                "stream": "http://streaming01.shockmedia.com.ar:9282/stream",
+                "stream": "https://sonic.host-live.com/8178/;",
                 "categories": [
-                    "musica",
-                    "folklore"
-                ]
-            },
-            {
-                "id": "entre-rios-de-oro",
-                "name": "Oro Verde Radio",
-                "web": "http://oroverderadio.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/137/oro-verde-radio.02e427ba.png",
-                "city": "Oro Verde",
-                "province": "Entre Ríos",
-                "stream": "http://stm1.voxhd.com.br:11096/;",
-                "video": "https://cs3.voxhd.com.br/11096/11096/playlist.m3u8",
-                "categories": [
-                    "musica",
-                    "comunidad",
-                    "tv"
+                    "religion",
+                    "comunidad"
                 ]
             },
             {

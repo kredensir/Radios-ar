@@ -1,0 +1,320 @@
+[
+    {
+        "zone": "Gran Mendoza",
+        "items": [
+            {
+                "id": "mendoza-nihuil-680",
+                "name": "Nihuil AM 680",
+                "web": "http://radionihuil.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/811/radio-nihuil.3b07fc45.png",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NIHUIL_AM680AAC_SC?dist=triton-widget&pname=tdwidgets",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "mendoza-lvdiez-720-am",
+                "name": "LVDiez 720 AM",
+                "web": "http://www.lvdiez.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/905/radio-lvdiez-720-am.da2878ad.png",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "https://streamserver-2.xyz/listen/lvdiez/radio.aac",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "mendoza-infinita-985",
+                "name": "Infinita FM 98.5",
+                "web": "http://radioinfinita.com.ar/index.php",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/972/radio-infinita-argentina.f8af031d.png",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "https://cdn.instream.audio/:8225/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "mendoza-2-fm-1031",
+                "name": "FM 2 FM 103.1",
+                "web": "http://www.radio2fm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/589/radio-2-fm.70491ad8.jpg",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "https://edge-st1-audio.masterhost.com.ar/listen/radio_2_fm/radio.mp3",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "mendoza-a-1057",
+                "name": "Radio A FM 105.7",
+                "web": "http://www.laradioa.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/952/radio-a-1057.d1d9b685.png",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "https://masservidor.net:7180/stream/;type=mp3",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "mendoza-play-1057",
+                "name": "Radio Play FM 105.7",
+                "web": "http://www.grupolidermendoza.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/473/radio-play-argentina.0fa8ac0e.png",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "https://radio01.ferozo.com/proxy/ra01001205?mp=/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "mendoza-el-faro-online",
+                "name": "El Faro Online",
+                "web": "http://radielfaro.org",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/351/radio-el-faro.2541d497.png",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "https://tolkien.republicahosting.net:2374/live",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "mendoza-zero-911",
+                "name": "Zero FM 91.1",
+                "web": "http://www.radiozero.fm/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/292/radio-zero-911.a8046e74.jpg",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "https://radiozero.fm/reproductor/proxy",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "mendoza-zona-sinergia-online",
+                "name": "Zona Sinergia Online",
+                "web": "https://zonasinergia.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/736/radio-zona-sinergia.a747ab84.png",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "https://emisora.zonasinergia.com/8032/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "mendoza-noticias-mendoza-1025",
+                "name": "Noticias Mendoza FM 102.5",
+                "web": "https://radionoticiasmendoza.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/826/radio-noticias-mendoza.46cfbd82.png",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "https://edge04.radiohdvivo.com/noticiasmdz",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "mendoza-mz-online",
+                "name": "Radio MZ Online",
+                "web": "http://radiomz.online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/615/radio-mz.787097e5.jpg",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "https://server.radiostreaming.com.ar/8482/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "mendoza-37-980",
+                "name": "Radio 37 AM 980",
+                "web": "http://www.radio37.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/289/radio-37.8370556a.jpg",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "http://streaming01.serverconnectinc.site:8062/stream.mp3?_=1",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "mendoza-play-fm-1019",
+                "name": "Play FM 101.9",
+                "web": "http://www.laplay.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/014/radio-play-fm.ab33c8cc.png",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "http://www.genexservicios.com:8212/;",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "mendoza-vida-plena-941",
+                "name": "Vida Plena FM 94.1",
+                "web": "https://www.radiovidaplena.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/031/radio-vida-plena-argentina.811efca7.png",
+                "city": "Mendoza",
+                "province": "Mendoza",
+                "stream": "https://genexservicios.com:2000/stream/vidaplenahd/stream",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "mendoza-estacion-dj-online",
+                "name": "Estacion DJ Online",
+                "web": "https://www.radioestaciondj.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/825/radio-estacion-dj2.42afdd50.jpg",
+                "city": "Guaymallen",
+                "province": "Mendoza",
+                "stream": "https://server4.hostradios.com/8206/stream",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "mendoza-centro-965-fm",
+                "name": "Radio Centro 96.5 FM",
+                "web": "http://radiocentro965.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/927/radio-centro-965-fm.79387ce1.png",
+                "city": "Null",
+                "province": "Mendoza",
+                "stream": "https://radios.solumedia.com:10949/stream",
+                "categories": [
+                    "antiguas / éxitos clásicos",
+                    "noticias",
+                    "dance / electrónica",
+                    "años 80 / 90",
+                    "country"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "Oasis Centro",
+        "items": []
+    },
+    {
+        "zone": "Oasis Sur",
+        "items": [
+            {
+                "id": "mendoza-play-classic-1001",
+                "name": "Play FM 100.1",
+                "web": "http://www.grupolidermendoza.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/187/radio-play-classic.6b3d3ecd.png",
+                "city": "San Rafael",
+                "province": "Mendoza",
+                "stream": "https://radio02.ferozo.com/proxy/ra02001647?mp=/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "mendoza-demo-online",
+                "name": "Open 24 Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/255/radio-demo.7e0f7b89.png",
+                "city": "San Rafael",
+                "province": "Mendoza",
+                "stream": "https://server.streamcasthd.com:7150/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "mendoza-isla-939",
+                "name": "Isla FM 93.9",
+                "web": "https://grupolidermendoza.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/526/radio-isla.270873c5.png",
+                "city": "San Rafael",
+                "province": "Mendoza",
+                "stream": "https://radio02.ferozo.com/proxy/ra02001646?mp=/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            }
+        ]
+    },
+    {
+        "zone": "Oasis Este",
+        "items": [
+            {
+                "id": "mendoza-escalante-1005",
+                "name": "Escalante FM 100.5 ",
+                "web": "http://www.radioescalante.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/914/radio-escalante.5ee03bc6.png",
+                "city": "Rivadavia",
+                "province": "Mendoza",
+                "stream": "https://miestacion.turadioonline.com.ar/8038/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "mendoza-atomika-online",
+                "name": "Radio Atomika Online",
+                "web": "https://radioatomika.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/244/radio-atomika.2ede0c9a.png",
+                "city": "San Martín",
+                "province": "Mendoza",
+                "stream": "https://streaming.radiosenlinea.com.ar/8652/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "mendoza-galileo-fm-907",
+                "name": "Galileo FM 90.7",
+                "web": "http://radiogalileo.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/700/radio-galileo-fm.5ef0518b.png",
+                "city": "San Martín",
+                "province": "Mendoza",
+                "stream": "https://server.laradio.online/proxy/edgardo_tineo?mp=/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "mendoza-oasis-991",
+                "name": "Oasis FM 99.1",
+                "web": "http://www.diariodigitaloasis.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/123/radio-oasis-argentina.65fe1619.png",
+                "city": "San Martín",
+                "province": "Mendoza",
+                "stream": "http://s1.radiosnethosting.com:9732/;",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "mendoza-vida-1051-fm",
+                "name": "Vida FM 105.1",
+                "web": "https://www.radiovida1051.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/702/radio-vida-1051-fm.428e4002.png",
+                "city": "Palmira",
+                "province": "Mendoza",
+                "stream": "https://genexservicios.com:8006/;",
+                "categories": [
+                    "comunidad",
+                    "musica",
+                    "religion"
+                ]
+            }
+        ]
+    }
+]
