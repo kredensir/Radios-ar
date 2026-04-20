@@ -680,6 +680,68 @@
                     "musica",
                     "deportes"
                 ]
+            },
+            {
+                "id": "buenos-aires-universidad-891",
+                "name": "Universidad FM 89.1",
+                "image": "https://yt3.googleusercontent.com/7PENlc8xLW1S2PHLbbPuGKXvqmxlOJ6MGe8wNNVl4lUvw4viBzVT1yH6bnNLx1j0MlF9ko3M=s900-c-k-c0x00ffffff-no-rj",
+                "city": "La Matanza",
+                "province": "Buenos Aires",
+                "type": "tv",
+                "stream": "https://5f700d5b2c46f.streamlock.net/unlam/unlam/playlist.m3u8",
+                "video": "https://5f700d5b2c46f.streamlock.net/unlam/unlam/playlist.m3u8",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-rebelde-740",
+                "name": "Rebelde AM 740",
+                "image": "https://yt3.googleusercontent.com/7PENlc8xLW1S2PHLbbPuGKXvqmxlOJ6MGe8wNNVl4lUvw4viBzVT1yH6bnNLx1j0MlF9ko3M=s900-c-k-c0x00ffffff-no-rj",
+                "city": "AMBA",
+                "province": "Buenos Aires",
+                "stream": "https://yt3.googleusercontent.com/l9q0s5DwTzfft8GpJDAXG4ezcqlfMlq9ck9lPU462fQPDHUBP_R3WqSBtqSXNmDVsaCVgbkzBA=s900-c-k-c0x00ffffff-no-rj",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-rebelde-740",
+                "name": "Rebelde AM 740",
+                "image": "https://yt3.googleusercontent.com/7PENlc8xLW1S2PHLbbPuGKXvqmxlOJ6MGe8wNNVl4lUvw4viBzVT1yH6bnNLx1j0MlF9ko3M=s900-c-k-c0x00ffffff-no-rj",
+                "city": "AMBA",
+                "province": "Buenos Aires",
+                "stream": "https://n06.radiojar.com/qkxht62hy8hvv?rj-ttl=5&rj-tok=AAABnaxZjPsAmcciGBaNMVbPmw",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-bitbox-933",
+                "name": "BitBox FM 93.3",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVaMbiYQekcNw_ySH-xXiFgeYvkaGH9tT4Ag&s",
+                "city": "AMBA",
+                "province": "Buenos Aires",
+                "stream": "https://ipanel.instream.audio:7011/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "buenos-aires-bitbox-933",
+                "name": "BitBox FM 93.3",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVaMbiYQekcNw_ySH-xXiFgeYvkaGH9tT4Ag&s",
+                "city": "AMBA",
+                "province": "Buenos Aires",
+                "stream": "https://ipanel.instream.audio:7011/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
             }
         ]
     }
