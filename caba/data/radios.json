@@ -1850,7 +1850,7 @@
                 "id": "caba-la-100-latino-online",
                 "name": "La 100 Latino Online",
                 "web": "https://radio-comrade.webcindario.com/ESCUCHAR.html",
-                "image": "https://cloudfrontfenix.cienradios.com/programasyemisoras/players/logos/la100-latino.svg",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/999-logo-la-100.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://27693.live.streamtheworld.com/FLATINOS_56AAC.aac",
@@ -1873,7 +1873,7 @@
                 ]
             },
             {
-                "id": "caba-la-100-latino-online",
+                "id": "caba-la-100-top-40-online",
                 "name": "La 100 Top 40 Online",
                 "web": "https://radio-comrade.webcindario.com/ESCUCHAR.html",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/999-logo-la-100.webp",
@@ -1885,7 +1885,7 @@
                 ]
             },
             {
-                "id": "caba-la-100-rock-online",
+                "id": "caba-la-100-clasicos-80-online",
                 "name": "La 100 Clasicos 80/90 Online",
                 "web": "https://radio-comrade.webcindario.com/ESCUCHAR.html",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/999-logo-la-100.webp",
@@ -1898,7 +1898,7 @@
                 ]
             },
             {
-                "id": "caba-la-100-rock-online",
+                "id": "caba-la-100-nuevos-clasicos-online",
                 "name": "La 100 Nuevos Clasicos Online",
                 "web": "https://radio-comrade.webcindario.com/ESCUCHAR.html",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/999-logo-la-100.webp",
