@@ -136,6 +136,18 @@
                 "categories": [
                     "musica"
                 ]
+            },
+            {
+                "id": "caba-eco-alem-online",
+                "name": "ECO Alem Online",
+                "web": "https://radioecoalem.blogspot.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/959/radio-eco-alem.05f91088.png",
+                "city": "Posadas",
+                "province": "Misiones",
+                "stream": "https://stream.zeno.fm/qrwc6mdkewzuv",
+                "categories": [
+                    "comunidad"
+                ]
             }
         ]
     },

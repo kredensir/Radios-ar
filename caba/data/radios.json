@@ -1847,14 +1847,66 @@
                 ]
             },
             {
-                "id": "caba-eco-alem-online",
-                "name": "ECO Alem Online",
-                "web": "https://radioecoalem.blogspot.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/959/radio-eco-alem.05f91088.png",
+                "id": "caba-la-100-latino-online",
+                "name": "La 100 Latino Online",
+                "web": "https://radio-comrade.webcindario.com/ESCUCHAR.html",
+                "image": "https://cloudfrontfenix.cienradios.com/programasyemisoras/players/logos/la100-latino.svg",
                 "city": "CABA",
-                "province": "Misiones",
-                "stream": "https://stream.zeno.fm/qrwc6mdkewzuv",
+                "province": "Buenos Aires",
+                "stream": "https://27693.live.streamtheworld.com/FLATINOS_56AAC.aac",
                 "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "caba-la-100-rock-online",
+                "name": "La 100 Rock Online",
+                "web": "https://radio-comrade.webcindario.com/ESCUCHAR.html",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/999-logo-la-100.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://27413.live.streamtheworld.com/FROCKNAC_56AAC.aac",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "caba-la-100-latino-online",
+                "name": "La 100 Top 40 Online",
+                "web": "https://radio-comrade.webcindario.com/ESCUCHAR.html",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/999-logo-la-100.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://27603.live.streamtheworld.com/FHITS_56AAC.aac",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "caba-la-100-rock-online",
+                "name": "La 100 Clasicos 80/90 Online",
+                "web": "https://radio-comrade.webcindario.com/ESCUCHAR.html",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/999-logo-la-100.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://26523.live.streamtheworld.com/FCLASICOS_56AAC.aac",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "caba-la-100-rock-online",
+                "name": "La 100 Nuevos Clasicos Online",
+                "web": "https://radio-comrade.webcindario.com/ESCUCHAR.html",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/999-logo-la-100.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://27573.live.streamtheworld.com/FNCLASICOS_56AAC.aac",
+                "categories": [
+                    "musica",
                     "comunidad"
                 ]
             }
