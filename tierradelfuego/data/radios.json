@@ -15,6 +15,19 @@
                 ]
             },
             {
+                "id": "tierra-del-fuego-estacion-del-siglo-1053 ",
+                "name": "Estacion del Siglo FM 105.3",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/368/estacion-del-siglo.a5ff818c.png",
+                "web": "estaciondelsiglo.net",
+                "city": "Río Grande",
+                "province": "Tierra del Fuego",
+                "stream": "http://streamall.alsolnet.com/estaciondelsigloaudio",
+                "categories": [
+                    "comunidad",
+                    "deporte"
+                ]
+            },
+            {
                 "id": "tierra-del-fuego-provincia-999",
                 "name": "Provincia FM 99.9",
                 "web": "http://www.radioprovinciatdf.com.ar",
@@ -47,6 +60,68 @@
                 "city": "Ushuaia",
                 "province": "Tierra del Fuego",
                 "stream": "http://giss.tv:8001/radiosobral.mp3",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "tierra-del-fuego-yo-argentino-online",
+                "name": "Yo Argentino Online",
+                "web": "https://yoargentino.net/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/137/yo-argentino-radio.0c86a7ed.jpg",
+                "city": "Ushuaia",
+                "province": "Tierra del Fuego",
+                "stream": "https://server6.hostradios.com:7195/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "tierra-del-fuego-1039",
+                "name": "The Cabinn FM 103.9",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/591/the-cabinn-radio.9844e6ea.png",
+                "city": "Ushuaia",
+                "province": "Tierra del Fuego",
+                "stream": "https://cdn.instream.audio:9256/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "tierra-del-fuego-FM-Fuego-901",
+                "name": "FM Fuego 90.1",
+                "web": "www.fmfuego.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/466/fm-fuego.6e3ee797.png",
+                "city": "Ushuaia",
+                "province": "Tierra del Fuego",
+                "stream": "https://radiordomi.com/8390/stream",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "tierra-del-fuego-FM-Ushuaia-1025",
+                "name": "FM Ushuaia 102.5",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/024/fm-ushuaia.08c0c76a.png",
+                "web": "https://www.fmushuaia.com.ar/",
+                "city": "Ushuaia",
+                "province": "Tierra del Fuego",
+                "stream": "https://radio01.ferozo.com/proxy/ra01000772?mp=/;",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "tierra-del-fuego-Aire-Libre-FM-963",
+                "name": "Aire Libre FM 96.3",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/666/aire-libre-fm.d1aa6dc2.png",
+                "web": "www.airelibre.com.ar/",
+                "city": "Ushuaia",
+                "province": "Tierra del Fuego",
+                "stream": "https://5f700d5b2c46f.streamlock.net/airelibrefm/airelibrefm/playlist.m3u8",
                 "categories": [
                     "musica",
                     "comunidad"
