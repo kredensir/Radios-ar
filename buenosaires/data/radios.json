@@ -696,6 +696,31 @@
                 ]
             },
             {
+                "id": "buenos-aires-FM-Federal-995",
+                "name": "FM Federal FM 99.5",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/289/fm-federal.be6ba5c9.png",
+                "web": "www.fmfederal.com/finde-en-fm-federal/",
+                "city": "Perito Moreno",
+                "province": "Santa Cruz",
+                "stream": "https://sonic.host-live.com/8176/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "buenos-aires-Ciudad-UNM-88.7",
+                "name": "Ciudad UNM 88.7",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/791/ciudad-unm-radio-fm-887.d7c1f028.jpg",
+                "web": "www.unm.edu.ar",
+                "city": "Perito Moreno",
+                "province": "Buenos Aires",
+                "stream": "https://radiostreamingserver.com.ar/stream/ciudadunmradio",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "buenos-aires-rebelde-740",
                 "name": "Rebelde AM 740",
                 "image": "https://yt3.googleusercontent.com/7PENlc8xLW1S2PHLbbPuGKXvqmxlOJ6MGe8wNNVl4lUvw4viBzVT1yH6bnNLx1j0MlF9ko3M=s900-c-k-c0x00ffffff-no-rj",

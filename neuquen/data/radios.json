@@ -111,6 +111,19 @@
                 "categories": [
                     "comunidad"
                 ]
+            },
+            {
+                "id": "santa-cruz-",
+                "name": "",
+                "image": "",
+                "web": "",
+                "city": "Ushuaia",
+                "province": "Santa Cruz",
+                "stream": "",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
             }
 
         ]

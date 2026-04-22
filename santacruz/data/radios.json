@@ -15,6 +15,83 @@
                 ]
             },
             {
+                "id": "santa-cruz-LaVanguardia-Noticias-1061",
+                "name": "La Vanguardia Noticias FM 106.1",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/811/la-vanguardia-noticias.59951c15.jpg",
+                "web": "www.lavanguardianoticias.com.ar/",
+                "city": "Caleta Olivia",
+                "province": "Santa Cruz",
+                "stream": "https://server.laradio.online/proxy/gabriel_prieto?1600871491116=&mp=/stream",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "santa-cruz-FM-Frecuencia-Patagonia-99.3",
+                "name": "FM Frecuencia Patagonia 99.3",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/736/fm-frecuencia-patagonia-993.695867fe.png",
+                "web": "vocesyapuntes.com/radio/",
+                "city": "Caleta Olivia",
+                "province": "Santa Cruz",
+                "stream": "https://server.laradio.online/proxy/nelson_aguilar?1725224300236=&mp=/stream",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "santa-cruz-Pandemia-92.1",
+                "name": "Pandemia FM 92.1",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/656/pandemia-radio.da2bb673.png",
+                "web": "www.pandemiaradio.com.ar",
+                "city": "Caleta Olivia",
+                "province": "Santa Cruz",
+                "stream": "https://01.solumedia.com.ar:7864/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "santa-cruz-FM-De-La-Cuenca-107.5",
+                "name": "FM De La Cuenca 107.5",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/553/fm-de-la-cuenca-1075.3350b2a2.png",
+                "web": "https://fmdelacuenca.com/",
+                "city": "Caleta Olivia",
+                "province": "Santa Cruz",
+                "stream": "https://frontend.radiohdvivo.com/fmdelacuenca1075/live",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "santa-cruz-FM-Dimension-100.3",
+                "name": "FM Dimensión 100.3",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/518/fm-dimension-1003.1f622ba5.png",
+                "web": "fmdimension.com.ar/",
+                "city": "El Calafate",
+                "province": "Santa Cruz",
+                "stream": "https://streaming2.locucionar.com/proxy/fmdimension1003?mp=/stream",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "santa-cruz-La-Retro-92.5",
+                "name": "La Retro FM 92.5",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/660/la-retro-925-fm.285bfdad.jpg",
+                "web": "https://www.unolaradio.com/2021/10/la-retro-fm-925-mhz-vivo.html?m=1",
+                "city": "Pico Truncado",
+                "province": "Santa Cruz",
+                "stream": "https://streaming01.shockmedia.com.ar:10861/;",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "santa-cruz-fm-desire-1017",
                 "name": "Radio Desire FM 101.7",
                 "web": "https://radiofmdesire.com/",
@@ -24,6 +101,19 @@
                 "stream": "https://centova.servidoraweb.net:9031/stream",
                 "categories": [
                     "musica"
+                ]
+            },
+            {
+                "id": "santa-cruz-ADN24Digital-Online",
+                "name": "ADN24 Digital Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/534/adn24digital.2fad7d60.jpg",
+                "web": "https://adn24digital.com.ar/",
+                "city": "Puerto Deseado",
+                "province": "Santa Cruz",
+                "stream": "https://server.laradio.online/proxy/juan_saborido?mp=/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
                 ]
             },
             {
@@ -39,6 +129,19 @@
                 ]
             },
             {
+                "id": "santa-cruz-LU14-830",
+                "name": "LU14 AM 830",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/517/lu14.0faa095d.png",
+                "web": "https://lu14.santacruz.gob.ar/",
+                "city": "Río Gallegos",
+                "province": "Santa Cruz",
+                "stream": "https://transmision-lu14.santacruz.gob.ar/lu14.mp3",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "santa-cruz-amgyp-online",
                 "name": "Amgyp Online",
                 "web": "https://radioamgyp.com",
@@ -46,6 +149,41 @@
                 "city": "Río Gallegos",
                 "province": "Santa Cruz",
                 "stream": "https://az11.yesstreaming.net:8120/radio.mp3",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "santa-cruz-Wave-Online",
+                "name": "Wave Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/737/radio-wave-argentina.d749a03b.png",
+                "web": "www.radiowave.com.ar",
+                "city": "Río Gallegos",
+                "province": "Santa Cruz",
+                "stream": "https://streaming3.locucionar.com/proxy/radiowave?mp=/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "santa-cruz-QSRock-Online",
+                "name": "QSRock Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/127/qsrockradio.c17c771a.jpg",
+                "city": "Río Gallegos",
+                "province": "Santa Cruz",
+                "stream": "https://argentina.republicahosting.com:2340/live",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "santa-cruz-Info24-Online",
+                "name": "Info24 Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/760/info24-radio.57431996.png",
+                "web": "https://info24radio.com/",
+                "city": "Río Gallegos",
+                "province": "Santa Cruz",
+                "stream": "https://az10.yesstreaming.net:8010/radio.mp3?refresh=1667396748383",
                 "categories": [
                     "musica"
                 ]
