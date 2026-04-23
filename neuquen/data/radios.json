@@ -3,6 +3,19 @@
         "zone": "Neuquén",
         "items": [
             {
+                "id": "neuquen-Nova-90.7",
+                "name": "Nova FM 90.7",
+                "image": "https://novacontenidos.com/wp-content/uploads/2024/02/icono.png",
+                "web": "www.novacontenidos.com",
+                "city": "Bariloche",
+                "province": "Neuquen",
+                "stream": "https://01.solumedia.com.ar:8782/stream",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "neuquen-vibra-online",
                 "name": "Vibra Buta Ranquil Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/678/radio-vibra.6bd6d4b0.png",
@@ -11,6 +24,92 @@
                 "stream": "https://stream.zeno.fm/4k5dc6n7cy8uv",
                 "categories": [
                     "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "neuquen-RN-RADIO-Online",
+                "name": "RN Radio Online",
+                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/280344291_317114063834884_7271796153786309830_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=44ITj85Lv2EQ7kNvwEIu6D1&_nc_oc=AdqfLCz_fKld-hOYB-51-86ueAhyhve3KJzzdWhN-fkj-Kuxa40oEtVUnRJRW9_LGnM&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=jFmsOpedT1Lgz61DUDqTqA&_nc_ss=7b2a8&oh=00_Af1c69CuQbhvVxR49lIiWPOWpjxGaFtIYW2hQe1L0qG7XQ&oe=69EF38AE",
+                "web": "https://www.rionegro.com.ar/radio/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://01.solumedia.com.ar:9012/stream",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "neuquen-NoticiasNQN-Online",
+                "name": "NoticiasNQN Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/576/escucha-nqn.5244d2e0.png",
+                "web": "https://www.noticiasnqn.com.ar/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://streaming01.shockmedia.com.ar:10905/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "neuquen-Sonomix-Online",
+                "name": "Sonomix Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/394/sonomix-radio.29582459.png",
+                "web": "https://sonomixradio.github.io/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://s2.servicioderadio.com/8664/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "neuquen-Memory-FM-100.9",
+                "name": "Memory FM 100.9 ",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/995/memory-fm-1009.f553f748.png",
+                "web": "https://patagoniamultimedios.com/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://server.laradio.online/proxy/nicolas_rodriguez01?mp=/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "neuquen-Concepto-Neuquen-FM-93.9",
+                "name": "Concepto Neuquen FM 93.9",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyEXyyszJ2PNVZ5rFqRfGrYld1oeXtsZ3r2Q&s",
+                "web": "https://patagoniamultimedios.com/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://server.laradio.online/proxy/nicolas_rodriguez02?mp=/stream",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "neuquen-Conecta2-Online",
+                "name": "Conecta2 Online",
+                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/420450163_373580338610853_5229597789474245744_n.png?_nc_cat=111&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=pxECZpzfCHYQ7kNvwGVtfJj&_nc_oc=Adp2U1D9z8AtUfmjYGgXR1EIOIDX12XEQ0SN9CsMuAwdkGoJLs9bVn9bVOY9AakCFcU&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=2Dmf66VqxMmE9HNuePL5tQ&_nc_ss=7b2a8&oh=00_Af2HwA9zsbfotxdTCDu5Px10rk-iLVKZUNnv7QAJwWwPpw&oe=69EF5456",
+                "web": "https://www.conecta2radio.com.ar/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://streaming.criterioonline.com.ar/proxy/conecta2/stream?cb=1776908815339",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "neuquen-Descubri-Tu-Destino-Online",
+                "name": "Descubri Tu Destino Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/121/descubri-tu-destino.22cc3123.jpg",
+                "web": "https://www.descubritudestino.com/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://streamconex.com:8194/stream",
+                "categories": [
                     "comunidad"
                 ]
             },
@@ -63,6 +162,200 @@
                 ]
             },
             {
+                "id": "neuquen-LU5-AM600",
+                "name": "LU5 AM 600",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/245/lu5-radio.75b6dd17.png",
+                "web": "https://lu5am.com/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://live.lu5am.com:8443/LU5",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "neuquen-Ochentóxico-Online",
+                "name": "Ochentóxico Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/200/ohentoxico-retro.34d16548.png",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://miestacion.turadioonline.com.ar/8016/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "neuquen-Nova-91.9",
+                "name": "Nova FM 91.9",
+                "image": "https://novacontenidos.com/wp-content/uploads/2024/02/icono.png",
+                "web": "www.novacontenidos.com",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://radios2.tecnosoul.com.ar:8001/nova-neuquen",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "neuquen-Cadena-Uno-94.3",
+                "name": "Cadena Uno FM 94.3",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/608/cadena-uno-carlos-eguia.b80a8294.jpg",
+                "web": "https://www.carloseguia.com",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://carloseguia.ar/live",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "neuquen-AM550-La-Primera-550",
+                "name": "AM550 La Primera AM 550",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/995/am550-la-primera.452bdf82.png",
+                "web": "https://am550laprimera.com/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://sonic.host-live.com:10851/stream",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "neuquen-Cumbre-AM-1400",
+                "name": "Cumbre AM 1400",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/928/cumbre-am-1400.9aea63c4.png",
+                "web": "https://amcumbre.com/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://cdn.instream.audio/:9366/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "neuquen-FM-Laser-107.9",
+                "name": "FM Laser 107.9",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/934/fm-laser-1079.e4f5a75f.jpg",
+                "web": "http://www.frecuencialaser.com.ar/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://frontend.radiohdvivo.com/laserfm1079/live",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "neuquen-Flashback-Online",
+                "name": "Flashback Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/372/flashback-radio-neuquen.6a078adb.png",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://streamingraddios.online/proxy/flashback?mp=/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "neuquen-Sensation-107.5",
+                "name": "Sensation FM 107.5",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/128/sensation-radio-nqn.cb8ebce8.png",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "http://radio01.ferozo.com:8976/;stream.mp3",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "neuquen-Radio-TV-Vamos-Online",
+                "name": "Radio TV Vamos Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/369/lets-go-radio-tv.59091f28.jpg",
+                "web": "https://www.radiotvvamos.com",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "http://streaming01.radiosenlinea.com.ar:8866/;",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "neuquen-Inminente-Online",
+                "name": "Inminente Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/198/inminente-rock.aa483978.jpg",
+                "web": "https://inminente.com.ar/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://free.rcast.net/69815",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "neuquen-Activa-Neuquén",
+                "name": "Activa Neuquén",
+                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/565628303_1278311057640117_5151047178495288770_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=lX6wENzqSRoQ7kNvwGq06Wc&_nc_oc=AdouA5_JlwhqTVccfXhMPYNK78JEq8riRVBhCxFZrkVfxAqFbOBkE-VqjkuWWq6QK_4&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=g8LzSrYFOMXo_cIS8rwFvg&_nc_ss=7b2a8&oh=00_Af0bQHD_KeR2Mfzqgw6tUANYKMTS15UvXiGBdYKD4EUHWQ&oe=69EF4170",
+                "web": "activaneuquen.com",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://edge02.radiohdvivo.com/activanqn",
+                "categories": [
+                    "comunidad",
+                    "deportes"
+                ]
+            },
+            {
+                "id": "neuquen-Pirkas-88.9",
+                "name": "Pirkas FM 88.9",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/031/pirkas-877.3a278ce2.png",
+                "web": "https://www.pirkasfm.com/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://edge04.radiohdvivo.com/pirkas",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "neuquen-Los-Chicos-TV-NQN-Online",
+                "name": "Los Chicos TV NQN Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/579/la-mano-de-dios.6de0b953.png",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://stream-177.zeno.fm/bgvpj6cykemuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiZ3ZwajZjeWtlbXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjZNM041UnJtUnRlbC1OTjlaOWJCV3ciLCJpYXQiOjE3NzY5MDY3NzMsImV4cCI6MTc3NjkwNjgzM30.qLm1aY-mGNu0Vi_XIU7EKWzSVbWXlfqvIJO-afNa2bY",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "neuquen-CBN-Neuquén-Online",
+                "name": "CBN Neuquén Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/459/cbn-neuquen.1d511a34.png",
+                "web": "https://cbnneuquen.com/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://streaming01.radiosenlinea.com.ar/9390/stream",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "neuquen-Pirkas-Latina-87.7",
+                "name": "Pirkas Latina 87.7",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/482/pirkas-latina.0aba1cb1.png",
+                "web": "https://www.pirkasfm.com/",
+                "city": "Ciudad de Neuquén",
+                "province": "Neuquen",
+                "stream": "https://edge04.radiohdvivo.com/pirkas/latina",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
                 "id": "neuquen-fm-lider-955",
                 "name": "FM Líder 95.5",
                 "web": "http://www.cutralcoalinstante.com/radio",
@@ -89,6 +382,69 @@
                 ]
             },
             {
+                "id": "neuquen-FM-Tiempo-105.1",
+                "name": "FM Tiempo 105.1",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/356/fm-tiempo-1051.386de9b4.png",
+                "web": "https://www.fmtiempo1051.com.ar/",
+                "city": "Cutral-Có",
+                "province": "Neuquen",
+                "stream": "https://stream.radioinfo.ar/5908/stream/?nocache=1&type=http",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "neuquen-FM-Top-Hit-102.7",
+                "name": "FM Top Hit 102.7",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/877/fm-top-hit-1027.3d68e2bd.png",
+                "web": "https://www.fmtophit1027.com.ar/",
+                "city": "Cutral-Có",
+                "province": "Neuquen",
+                "stream": "https://stream.radioinfo.ar/9950/stream/?nocache=1&type=http",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "neuquen-Fuego-FM-105.9",
+                "name": "Fuego FM 105.9",
+                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/480310990_1074047734736872_4678549504556055752_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=ASZz0hpXP6AQ7kNvwFPQHvx&_nc_oc=Adou4cllDZtthwsVYYIYyBmaJMNNXTolUZXFALMrYSi2f9h_1VlBzepZy3zTVMcrPiE&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=6sWRRnmAH6UJqN0B9mBpqg&_nc_ss=7b2a8&oh=00_Af3TW44Nt62KDIqZ-PzrcawMlIUZ4A5aAMtELxkzDiBLFA&oe=69EF3AC0",
+                "web": "https://fuego24.com/",
+                "city": "Cutral-Có",
+                "province": "Neuquen",
+                "stream": "https://radio15.servidorderadio.net/8120/stream",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "neuquen-Cuasar-FM-104.5",
+                "name": "Cuasar FM 104.5",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/427/cuasar-fm.a14d92eb.jpg",
+                "web": "https://fmcuasar.com.ar/",
+                "city": "Junín de los Andes",
+                "province": "Neuquen",
+                "stream": "https://vps-c0159cbc.vps.ovh.ca/8008/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "neuquen-FM-Club-Patagonia-FM-88.9",
+                "name": "FM Club Patagonia FM 88.9",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/508/fm-club-patagonia.0b442409.jpg",
+                "web": "https://linktr.ee/fmclubpatagonia",
+                "city": "Junín de los Andes",
+                "province": "Neuquen",
+                "stream": "https://radio01.ferozo.com/proxy/ra01000872?mp=/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
                 "id": "neuquen-fun-1001-fm",
                 "name": "Fun FM 100.1",
                 "web": "http://www.radiofun.com.ar",
@@ -98,6 +454,55 @@
                 "stream": "https://streaming2.locucionar.com/proxy/radiofun?mp=/stream",
                 "categories": [
                     "comunidad"
+                ]
+            },
+            {
+                "id": "neuquen-Nova-98.9",
+                "name": "Nova FM 98.9",
+                "image": "https://novacontenidos.com/wp-content/uploads/2024/02/icono.png",
+                "web": "www.novacontenidos.com",
+                "city": "San Martín de los Andes",
+                "province": "Neuquen",
+                "stream": "https://01.solumedia.com.ar:8208/stream",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "neuquen-Rex-FM-Online",
+                "name": "Rex FM Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/124/rex-fm.4fd27ddb.png",
+                "web": "www.rexfm.com.ar",
+                "city": "San Martín de los Andes",
+                "province": "Neuquen",
+                "stream": "https://stream-161.zeno.fm/qu31uftsqfxuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxdTMxdWZ0c3FmeHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImVFcURlZ09UUmZ5dHJGS09PdTJ2OUEiLCJpYXQiOjE3NzY5MDU0MTEsImV4cCI6MTc3NjkwNTQ3MX0.JGydjz7TpptECxir-8b2PGn1ehJoA1mQ6U3of2JN96Q",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "neuquen-Nova-102.1",
+                "name": "Nova FM 102.1",
+                "image": "https://novacontenidos.com/wp-content/uploads/2024/02/icono.png",
+                "web": "www.novacontenidos.com",
+                "city": "Villa La Angostura",
+                "province": "Neuquen",
+                "stream": "https://01.solumedia.com.ar:8680/stream",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "neuquen-Magazine-Turistico-Online",
+                "name": "Magazine Turistico Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/221/magazine-turistico.827e1122.jpg",
+                "city": "Villa La Angostura",
+                "province": "Neuquen",
+                "stream": "https://stream-176.zeno.fm/pyu618cd9rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJweXU2MThjZDlyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9MbE9GcUdjUUFTOTB6TWFFYjV3a1EiLCJpYXQiOjE3NzY5MDcwNDgsImV4cCI6MTc3NjkwNzEwOH0.kpXp2mnwdNFBcohVKJtHmE9ZwHErzVFggzgWFEdJB3E",
+                "categories": [
+                    "musica"
                 ]
             },
             {
@@ -113,19 +518,17 @@
                 ]
             },
             {
-                "id": "santa-cruz-",
-                "name": "",
-                "image": "",
-                "web": "",
-                "city": "Ushuaia",
-                "province": "Santa Cruz",
-                "stream": "",
+                "id": "neuquen-La-Radiola-92.5",
+                "name": "La Radiola 92.5",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/723/la-radiola-925.32bfa919.png",
+                "web": "https://laradiolafm925.blogspot.com/",
+                "city": "Zapala",
+                "province": "Neuquen",
+                "stream": "https://edge02.radiohdvivo.com/laradiola925",
                 "categories": [
-                    "musica",
-                    "comunidad"
+                    "musica"
                 ]
             }
-
         ]
     }
 ]

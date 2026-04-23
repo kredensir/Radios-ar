@@ -136,6 +136,19 @@
     {
         "zone": "Línea Sur",
         "items": [
+            
+            {
+                "id": "rio-negro-",
+                "name": "",
+                "image": "",
+                "web": "",
+                "city": "Ushuaia",
+                "province": "Rio Negro",
+                "stream": "",
+                "categories": [
+                    "musica"
+                ]
+            }
         ]
     }
 ]
