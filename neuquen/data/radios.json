@@ -3,19 +3,6 @@
         "zone": "Neuquén",
         "items": [
             {
-                "id": "neuquen-Nova-90.7",
-                "name": "Nova FM 90.7",
-                "image": "https://novacontenidos.com/wp-content/uploads/2024/02/icono.png",
-                "web": "www.novacontenidos.com",
-                "city": "Bariloche",
-                "province": "Neuquen",
-                "stream": "https://01.solumedia.com.ar:8782/stream",
-                "categories": [
-                    "musica",
-                    "comunidad"
-                ]
-            },
-            {
                 "id": "neuquen-vibra-online",
                 "name": "Vibra Buta Ranquil Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/678/radio-vibra.6bd6d4b0.png",
