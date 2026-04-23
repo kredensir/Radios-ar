@@ -29,6 +29,19 @@
                 ]
             },
             {
+                "id": "chubut-La-Cien-Punto-Uno-100.1",
+                "name": "La Cien Punto Uno FM 100.1",
+                "web": "lacienpuntouno.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/946/la-cien-punto-uno-1001-fm.ea5822ea.jpg",
+                "city": "Comodoro Rivadavia",
+                "province": "Chubut",
+                "stream": "https://radio.lacienpuntouno.com.ar/stream/9822",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
                 "id": "chubut-fly-online",
                 "name": "Fly Online",
                 "web": "https://radio-fly.github.io/Radio.Fly/",
@@ -38,6 +51,19 @@
                 "stream": "https://stream.zeno.fm/67ep5htcxf9uv",
                 "categories": [
                     "musica"
+                ]
+            },
+            {
+                "id": "chubut-Radiovision-99.5",
+                "name": "Radiovision FM 99.5",
+                "web": "fmradiovision.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/433/radiovision-995-fm.ff683652.png",
+                "city": "Comodoro Rivadavia",
+                "province": "Chubut",
+                "stream": "https://cdn.instream.audio/:9061/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
                 ]
             },
             {
@@ -66,6 +92,19 @@
                 ]
             },
             {
+                "id": "chubut-FM-Bahia-Engaño-104.5",
+                "name": "FM Bahia Engaño 104.5",
+                "web": "https://fmbahiaengano.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/829/fm-bahia-engano.d90cbd14.png",
+                "city": "Rawson",
+                "province": "Chubut",
+                "stream": "https://sc.host-live.com/8010/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
                 "id": "chubut-mas-1019",
                 "name": "Radio Más FM 101.9",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/404/radio-mas-1019.b88733f8.png",
@@ -86,6 +125,103 @@
                 "stream": "https://genexservicios.com:8004/;",
                 "categories": [
                     "religion"
+                ]
+            },
+            {
+                "id": "chubut-LU17-540",
+                "name": "LU17 AM 540 ",
+                "web": "https://lu17.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/519/lu17.5a35fb28.png",
+                "city": "Puerto Madryn",
+                "province": "Chubut",
+                "stream": "http://138.36.96.199:8001/lu17",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "chubut-Paraiso-FM-96.1",
+                "name": "Paraiso FM 96.1",
+                "web": "https://lu17.com/",
+                "image": "https://lu17.com/download/multimedia.grande.9f0f9cc43505e321.6c6f676f7320726164696f73322d30345f6772616e64652e77656270.webp",
+                "city": "Puerto Madryn",
+                "province": "Chubut",
+                "stream": "https://radios.lu17.com:8402/PARAISOFM",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "chubut-FM-Ciudad-90.1",
+                "name": "FM Ciudad FM 90.1",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/348/fm-ciudad-901.d648b1fd.png",
+                "city": "Puerto Madryn",
+                "province": "Chubut",
+                "stream": "https://edge01.radiohdvivo.com/ciudad901",
+                "categories": [
+                    "comunidad",
+                    "noticias",
+                    "deportes"
+                ]
+            },
+            {
+                "id": "chubut-FM-La-Unica-105.1",
+                "name": "FM La Unica 105.1",
+                "web": "www.fmlaunica.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/494/fm-la-unica-1051.1ca269d4.png",
+                "city": "Puerto Madryn",
+                "province": "Chubut",
+                "stream": "https://genexservicios.com:8034/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "chubut-EME-102.9",
+                "name": "EME FM 102.9",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/880/eme-1029.60854f0e.jpg",
+                "city": "Puerto Madryn",
+                "province": "Chubut",
+                "stream": "https://edge02.radiohdvivo.com/tresprods/eme",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "chubut-Estacion21-103.9",
+                "name": "Estacion21 FM 103.9",
+                "web": "www.estacion21digital.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/142/estacion21.7fd671a7.png",
+                "city": "Puerto Madryn",
+                "province": "Chubut",
+                "stream": "https://streaming01.shockmedia.com.ar:10557/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "chubut-Onda-97.7",
+                "name": "Onda FM 97.7",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/114/onda-fm.1f647393.png",
+                "city": "Roca Sales - Brazil",
+                "province": "Chubut",
+                "stream": "https://streaming.veloturbo.com.br:8000/ondafm.aac",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "chubut-Conexion-Web-Tv-Online",
+                "name": "Conexion Web Tv Online",
+                "web": "https://radioconexionwebtv.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/398/radio-conexion-web-tv.1a398946.png",
+                "city": "Trelew",
+                "province": "Chubut",
+                "stream": "https://emisora.zonasinergia.com/8146/stream",
+                "video": "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8",
+                "categories": [
+                    "comunidad",
+                    "tv"
                 ]
             },
             {
@@ -111,6 +247,43 @@
                 "categories": [
                     "noticias",
                     "deportes"
+                ]
+            },
+            {
+                "id": "chubut-LU20-Radio-Chubut-580",
+                "name": "LU20 Radio Chubut AM 580",
+                "web": "www.radiochubut.com/v2/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/131/lu20-radio-chubut.0e556845.jpg",
+                "city": "Trelew",
+                "province": "Chubut",
+                "stream": "https://streaming1.locucionar.com/proxy/radiochubut?mp=/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "chubut-Trelew-Noticias-FM-96.9",
+                "name": "Trelew Noticias FM 96.9",
+                "web": "https://lu17.com/",
+                "image": "https://lu17.com/download/multimedia.grande.97e8070556bb5c66.6c6f676f7320726164696f73322d30315f6772616e64652e77656270.webp",
+                "city": "Trelew",
+                "province": "Chubut",
+                "stream": "https://radios.lu17.com:8400/rtn",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "chubut-El-Chubut-90.1",
+                "name": "El Chubut FM 90.1",
+                "web": "elchubut.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/957/el-chubut-901-fm.e2dac6de.png",
+                "city": "Trelew",
+                "province": "Chubut",
+                "stream": "https://radios.streamingdha.com.ar:9382/;",
+                "categories": [
+                    "noticias"
                 ]
             }
         ]

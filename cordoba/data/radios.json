@@ -597,6 +597,18 @@
                 ]
             },
             {
+                "id": "cordoba-Gamma-91.1",
+                "name": "Gamma FM 91.1",
+                "web": "www.fmgamma911.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/975/gamma-911-fm.848f0ad0.png",
+                "city": "Villa Carlos Paz",
+                "province": "Cordoba",
+                "stream": "https://streaming01.shockmedia.com.ar/8880/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
                 "id": "cordoba-verdad-985",
                 "name": "Verdad FM 98.5",
                 "web": "https://radioverdadvd.com.ar",
