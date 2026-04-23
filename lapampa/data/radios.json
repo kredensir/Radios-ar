@@ -41,6 +41,108 @@
                     "musica",
                     "noticias"
                 ]
+            },
+            {
+                "id": "la-pampa-InfoPico-Radio-99.9",
+                "name": "InfoPico Radio FM 99.9",
+                "web": "infopico.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/393/infopico-radio-999.71034e03.png",
+                "city": "General Pico",
+                "province": "La Pampa",
+                "stream": "https://streaming3.locucionar.com/proxy/infopico999?mp=/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "la-pampa-FM-Alegria-101.7",
+                "name": "FM Alegria 101.7",
+                "web": "https://www.fmalegria.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/063/fm-alegria-1017.1363600d.png",
+                "city": "General Pico",
+                "province": "La Pampa",
+                "stream": "https://streaming.radiosenlinea.com.ar/8856/;",
+                "categories": [
+                    "comunidad",
+                    "noticias",
+                    "musica"
+                ]
+            },
+            {
+                "id": "la-pampa-Malva-FM-88.1",
+                "name": "Malva FM 88.1",
+                "web": "www.malvafm.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/391/malva-fm.fff9fd19.png",
+                "city": "General Pico",
+                "province": "La Pampa",
+                "stream": "https://cdn.instream.audio/:9310/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias",
+                    "musica"
+                ]
+            },
+            {
+                "id": "la-pampa-FM-Cielo-93.1-Guatrache",
+                "name": "FM Cielo 93.1 Guatrache",
+                "web": "www.fmcieloguatrache.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/430/fm-cielo-931-guatrache.a9bfeaa7.png",
+                "city": "Guatraché",
+                "province": "La Pampa",
+                "stream": "https://streaming1.locucionar.com/proxy/fmcielo931?mp=/stream",
+                "categories": [
+                    "comunidad",
+                    "folklore",
+                    "musica"
+                ]
+            },
+            {
+                "id": "la-pampa-El-Paraiso-Online",
+                "name": "El Paraiso Online",
+                "web": "www.elparaisoradio.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/031/el-paraiso-radio.d7312728.png",
+                "city": "Parera",
+                "province": "La Pampa",
+                "stream": "https://stream.serviciowebdigital.com/9022/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "la-pampa-LU100-Radio-Capital-1140",
+                "name": "LU100 Radio Capital AM 1140",
+                "web": "www.lu100.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/134/lu-100-radio-capital-red-antena-10.f076e53c.jpg",
+                "city": "Santa Rosa",
+                "province": "La Pampa",
+                "stream": "https://server4.hostradios.com:7056/live",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "la-pampa-FM-Lider-91.1",
+                "name": "FM Lider 91.1",
+                "web": "www.fmlidertoay.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/498/fm-lider-911.444b5f64.png",
+                "city": "Toay",
+                "province": "La Pampa",
+                "stream": "http://server2.nvradios.com:8222/;",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "la-pampa-FM-City-101.9",
+                "name": "FM City 101.9",
+                "web": "www.fmcityvictorica.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/432/fm-city-1019.ccb3799a.jpg",
+                "city": "Victorica",
+                "province": "La Pampa",
+                "stream": "http://lider.veemesoft.com.ar:9930/;",
+                "categories": [
+                    "comunidad"
+                ]
             }
         ]
     }

@@ -186,6 +186,20 @@
                 ]
             },
             {
+                "id": "buenos-aires-Red-Moskito-Radio-Online",
+                "name": "Red Moskito Online",
+                "web": "www.redmoskitoradio.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/087/red-moskito-radio.b8ca3a87.jpg",
+                "city": "AMBA",
+                "province": "Buenos Aires",
+                "stream": "https://radiolinksmedia.net.ar/9070",
+                "categories": [
+                    "comunidad",
+                    "noticias",
+                    "musica"
+                ]
+            },
+            {
                 "id": "buenos-aires-883-radio-cristiana",
                 "name": "Radio Cristiana AM 883",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/buenosaires/buenosaires/883-logo-radio-cristiana.webp",
