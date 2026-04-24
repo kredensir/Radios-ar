@@ -66,6 +66,219 @@
                     "comunidad",
                     "noticias"
                 ]
+            },
+            {
+                "id": "san-juan-La-Red-FM-89.3",
+                "name": "La Red FM 89.3",
+                "web": "https://www.diariohuarpe.com/radio/la-red",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/553/radio-la-red-fm-893.9caf1253.png",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://streaming.radiosenlinea.com.ar:10929/;;;stream.mp3",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "san-juan-La-Voz-100.5",
+                "name": "La Voz FM 100.5",
+                "web": "www.lavozfm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/863/radio-la-voz-1005-fm.17225dd7.jpg",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://host.serviceinfinito.com.ar:7003/;stream",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "san-juan-Cosmos-FM-93.5",
+                "name": "Cosmos FM 93.5",
+                "web": "www.fmcosmos.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/639/cosmos-fm.457423d3.png",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://s28.myradiostream.com/:28240/;",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "san-juan-FM-San-Antonio-92.9",
+                "name": "FM San Antonio 92.9",
+                "web": "https://fmsanantonio929.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/556/fm-san-antonio-929.eae151ec.jpg",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://host.serviceinfinito.com.ar:7005/;stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "san-juan-Light-FM-97.3",
+                "name": "Light FM 97.3",
+                "web": "www.lightfm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/579/light-fm-973.e95ab8e5.jpg",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://host.serviceinfinito.com.ar:7000/;stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "san-juan-Estacion-Claridad-97.1",
+                "name": "Estacion Claridad 97.1",
+                "web": "https://estacionclaridad.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/332/estacion-claridad.d66d9c28.png",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://solid9.streamupsolutions.com/proxy/liijwyyg?mp=/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "san-juan-LV5-Radio-Sarmiento-1120",
+                "name": "LV5 Radio Sarmiento AM 1120",
+                "web": "https://conpacto.com.ar/sarmiento/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/997/lv5-radio-sarmiento.27caf547.png",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://stream.arcast.tv:8443/sarmiento/sarmiento.stream/playlist.m3u8",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "san-juan-Pop-Life-FM-107.7",
+                "name": "Pop Life FM 107.7",
+                "web": "www.fm107radio.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/114/fm-1077-pop-life.05a63898.png",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "http://streaming1.locucionar.com:14835/stream/;stream/1",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "san-juan-Estereo-Fortaleza-Online",
+                "name": "Estereo Fortaleza Online",
+                "web": "www.estereofortaleza.org/",
+                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/306779969_508502387948878_4282948814893266880_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=XlzxVShpLvUQ7kNvwFix30a&_nc_oc=AdrRklIA-ocR5qsYAAKCNY2GVe4YVyFn0zkH5PMUvn-1o3q7Zzrh31Hp_858Vj2pbEQ&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=FkD91WFERCMv_F2wvqRxbA&oh=00_Af1chkqgHghG4iZvfDTkM1pFIpScp4VQ5uoRu-9uSwHLdA&oe=69F15D3B",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://edmenstudio.net:7004/stream",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "san-juan-Cristal-Radio-100.3",
+                "name": "Cristal Radio FM 100.3",
+                "web": "http://www.cristal1003.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/527/cristal-radio-1003.fbd27099.jpg",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://streaming01.shockmedia.com.ar:10158/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "san-juan-Rock-and-Play-online",
+                "name": "Rock and Play Online",
+                "web": "https://rockandplay.net/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/782/rock-and-play.b9011dd6.png",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://host.serviceinfinito.com.ar:7002/;stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "san-juan-La-Radio-Del-Alma",
+                "name": "La Radio Del Alma",
+                "web": "www.laradiodelalma.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/212/la-radio-del-alma.fbb8859c.jpg",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://radios.solumedia.com/6032/stream",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "san-juan-Axon-San-Juan-Online",
+                "name": "Axon San Juan Online",
+                "web": "www.radioaxon.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/692/radio-axon-san-juan.93abce86.png",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://server.radiostreaming.com.ar/8350/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "san-juan-Radio-Alas-101.7",
+                "name": "Radio Alas FM 101.7",
+                "web": "https://changomovil.net/",
+                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/246163884_4587486664642769_2984715052478223169_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=roMX0mNp5hwQ7kNvwFgLTlf&_nc_oc=AdrG7tzhlxCReeqyZAVpUax1LPa1GIlSc_JNT_h1pTdShWW2LG4VuTIny2mEGcOPjIo&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=V7DsfqLPHPStug0QwUoSpw&oh=00_Af3YAYQWwmPXA15FO_zceBC68GKJNa_7Al5liSfITzjvxg&oe=69F16B13",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://server.laradio.online:58741/live",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "san-juan-vestite-con-ramon-Online",
+                "name": "Vestite con Ramón Benitez Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/669/vestite-con-ramon-benitez-radio.53e07c5b.jpg",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://stream-175.zeno.fm/ry6iylgqamiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyeTZpeWxncWFtaXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Il9WM0Y1cUJwU0cteU8zYTEzdzNDY3ciLCJpYXQiOjE3NzcwNTIxMzgsImV4cCI6MTc3NzA1MjE5OH0.64MG3T2vIew2PlNJvI-71w2WAmcRH17qNhZ13EDpMyI",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "san-juan-radio-arroba-online",
+                "name": "Radio Arroba Online",
+                "web": "www.radioarroba.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/654/radio-arroba.a922bc08.jpg",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://argentina.republicahosting.com:1029/live",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "san-juan-Antena-Uno-San-Juan-91.5",
+                "name": "Antena Uno FM 91.5",
+                "web": "https://www.antena1sj.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/482/antena1-antena-uno-san-juan.6c4dbbb7.jpg",
+                "city": "Ciudad de San Juan",
+                "province": "San Juan",
+                "stream": "https://sc.netradiofm.com/p/9008/",
+                "categories": [
+                    "comunidad"
+                ]
             }
         ]
     },

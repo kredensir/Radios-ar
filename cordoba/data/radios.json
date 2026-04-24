@@ -28,6 +28,18 @@
                 ]
             },
             {
+                "id": "san-juan-Radio-Libre-92.7",
+                "name": "Radio Libre FM 92.7",
+                "web": "https://radiolibre927.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/301/radio-libre-argentina.8545274c.png",
+                "city": "Ciudad de Córdoba",
+                "province": "San Juan",
+                "stream": "https://streaming6.locucionar.com:24404/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "cordoba-maria-argentina-935-fm",
                 "name": "Maria FM 93.5",
                 "web": "http://radiomaria.org.ar/",
