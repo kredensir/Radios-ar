@@ -3,6 +3,18 @@
         "zone": "La Rioja",
         "items": [
             {
+                "id": "la-rioja-municipal-935-fm",
+                "name": "Municipal FM 93.5",
+                "web": "http://www.radiomunicipalaminga935.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/407/radio-municipal-935-fm.046a81c0.png",
+                "city": "Aminga",
+                "province": "La Rioja",
+                "stream": "https://stream.zeno.fm/tgjfmmrn7savv",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "la-rioja-total-la-rioja-online",
                 "name": "Total Cristiana Online",
                 "web": "https://fmtotal.wixsite.com/line",
@@ -28,13 +40,149 @@
                 ]
             },
             {
-                "id": "la-rioja-municipal-935-fm",
-                "name": "Municipal FM 93.5",
-                "web": "http://www.radiomunicipalaminga935.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/407/radio-municipal-935-fm.046a81c0.png",
-                "city": "Aminga",
+                "id": "la-rioja-Scandall-FM-89.5",
+                "name": "Scandall FM 89.5",
+                "web": "https://www.inforadio.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/111/scandall-fm-895.2f2e3245.jpg",
+                "city": "Ciudad de La Rioja",
                 "province": "La Rioja",
-                "stream": "https://stream.zeno.fm/tgjfmmrn7savv",
+                "stream": "https://servidor1.miradiolive.com:7159/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias",
+                    "musica"
+                ]
+            },
+            {
+                "id": "la-rioja-Kiss-La-Rioja-Online",
+                "name": "Kiss La Rioja Online",
+                "web": "https://kisslarioja.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/764/kiss-la-rioja.f75933fa.jpg",
+                "city": "Ciudad de La Rioja",
+                "province": "La Rioja",
+                "stream": "https://radio01.ferozo.com/proxy/ra01000647?mp=/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "la-rioja-FM-Power-Hit-90.3",
+                "name": "FM Power Hit FM 90.3",
+                "web": "www.power903.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/005/fm-power-hit.30b0d135.png",
+                "city": "Ciudad de La Rioja",
+                "province": "La Rioja",
+                "stream": "https://streaming2.locucionar.com/proxy/fmpower903?mp=/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "la-rioja-Sónica-FM-106.3",
+                "name": "Sónica FM 106.3",
+                "web": "www.fmsonicalr.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/616/sonica-fm-argentina.8be35b40.png",
+                "city": "Ciudad de La Rioja",
+                "province": "La Rioja",
+                "stream": "https://streaming.radiosenlinea.com.ar/8480/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "la-rioja-Rioja-Virtual-Online",
+                "name": "Rioja Virtual Online",
+                "web": "https://riojavirtual.com.ar/",
+                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/305216693_446172694199460_2238936279455866550_n.png?_nc_cat=109&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=0oXsEE9rdmMQ7kNvwFP-aGe&_nc_oc=Adpexd_T8Qyh63KT7XV69CQfzB8e7u4EP_3b54Miz-IMabp3IH3MSu7EPspVfuVnTYg&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=h-AEy2mpJaNTLMdbWhoWgQ&oh=00_Af0U0Zf4bN_JGr25T-EHuNdlvU7ZcOtehZun2BVFSDhacg&oe=69F17A5B",
+                "city": "Ciudad de La Rioja",
+                "province": "La Rioja",
+                "stream": "https://edge01.radiohdvivo.com/riojavirtual",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "la-rioja-Del-plata-94.7",
+                "name": "Del plata FM 94.7",
+                "web": "www.delplata947.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/114/del-plata-947-fm.5eedad76.jpg",
+                "city": "Ciudad de La Rioja",
+                "province": "La Rioja",
+                "stream": "http://radio02.ferozo.com:8584/;stream/1",
+                "categories": [
+                    "deportes"
+                ]
+            },
+            {
+                "id": "la-rioja-Chacho-Online",
+                "name": "Chacho Online",
+                "web": "https://chacho.medios.digital",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/525/chacho.ea7b4d01.png",
+                "city": "Ciudad de La Rioja",
+                "province": "La Rioja",
+                "stream": "https://stream-171.zeno.fm/twnhcdn8a48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0d25oY2RuOGE0OHV2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik4yOVpJeDNrVGRTS0VqRjJtUXNTemciLCJpYXQiOjE3NzcwNTQ0MzQsImV4cCI6MTc3NzA1NDQ5NH0.PmmYqUjpJItTCqWAZAKh1HsM9noIMex8kfQdAqUJhzw",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "la-rioja-Milenio-FM-101.5",
+                "name": "Milenio FM 101.5",
+                "web": "www.mileniumdisco.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/346/milenio-fm-1015.646a5add.png",
+                "city": "Ciudad de La Rioja",
+                "province": "La Rioja",
+                "stream": "https://streaming.radiosenlinea.com.ar:10760/;",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "la-rioja-Fantastica-101.7",
+                "name": "Fantastica 101.7",
+                "web": "https://www.fantastica.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/993/fantastica-1017-chilecito.b2725991.png",
+                "city": "Chilecito",
+                "province": "La Rioja",
+                "stream": "https://edge02.radiohdvivo.com/gpomontecristo/fantastica-chilecito",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "la-rioja-Montecristo-92.5",
+                "name": "Montecristo FM 92.5",
+                "web": "www.grupomontecristo.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/992/montecristo-925-la-rioja.a702f95e.png",
+                "city": "Chilecito",
+                "province": "La Rioja",
+                "stream": "https://edge02.radiohdvivo.com/gpomontecristo/montecristo-larioja",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "la-rioja-La-Diez-Trece-101.3",
+                "name": "La Diez Trece FM 101.3",
+                "web": "www.ladieztrece.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/681/la-diez-trece-radio-chilecito.b3c96203.png",
+                "city": "Chilecito",
+                "province": "La Rioja",
+                "stream": "https://radio.arcast.cloud:1380/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "la-rioja-FM-Del-Pueblo-100.3",
+                "name": "FM Del Pueblo 100.3",
+                "web": "https://www.streaminglocucionar.com.ar/portal/?p=8816",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/101/fm-del-pueblo.b5484732.png",
+                "city": "Malanzán",
+                "province": "La Rioja",
+                "stream": "https://streaming2.locucionar.com/proxy/fmdelpueblo?mp=/stream",
                 "categories": [
                     "comunidad"
                 ]
