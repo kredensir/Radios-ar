@@ -14,6 +14,181 @@
                     "comunidad",
                     "noticias"
                 ]
+            },
+            {
+                "id": "san-luis-Dubai-FM-Online",
+                "name": "Dubai FM Online",
+                "web": "www.dubaifm.net",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/367/dubai-fm-argentina.b113a6c2.jpg",
+                "city": "Ciudad de San Luis",
+                "province": "San Luis",
+                "stream": "https://chino.republicahosting.com:2211/live",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "san-luis-Urbana-FM-107.7",
+                "name": "Urbana FM 107.7",
+                "web": "www.urbanafmsanluis.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/563/urbana-fm.ac430a73.png",
+                "city": "Ciudad de San Luis",
+                "province": "San Luis",
+                "stream": "https://radiolinksmedia.net.ar/7145/;",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "san-luis-Cadena-de-Noticias-Online",
+                "name": "Cadena de Noticias Online",
+                "web": "cadenadenoticias.com.ar",
+                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/472849750_1173631648100376_184705243697771150_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=sTJRM3BpbAMQ7kNvwHafMf2&_nc_oc=AdooQEbPXXCO43y3EXkZ6lbEi28nDtmy2FPaeZ2mi9in19q3HuAPYYNZetofIztzIX4&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=L9eTCM0so5gGRo_77D2gIQ&oh=00_Af28JVEIo3TdJoiHdjMlC1cA_fX99Lp49sNcw5IMBrHs5A&oe=69F13DD2",
+                "city": "Ciudad de San Luis",
+                "province": "San Luis",
+                "stream": "https://sonic.mediatelekom.net/8456/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "san-luis-Estacion-XLW-100.7",
+                "name": "Estacion XLW FM 100.7",
+                "web": "https://www.estacionxlw.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/867/estacion-xlw.7bc58450.jpg",
+                "city": "Ciudad de San Luis",
+                "province": "San Luis",
+                "stream": "https://01.solumedia.com.ar:7009/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "san-luis-La-Bomba-FM-94.7",
+                "name": "La Bomba FM 94.7",
+                "web": "www.fmlabomba.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/702/la-bomba-915-fm.0afd4bec.png",
+                "city": "Ciudad de San Luis",
+                "province": "San Luis",
+                "stream": "http://sonic.host-live.com:8334/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "san-luis-Estacion-XLW-92.1",
+                "name": "Estacion XLW FM 92.1",
+                "web": "https://www.estacionxlw.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/869/frida-fm.56b5453c.png",
+                "city": "Ciudad de San Luis",
+                "province": "San Luis",
+                "stream": "https://01.solumedia.com.ar:7009/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "san-luis-Larga-Vida-Al-Sol-Online",
+                "name": "Larga Vida Al Sol Online",
+                "web": "https://www.zeno.fm/player/largavidaalsol",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/286/larga-vida-al-sol-radio-online.31901bae.jpg",
+                "city": "Ciudad de San Luis",
+                "province": "San Luis",
+                "stream": "https://stream-171.zeno.fm/xus52mswywzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dXM1Mm1zd3l3enV2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InVNRDE5WktfVHYyQ3RpVFE5TTRZcnciLCJpYXQiOjE3NzcwMzk0ODYsImV4cCI6MTc3NzAzOTU0Nn0.LWGi5KgLTrPKNt_YXPepOivkQQOm-GmzCZXYW4y2XWY",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "san-luis-Hits-20-Online",
+                "name": "Hits 20 Online",
+                "web": "https://hits20radioonline.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/552/hits-20-radio-online.97ee79f7.png",
+                "city": "Ciudad de San Luis",
+                "province": "San Luis",
+                "stream": "https://server6.hostradios.com/8138/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "san-luis-Jack-Radio-Online",
+                "name": "Jack Radio Online",
+                "web": "https://jackradio.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/038/jack-radio2.6d920bee.jpg",
+                "city": "Ciudad de San Luis",
+                "province": "San Luis",
+                "stream": "https://sonic.mediatelekom.net/8458/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "san-luis-SDN-Radio-Online",
+                "name": "SDN Radio Online",
+                "web": "https://serviciodenoticias.net",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/414/sdn-radio.0886af6f.png",
+                "city": "Ciudad de San Luis",
+                "province": "San Luis",
+                "stream": "https://radios.solumedia.com/6432/stream",
+                "categories": [
+                    "folklore",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "san-luis-doc-Radio-ok-Online",
+                "name": "Doc Radio Ok Online",
+                "web": "https://eduema333.wixsite.com/docradiook",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/106/doc-radio-ok.aaaff612.jpg",
+                "city": "Ciudad de San Luis",
+                "province": "San Luis",
+                "stream": "https://radios.solumedia.com/6634/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "san-luis-Alternativa-99.3",
+                "name": "Alternativa FM 99.3",
+                "web": "www.alternativa993.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/238/alternativa-993-fm.ef531ed6.png",
+                "city": "Merlo",
+                "province": "San Luis",
+                "stream": "https://server4.hostradios.com/8294/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "san-luis-SUNDANCE-98.7",
+                "name": "Sundance FM 98.7",
+                "web": "https://frecuenciasundancefm.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/935/frecuencia-sundance-987-fm.a5872949.jpg",
+                "city": "Villa Mercedes",
+                "province": "San Luis",
+                "stream": "https://streaming01.shockmedia.com.ar:10948/stream?icy=http",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "san-luis-Tiempo-89.1",
+                "name": "Tiempo FM 89.1",
+                "web": "www.tiemporadiofm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/408/tiempo-891-fm.ec561266.png",
+                "city": "Villa Mercedes",
+                "province": "San Luis",
+                "stream": "https://stream-172.zeno.fm/6v6wmf2sivevv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2djZ3bWYyc2l2ZXZ2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9CY2J5TWd0UmhTY01vaEdZWDNxdnciLCJpYXQiOjE3NzcwNDE3ODYsImV4cCI6MTc3NzA0MTg0Nn0.h80ZXMnuo7Bqepalbp3rfsZ-H7hNzbMkTzcA6LWILPU",
+                "categories": [
+                    "comunidad"
+                ]
             }
         ]
     }

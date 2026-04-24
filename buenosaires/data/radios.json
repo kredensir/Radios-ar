@@ -335,6 +335,30 @@
                 ]
             },
             {
+                "id": "buenos-aires-Stargold-Online",
+                "name": "Stargold Online",
+                "web": "https://stargoldradiodigital.blogspot.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/215/stargold.07bbda87.png",
+                "city": "Merlo",
+                "province": "Buenos Aires",
+                "stream": "https://stream-175.zeno.fm/4bm1neabf0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0Ym0xbmVhYmYwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkhYRXhXRk5lUWV1RGhYTHA0M2UyY0EiLCJpYXQiOjE3NzcwMzk1OTAsImV4cCI6MTc3NzAzOTY1MH0.v5ahcQydBMntfdFYiQMbfhC0Bg7oHq5THygdBdjQqwY",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "buenos-aires-Cielos-Abiertos-FM-90.1",
+                "name": "Cielos Abiertos FM 90.1",
+                "web": "https://cielosabiertosfm901.com.ar/",
+                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/495450281_1217853817011351_8940157814922757341_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=QYUHodxen0IQ7kNvwEnTXyt&_nc_oc=Ado8ADgdDZXcGNtj-dRnzizXmKFg_5OaqM5i4NBNUScIkOLF0dgSUQi53tVw3mMGJwU&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=zGWIpcdOLwwFEEe_is2UfQ&oh=00_Af37IzfDTvHlVnBl1Cn_9KAU0kGSnOLL_LVUb0DddIZ4qQ&oe=69F145AE",
+                "city": "Merlo",
+                "province": "Buenos Aires",
+                "stream": "https://ssl.radiosnethosting.com/index.php?port=9298",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
                 "id": "buenos-aires-publica-de-moreno",
                 "name": "Publica de Moreno FM 90.7",
                 "web": "http://moreno.gob.ar",
@@ -391,6 +415,18 @@
                 "city": "Villa Lynch",
                 "province": "Buenos Aires",
                 "stream": "https://ohradio.cc:7105/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "buenos-aires-FM-Flecha-de-Oro-Online",
+                "name": "FM Flecha de Oro Online",
+                "web": "www.flechadeoro.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/464/fm-flecha-de-oro.4ed83988.png",
+                "city": "Villa Insuperable",
+                "province": "Buenos Aires",
+                "stream": "https://tus.radios.ar/8038/stream",
                 "categories": [
                     "comunidad"
                 ]
@@ -737,34 +773,10 @@
             {
                 "id": "buenos-aires-rebelde-740",
                 "name": "Rebelde AM 740",
-                "image": "https://yt3.googleusercontent.com/7PENlc8xLW1S2PHLbbPuGKXvqmxlOJ6MGe8wNNVl4lUvw4viBzVT1yH6bnNLx1j0MlF9ko3M=s900-c-k-c0x00ffffff-no-rj",
-                "city": "AMBA",
-                "province": "Buenos Aires",
-                "stream": "https://yt3.googleusercontent.com/l9q0s5DwTzfft8GpJDAXG4ezcqlfMlq9ck9lPU462fQPDHUBP_R3WqSBtqSXNmDVsaCVgbkzBA=s900-c-k-c0x00ffffff-no-rj",
-                "categories": [
-                    "comunidad",
-                    "noticias"
-                ]
-            },
-            {
-                "id": "buenos-aires-rebelde-740",
-                "name": "Rebelde AM 740",
-                "image": "https://yt3.googleusercontent.com/7PENlc8xLW1S2PHLbbPuGKXvqmxlOJ6MGe8wNNVl4lUvw4viBzVT1yH6bnNLx1j0MlF9ko3M=s900-c-k-c0x00ffffff-no-rj",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/727/radio-rebelde-740-am.97ed756a.png",
                 "city": "AMBA",
                 "province": "Buenos Aires",
                 "stream": "https://n06.radiojar.com/qkxht62hy8hvv?rj-ttl=5&rj-tok=AAABnaxZjPsAmcciGBaNMVbPmw",
-                "categories": [
-                    "comunidad",
-                    "noticias"
-                ]
-            },
-            {
-                "id": "buenos-aires-bitbox-933",
-                "name": "BitBox FM 93.3",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVaMbiYQekcNw_ySH-xXiFgeYvkaGH9tT4Ag&s",
-                "city": "AMBA",
-                "province": "Buenos Aires",
-                "stream": "https://ipanel.instream.audio:7011/stream",
                 "categories": [
                     "comunidad",
                     "noticias"
