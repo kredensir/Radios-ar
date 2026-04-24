@@ -16,6 +16,32 @@
                 ]
             },
             {
+                "id": "catamarca-Radio-Municipal-Chumbicha-101.3",
+                "name": "Radio Municipal Chumbicha FM 101.3",
+                "web": "https://municipalfmradio.wixsite.com/radiomunicipal",
+                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/494379456_1108914927925214_7167777753493782644_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=NDa8BRIhnEUQ7kNvwFY1ABE&_nc_oc=AdrgnG-yKLg1jSUoUjW1a1zpXR3nE21ZXo0OtP3leEZqEwHku-l3VhXqewrPU0IDjLo&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=93bhIHG7L3UrYe8gQSacYQ&oh=00_Af2RWT2Qh56X8FeTbeFqW3wTVzX8_FUVM5oM9jNjzVQfig&oe=69F1ACBE",
+                "city": "Chumbicha",
+                "province": "Catamarca",
+                "stream": "http://streaming.radiosenlinea.com.ar:8676/;",
+                "categories": [
+                    "comunidad",
+                    "noticias",
+                    "deportes"
+                ]
+            },
+            {
+                "id": "catamarca-LTO-Radio-Online",
+                "name": "LTO Radio Online",
+                "web": "https://lastejasonline.blogspot.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/169/lto-radio.66d6856a.png",
+                "city": "Las Tejas",
+                "province": "Catamarca",
+                "stream": "https://stream-173.zeno.fm/53v3zysszk0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1M3Yzenlzc3prMHV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im15cDNqU0JlU2VPMUNYY1czcUc5OVEiLCJpYXQiOjE3NzcwNTg0ODQsImV4cCI6MTc3NzA1ODU0NH0.2c2OhQU0x1TE7k0Fxssf79LydJ0vWAmKn5sfPxZSoTc",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "catamarca-jornada-fm-919",
                 "name": "Jornada FM 91.9",
                 "web": "https://jornadaonline.com/radio",
@@ -87,12 +113,137 @@
                 "categories": [
                     "musica"
                 ]
+            },
+            {
+                "id": "catamarca-FM-Republica-103.1",
+                "name": "FM Republica 103.1",
+                "web": "www.diariorepublica.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/549/fm-republica.8e951a28.png",
+                "city": "San Fernando del Valle de Catamarca",
+                "province": "Catamarca",
+                "stream": "https://genexservicios.com:2000/stream/fmrepublica",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "catamarca-Estilo-Radio-89.9",
+                "name": "Estilo Radio FM 89.9",
+                "web": "https://estiloradiofm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/874/estilo-radio-899-fm.d021c677.png",
+                "city": "San Fernando del Valle de Catamarca",
+                "province": "Catamarca",
+                "stream": "https://streaming3.locucionar.com/proxy/estilo899?mp=/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "catamarca-Achachay-Online",
+                "name": "Achachay Online",
+                "web": "https://achachayradio.argentinastream.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/634/achachay-radio.fcb05670.jpg",
+                "city": "San Fernando del Valle de Catamarca",
+                "province": "Catamarca",
+                "stream": "https://server.radiostreaming.com.ar/8654/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "catamarca-LITHIUM-95.5",
+                "name": "FM LITHIUM 95.5",
+                "web": "www.fmlithium.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/501/fm-lithium-999.7058e74d.png",
+                "city": "San Fernando del Valle de Catamarca",
+                "province": "Catamarca",
+                "stream": "https://media.nexxisgroup.com.ar:8291/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "catamarca-Fun-Streaming-Online",
+                "name": "Fun Streaming Online",
+                "web": "https://www.funradio.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/219/fun-streaming.127d8e1f.png",
+                "city": "San Fernando del Valle de Catamarca",
+                "province": "Catamarca",
+                "stream": "https://radio13.servidorderadio.net/9624/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "catamarca-Valle-Viejo-104.1",
+                "name": "Valle Viejo FM 104.1",
+                "web": "radiovalleviejo.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/668/radio-valle-viejo.eef259ed.jpg",
+                "city": "San Fernando del Valle de Catamarca",
+                "province": "Catamarca",
+                "stream": "https://stm2.livecastradio.com:9379/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
             }
         ]
     },
     {
         "zone": "Puna y Valles Altos",
         "items": [
+            {
+                "id": "catamarca-Red-del-Evangelio-online",
+                "name": "Red del Evangelio Online",
+                "web": "www.radioeducativafm875.blogspot.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/244/red-del-evangelio-en-vivo.3ba00ee3.png",
+                "city": "San José",
+                "province": "Catamarca",
+                "stream": "https://sonicpanel.oficialserver.com/8364/stream",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "catamarca-FM-Morena-100.5",
+                "name": "FM Morena 100.5",
+                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/301370886_778422313525684_5926248585563237493_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=4lPSCppey2sQ7kNvwFMx6_J&_nc_oc=AdqRKNFHsdHeZSnRJQkszvLnRyMk7houNdcqtu1SqhN5FKT3tghOUDMhHtQSSRggku0&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=x379Jah4n1J1xn2dPbn7bg&oh=00_Af0Oi9oDJg-DW-KcjUU9UlXzb2DcvKcCmiQJR6zUayiKJA&oe=69F18D9B",
+                "city": "Santa María",
+                "province": "Catamarca",
+                "stream": "http://01.solumedia.com.ar:8502/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "catamarca-Pasado-Perfecto-89.9",
+                "name": "Pasado Perfecto FM 89.9",
+                "web": "https://www.vocesescritas.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/422/pasado-perfecto-899-fm.8825d8ee.png",
+                "city": "Tinogasta",
+                "province": "Catamarca",
+                "stream": "https://stream.xweb.ar/8112/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "catamarca-Studio-16-FM-90.7",
+                "name": "Studio 16 FM 90.7",
+                "web": "https://studio16tinogasta.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/153/studio-16-fm-907.4fce3a98.png",
+                "city": "Tinogasta",
+                "province": "Catamarca",
+                "stream": "https://server4.hostradios.com/8446/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
             {
                 "id": "catamarca-esperanza-fm-963",
                 "name": "Esperanza FM 96.3",
@@ -110,12 +261,10 @@
     },
     {
         "zone": "Región de los Llanos",
-        "items": [
-        ]
+        "items": []
     },
     {
         "zone": "Las Sierras y Humedales",
-        "items": [
-        ]
+        "items": []
     }
 ]
