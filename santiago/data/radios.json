@@ -52,6 +52,31 @@
                 ]
             },
             {
+                "id": "santiago-del-estero-La-Trova-online",
+                "name": "La Trova Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/380/radio-la-trova.938cc60a.png",
+                "web": "www.radiolatrova.ar/",
+                "city": "Ciudad de Santiago del Estero",
+                "province": "Santiago del Estero",
+                "stream": "https://stm11.xcast.com.br:8114/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "santiago-del-estero-FM-BANDA-107.5",
+                "name": "FM Banda 107.5",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/420/fm-banda-1075.72c1d664.png",
+                "web": "fmbanda.com/",
+                "city": "La Banda",
+                "province": "Santiago del Estero",
+                "stream": "https://streaming01.shockmedia.com.ar:10834/stream?icy=http",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
                 "id": "santiago-del-estero-data-termas-online",
                 "name": "Data Termas Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/664/radio-data-termas.3c4ac337.png",
@@ -71,12 +96,10 @@
     },
     {
         "zone": "Chaco Santiagueño",
-        "items": [
-        ]
+        "items": []
     },
     {
         "zone": "Los Ríos",
-        "items": [
-        ]
+        "items": []
     }
 ]

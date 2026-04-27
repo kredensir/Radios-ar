@@ -260,6 +260,18 @@
                 ]
             },
             {
+                "id": "cordoba-Mujer-FM",
+                "name": "Mujer FM",
+                "web": "https://mujerfm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/893/radio-de-la-mujer.5e086ff2.jpg",
+                "city": "Ciudad de Córdoba",
+                "province": "Cordoba",
+                "stream": "https://edge02.radiohdvivo.com/mujerfm",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
                 "id": "cordoba-los-desterra2-online",
                 "name": "Los Desterra2 Online",
                 "web": "https://propagandasparaven.wixsite.com/losdesterra2",

@@ -200,6 +200,19 @@
                 ]
             },
             {
+                "id": "buenos-aires-radio-con-aguante-Online",
+                "name": "Radio Con Aguante Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/013/radio-con-aguante.e20050f2.png",
+                "web": "https://radioconaguante.com.ar/",
+                "city": "AMBA",
+                "province": "Buenos Aires",
+                "stream": "https://streaming01.shockmedia.com.ar/9536/;",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
                 "id": "buenos-aires-883-radio-cristiana",
                 "name": "Radio Cristiana AM 883",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/buenosaires/buenosaires/883-logo-radio-cristiana.webp",
