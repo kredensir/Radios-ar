@@ -77,6 +77,30 @@
                 ]
             },
             {
+                "id": "santiago-del-estero-FM-Ciudad-Loreto-94.3",
+                "name": "FM Ciudad Loreto 94.3",
+                "web": "https://fmciudadloreto.com.ar/",
+                "image": "https://fmciudadloreto.com.ar/wp-content/uploads/sites/6/2024/04/fm-ciudad-hit.jpg",
+                "city": "Loreto",
+                "province": "Santiago del Estero",
+                "stream": "https://streaming.tucumanradio.com.ar:7038/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "santiago-del-estero-Radio-Hit-997",
+                "name": "Radio Hit FM 99.7",
+                "web": "https://fmciudadloreto.com.ar/",
+                "image": "https://fmciudadloreto.com.ar/wp-content/uploads/sites/6/2024/04/fm-ciudad-hit.jpg",
+                "city": "Loreto",
+                "province": "Santiago del Estero",
+                "stream": "https://streaming.tucumanradio.com.ar:7040/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
                 "id": "santiago-del-estero-data-termas-online",
                 "name": "Data Termas Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/664/radio-data-termas.3c4ac337.png",
@@ -91,8 +115,7 @@
     },
     {
         "zone": "Las Termas",
-        "items": [
-        ]
+        "items": []
     },
     {
         "zone": "Chaco Santiagueño",

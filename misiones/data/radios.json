@@ -174,6 +174,278 @@
     },
     {
         "zone": "Aguas Grandes",
-        "items": []
+        "items": [
+            {
+                "id": "misiones-ROCK-&-METAL-Online",
+                "name": "Rock & Metal Online",
+                "web": "https://rockandmetal-radio.blogspot.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/745/rock-metal.d52a3a29.jpg",
+                "city": "Posadas",
+                "province": "Misiones",
+                "stream": "https://100x100rock.stream.laut.fm/100x100rock?t302=2026-04-27_19-33-23&uuid=26f5c35e-780f-4398-99a4-c1109cbcee4c",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "misiones-FM-Classic-91.3",
+                "name": "FM Classic 91.3",
+                "web": "www.classicfm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/384/fm-classic-913.1de02720.png",
+                "city": "Posadas",
+                "province": "Misiones",
+                "stream": "https://radiohd.net/7028/stream;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "misiones-La-Street-101.5",
+                "name": "La Street FM 101.5",
+                "web": "https://lastreet.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/408/street-fm-1015.fcc3d782.png",
+                "city": "Posadas",
+                "province": "Misiones",
+                "stream": "https://ipanel.instream.audio:7006/stream?_=19230167271",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "misiones-fm-show-981",
+                "name": "FM Show 98.1",
+                "web": "www.981fmshow.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/957/981-fm-show.0332f46f.png",
+                "city": "Posadas",
+                "province": "Misiones",
+                "stream": "https://streamlky.alsolnet.com/fmshow",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "misiones-Posadas-FM-96.5",
+                "name": "Posadas FM 96.5",
+                "web": "https://www.965posadas.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/057/965-posadas-fm.e1c15963.jpg",
+                "city": "Posadas",
+                "province": "Misiones",
+                "stream": "https://radio.streamingnacional.online/8018/stream%20",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "misiones-FM-Schenker-Online",
+                "name": "FM Schenker Online",
+                "web": "fmschenker.blogspot.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/321/fm-schenker.faca5bca.png",
+                "city": "Posadas",
+                "province": "Misiones",
+                "stream": "https://streaming01.shockmedia.com.ar:10343/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "misiones-FM-893",
+                "name": "FM 89.3",
+                "web": "https://www.fm893.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/527/fm-893.5b1d835f.png",
+                "city": "Santa María",
+                "province": "Misiones",
+                "stream": "https://vps-c0159cbc.vps.ovh.ca/9682/;",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "misiones-Metropolix-FM-104.3",
+                "name": "Metropolix FM 104.3",
+                "web": "https://www.metropolix1043.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/538/metropolix-fm.371fffa2.png",
+                "city": "Posadas",
+                "province": "Misiones",
+                "stream": "https://edge01.radiohdvivo.com/metropolis1043",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "misiones-fm-imaginate-1009",
+                "name": "FM Imagínate 100.9",
+                "web": "https://www.fmimaginateobera.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/476/fm-imaginate.44fed732.jpg",
+                "city": "Oberá",
+                "province": "Misiones",
+                "stream": "http://genexservicios.com:8150/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "misiones-fm-armonia-1021",
+                "name": "FM Armonia 102.1",
+                "web": "fmarmonia1021.com.ar",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/667/fm-armonia-1021mhz.36d5c669.jpg",
+                "city": "Leandro N. Alem",
+                "province": "Misiones",
+                "stream": "http://emisora.zonasinergia.com:8334/;",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "misiones-PLAY-FM-103.3",
+                "name": "Play FM 103.3",
+                "web": "www.playfm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/166/play-fm-1033.e4374f5a.png",
+                "city": "Posadas",
+                "province": "Misiones",
+                "stream": "http://cdn.instream.audio:9170/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "misiones-Dinamica-FM-101.3",
+                "name": "Dinamica FM 101.3",
+                "web": "https://www.dinamicafm1013.com.br/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/526/dinamica-fm.9b84dfe6.png",
+                "city": "Eldorado",
+                "province": "Misiones",
+                "stream": "https://edge01.radiohdvivo.com/metropolis1043",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "misiones-Artemsc33-Online",
+                "name": "Artemsc33 Online",
+                "web": "www.zone.fm/artemsc33/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/753/artemsc33.2c4bb4e2.jpg",
+                "city": "Posadas",
+                "province": "Misiones",
+                "stream": "https://stream-178.zeno.fm/69tka18c2k0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2OXRrYTE4YzJrMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImJRZEx0LTUzVENhV3diM2EwcXB0dnciLCJpYXQiOjE3NzczMjAxMjIsImV4cCI6MTc3NzMyMDE4Mn0.Vb7q-S48q5SX5cY8lnO_lghKOaqO0c_usXEgxeaAoFs",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "misiones-Tremendos-Treinta-Online",
+                "name": "Tremendos Treinta Online",
+                "web": "https://www.tremendostreinta.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/718/tremendos-treinta-radio.caa8edfd.png",
+                "city": "Puerto Rico",
+                "province": "Misiones",
+                "stream": "https://chino.republicahosting.com:1358/live",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "misiones-Radioestación-Azul-Online",
+                "name": "Radioestación Azul Online",
+                "web": "https://radioestacionazul.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/505/radioestacion-azul.a2721346.png",
+                "city": "Cerro Azul",
+                "province": "Misiones",
+                "stream": "https://iptv.ixfo.com.ar:30443/radio/radioazul/icecast.audio",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "misiones-Sol-FM-89.3",
+                "name": "Sol FM 89.3",
+                "web": "https://www.fredyfrank.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/484/sol-fm-893.2326753b.png",
+                "city": "Veinticinco de Mayo",
+                "province": "Misiones",
+                "stream": "https://edge02.radiohdvivo.com/fmsol893",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "misiones-FM-SANTA-MARIA-106.1",
+                "name": "FM Santa Maria 106.1",
+                "web": "www.fmsantamaria106.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/559/fm-santa-maria-1061.800c7d61.png",
+                "city": "Santa María",
+                "province": "Misiones",
+                "stream": "https://radios.solumedia.com:6464/stream?icy=http",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+
+            {
+                "id": "misiones-Tu-Radio-Online",
+                "name": "Tu Radio Online",
+                "web": "https://turadioonline.ga",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/397/tu-radio-online.bc98ae12.jpg",
+                "city": "San Vicente",
+                "province": "Misiones",
+                "stream": "https://stream.zeno.fm/0tewm14urfhvv",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "misiones-Clave-97.5",
+                "name": "Clave FM 97.5",
+                "web": "www.clave975.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/314/clave-975.b85762ec.jpg",
+                "city": "Puerto Esperanza",
+                "province": "Misiones",
+                "stream": "http://server.laradio.online:8572/;/;stream/1",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "misiones-Radio-Flash-101.9",
+                "name": "Radio Flash FM 101.9",
+                "web": "https://radioflashmisiones.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/579/radio-flash-argentina.f486d8d7.png",
+                "city": "Dos de Mayo",
+                "province": "Misiones",
+                "stream": "https://radios.solumedia.com/6318/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "misiones-Master-News-Online",
+                "name": "Master News Online",
+                "web": "www.masternews.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/116/master-news.faf50075.jpg",
+                "city": "Jardín América",
+                "province": "Misiones",
+                "stream": "https://stream-174.zeno.fm/aauz5wvt5s8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYXV6NXd2dDVzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlU4WGpWQ0tQUU4yaXdyekZ1TFowbnciLCJpYXQiOjE3NzczMjIwNjEsImV4cCI6MTc3NzMyMjEyMX0.3OLJBQBBIiz6fE68PnZlMIJPeAk2SAcwIv_C9lqdjwA",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
+                "id": "misiones-LNE-102.3",
+                "name": "LNE 102.3",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/544/lne-1023-radio.39a6edf4.jpg",
+                "city": "Loreto",
+                "province": "Misiones",
+                "stream": "http://streaming3.locucionar.com:16274/stream",
+                "categories": [
+                    "musica"
+                ]
+            }
+        ]
     }
 ]
