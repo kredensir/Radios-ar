@@ -81,16 +81,6 @@
         ]
     },
     {
-        "zone": "Pirané",
-        "items": [
-        ]
-    },
-    {
-        "zone": "El Impenetrable y Centro-Oeste",
-        "items": [
-        ]
-    },
-    {
         "zone": "Pilcomayo y Extremo Oeste",
         "items": [
             {
@@ -103,6 +93,155 @@
                 "stream": "https://stream.zeno.fm/u6r9821rp2zuv",
                 "categories": [
                     "musica"
+                ]
+            },
+            {
+                "id": "formosa-Formosa-88.1",
+                "name": "Radio Formosa FM 88.1",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/544/881-fm-radio-formosa.ba6e301a.jpg",
+                "web": "www.radioformosa.com.ar/",
+                "city": "Ciudad de Formosa",
+                "province": "Formosa",
+                "stream": "https://radios.solumedia.com:6168/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "formosa-Fiesta-Clorinda-Online",
+                "name": "Fiesta Clorinda Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/627/radio-fiesta-clorinda.9dab6ea2.jpg",
+                "web": "radiofiesta.enhd.ar/",
+                "city": "Clorinda",
+                "province": "Formosa",
+                "stream": "https://radiohd.net:8126/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "formosa-LaMasaFsa-Radio-Online",
+                "name": "LaMasaFsa Radio Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/113/lamasafsa-radio.e19b3db2.jpg",
+                "web": "https://lamasafsaradio.wixsite.com/lamasafsaradio",
+                "city": "Ciudad de Formosa",
+                "province": "Formosa",
+                "stream": "https://stream-177.zeno.fm/cxqae1fzd5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeHFhZTFmemQ1enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkxuVkNkR2xqUUMyVDJyLWhHVW1RN3ciLCJpYXQiOjE3NzcyOTg2MDUsImV4cCI6MTc3NzI5ODY2NX0.VukanKhgWISqAn04C120TykGmTsCeJMwz7mLg0gWSlE",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "formosa-La-Voz-Digital-Online",
+                "name": "La Voz Digital Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/862/la-voz-digital.56e67961.jpg",
+                "web": "www.radiolavoz.com.ar/",
+                "city": "Ciudad de Formosa",
+                "province": "Formosa",
+                "stream": "https://streaming01.shockmedia.com.ar:10884/stream?icy=http",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "formosa-Tropical-96.9",
+                "name": "Tropical FM 96.9",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/961/radio-tropical-969-fm.130272c7.png",
+                "web": "www.radiotropical.com.ar",
+                "city": "Ciudad de Formosa",
+                "province": "Formosa",
+                "stream": "https://sonicpanel.hostradios.com/8084/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "formosa-FM-Clorinda-93.1",
+                "name": "FM Clorinda 93.1",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/434/fm-clorinda-931.6adf4662.png",
+                "web": "www.clorindafm.com.ar/",
+                "city": "Clorinda",
+                "province": "Formosa",
+                "stream": "https://radiohd.net/3542/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "formosa-Gente-de-Radio-93.3",
+                "name": "Gente de Radio FM 93.3",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/613/gente-de-radio-el-colorado-formosa.1303d7d6.png",
+                "web": "https://www.gentederadio.com.ar/",
+                "city": "El Colorado",
+                "province": "Formosa",
+                "stream": "https://radios.solumedia.com/6254/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "formosa-Riacho-FM-104.9",
+                "name": "FM Riacho FM 104.9",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/553/fm-riacho-1049.e0debd99.png",
+                "web": "radioriachofm.com",
+                "city": "Riacho das Almas - Brasil",
+                "province": "Formosa",
+                "stream": "https://stm23.srvaudio.com.br:10974/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "formosa-Fm-la-Torre-983",
+                "name": "Fm la Torre FM 98.3",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/016/fm-la-torre983.bafd90de.png",
+                "web": "https://fmlatorreelcolorado983.blogspot.com/",
+                "city": "El Colorado",
+                "province": "Formosa",
+                "stream": "http://stream-174.zeno.fm/thtrveenduhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0aHRydmVlbmR1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkRhWUhFQllvU2Itb1duZHRDNHk3ekEiLCJpYXQiOjE3NzcyOTk0NDcsImV4cCI6MTc3NzI5OTUwN30.GCTNK9SbcQRAqpRt8Qtj3ACPoae5FoJz0E_HPGN2XCY",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "formosa-La-Ganga-FM-91.7",
+                "name": "La Ganga FM 91.7",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/691/la-ganga-fm-917.e235528b.jpg",
+                "web": "https://www.lagangafm.tk/",
+                "city": "Ciudad de Formosa",
+                "province": "Formosa",
+                "stream": "https://server6.hostradios.com/8374/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "formosa-Radio-Taní-Online",
+                "name": "Radio Taní Online",
+                "image": "https://imagenes.nvradios.com/images/rkmmW.png",
+                "web": "https://tani-radio.blogspot.com/",
+                "city": "Ciudad de Formosa",
+                "province": "Formosa",
+                "stream": "https://autodj.nvradios.com/radio/8360/radio.mp3",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "formosa-Radio-Exa-FM-977",
+                "name": "Radio Exa FM 97.7",
+                "image": "https://player-radio-backend.inovanex.com/images/RADIO%20EXA%2097.70_1753901398760.webp",
+                "web": "https://www.radioexaformosa.com/",
+                "city": "Ciudad de Formosa",
+                "province": "Formosa",
+                "stream": "https://cdn.instream.audio:9750/stream",
+                "categories": [
+                    "comunidad"
                 ]
             }
         ]
