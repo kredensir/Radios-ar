@@ -200,6 +200,18 @@
                 ]
             },
             {
+                "id": "buenos-aires-Free-FM-World-99.1",
+                "name": "Free FM World FM 99.1",
+                "web": "www.freefmradio.net",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/473/roca-fm-clasicos-ba.5e245f38.jpg",
+                "city": "AMBA",
+                "province": "Buenos Aires",
+                "stream": "https://xxdelgado.radioca.st/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
                 "id": "buenos-aires-radio-con-aguante-Online",
                 "name": "Radio Con Aguante Online",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/013/radio-con-aguante.e20050f2.png",

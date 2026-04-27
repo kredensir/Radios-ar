@@ -109,6 +109,18 @@
                 ]
             },
             {
+                "id": "la-pampa-Impacto-Informativo-Realico-91.1",
+                "name": "Impacto Informativo FM 91.1",
+                "web": "www.impactoinformativo.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/254/impacto-informativo-realico.9303b368.jpg",
+                "city": "Realicó",
+                "province": "La Pampa",
+                "stream": "https://streaming01.shockmedia.com.ar:10829/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "la-pampa-LU100-Radio-Capital-1140",
                 "name": "LU100 Radio Capital AM 1140",
                 "web": "www.lu100.com.ar/",

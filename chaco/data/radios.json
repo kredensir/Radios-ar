@@ -76,6 +76,340 @@
                     "comunidad",
                     "noticias"
                 ]
+            },
+            {
+                "id": "chaco-La-Red-FM-92.9",
+                "name": "La Red FM 92.9",
+                "web": "https://fmlaredsp.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/082/la-red-fm.8f7cc320.png",
+                "city": "Roque Sáenz Peña",
+                "province": "Chaco",
+                "stream": "https://turadioenvivo.com/proxy/saenzp/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "chaco-Radio-Mocoví-800",
+                "name": "Radio Mocoví AM 800",
+                "web": "https://mocovi.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/620/radio-mocovi.f877e05e.jpg",
+                "city": "Charata",
+                "province": "Chaco",
+                "stream": "https://cdn.instream.audio/:9548/stream",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "chaco-La-104.7-Alternativo",
+                "name": "La 104.7 Alternativo",
+                "web": "https://laradio1047.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/588/la-1047-alternativo.6f9ca9eb.png",
+                "city": "Ciudad de Resistencia",
+                "province": "Chaco",
+                "stream": "https://server.laradio.online/proxy/laradio1047?mp=/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "chaco-FM-Laser-10-88.3",
+                "name": "FM Laser 10 88.3",
+                "web": "https://fmlaser10.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/296/fm-laser-10.a05bed0c.png",
+                "city": "Quitilipi",
+                "province": "Chaco",
+                "stream": "https://edge04.radiohdvivo.com/laser10",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "chaco-FM-Génesis-103.7",
+                "name": "FM Génesis 103.7",
+                "web": "https://fmgenesis1037.radiosonlines.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/834/fm-genesis-1037.9c4beb9b.png",
+                "city": "Quitilipi",
+                "province": "Chaco",
+                "stream": "https://streaming.radiosenlinea.com.ar:10415/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "chaco-FM-Libertad-99.3",
+                "name": "FM Libertad 99.3",
+                "web": "www.fmlibertadcharata.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/062/fm-libertad-argentina.7a2028e7.jpg",
+                "city": "Charata",
+                "province": "Chaco",
+                "stream": "https://01.solumedia.com.ar:7229/stream",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "chaco-Master-89.9",
+                "name": "Master FM 89.9",
+                "web": "https://master.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/223/master-899.b3710f8f.png",
+                "city": "Ciudad de Resistencia",
+                "province": "Chaco",
+                "stream": "https://edge04.radiohdvivo.com/master899",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "chaco-Radio-Fan-96.9",
+                "name": "Radio Fan FM 96.9",
+                "web": "www.lafanradio.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/408/radio-fan-969-fm.b0b4e097.jpg",
+                "city": "Castelli",
+                "province": "Chaco",
+                "stream": "https://streaming5.locucionar.com/proxy/radiofan969?mp=/stream",
+                "categories": [
+                    "comunidad",
+                    "folklore"
+                ]
+            },
+            {
+                "id": "chaco-Supremacia-Rock-Online",
+                "name": "Supremacia Rock Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/502/supremacia-rock.9a7f7aad.png",
+                "city": "Pampa del Indio",
+                "province": "Chaco",
+                "stream": "https://stream-174.zeno.fm/qkw3w3wphzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxa3czdzN3cGh6enV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InhoVXhoWkFCUkZ5Mm92NW9sTXkzQnciLCJpYXQiOjE3NzczMDMxMDYsImV4cCI6MTc3NzMwMzE2Nn0.bjbZWaGS7lNhRlT8tUtA3Qf99PrHKiwXdWc28zucCzs",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "chaco-Punto-Hits-FM-89.3",
+                "name": "Punto Hits FM 89.3",
+                "web": "https://fmpuntohits.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/556/punto-hits-fm.21c4e198.png",
+                "city": "Basail",
+                "province": "Chaco",
+                "stream": "https://stream.radioinfo.ar/5876/stream/?nocache=1&type=http",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "chaco-Redimidos-Por-Jesús-Online",
+                "name": "Redimidos Por Jesús Online",
+                "web": "https://www.radioredimidosporjesus.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/927/radio-redimidos-por-jesus.3242c717.png",
+                "city": "Ciudad de Resistencia",
+                "province": "Chaco",
+                "stream": "https://a9.asurahosting.com:8920/radio.mp3",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "chaco-FM-Nortena-91.5",
+                "name": "FM Nortena 91.5",
+                "web": "www.radionorteña.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/530/fm-nortena-915.5817f220.png",
+                "city": "Machagai",
+                "province": "Chaco",
+                "stream": "http://centova2.veemesoft.com.ar:8146/live",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "chaco-Natagalá-94.7",
+                "name": "Natagalá FM 94.7",
+                "web": "radionatagala.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/329/natagala-947-fm.7e9bf4dd.png",
+                "city": "Ciudad de Resistencia",
+                "province": "Chaco",
+                "stream": "https://radio02.ferozo.com/proxy/ra01000458?mp=/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "chaco-Golden-FM-95.5",
+                "name": "Golden FM 95.5",
+                "web": "https://www.goldenfm955.radiosonlines.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/412/golden-fm-955.226a62bb.png",
+                "city": "Coronel Du Graty",
+                "province": "Chaco",
+                "stream": "https://streaming.radiosenlinea.com.ar:10331/;",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "chaco-ArgenROCK-Online",
+                "name": "ArgenROCK Online",
+                "web": "https://zeno.fm/argenrock-radio/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/439/argenrock-radio.2fbc902c.png",
+                "city": "Fontana",
+                "province": "Chaco",
+                "stream": "https://stream-283.zeno.fm/9u204ptq5yzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5dTIwNHB0cTV5enV2IiwiaG9zdCI6InN0cmVhbS0yODMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImZMenpXS3g4UzVtNU84VzZxQmluSVEiLCJpYXQiOjE3NzczMDUzNjIsImV4cCI6MTc3NzMwNTQyMn0.94h-Zos6ACDC9yX9pJ8r5MrM_diY2pgyAyxoAtM5gWQ",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "chaco-FM-Radio-Zoe-89.1",
+                "name": "FM Radio Zoe 89.1",
+                "web": "www.fmradiozoe.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/546/fm-radio-zoe-891.cc4eca3f.png",
+                "city": "Fontana",
+                "province": "Chaco",
+                "stream": "https://stream-287.zeno.fm/w0vfagjowa3vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3MHZmYWdqb3dhM3Z2IiwiaG9zdCI6InN0cmVhbS0yODcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InZZZldjQnBrU21tejNCSi1GNEFVS1EiLCJpYXQiOjE3NzczMDU1MzQsImV4cCI6MTc3NzMwNTU5NH0.mLcZBNw8NEJRJIYLus5r1mnSvfv1kNEc29LI_hM8RFQ",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "chaco-Ebenezer-Radio-FM-91.1",
+                "name": "Ebenezer Radio FM 91.1",
+                "web": "www.ebenezerradio.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/940/ebenezer-radio-911.7245cd2f.jpg",
+                "city": "Roque Sáenz Peña",
+                "province": "Chaco",
+                "stream": "http://genexservicios.com:8312/stream",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "chaco-Nordeste-102.7",
+                "name": "Nordeste FM 102.7",
+                "web": "www.radionordeste.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/587/radionordeste.334aaeb2.png",
+                "city": "Ciudad de Resistencia",
+                "province": "Chaco",
+                "stream": "https://turadioenvivo.com/proxy/radionordeste/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "chaco-FM-Gualamba-93.7",
+                "name": "FM Gualamba 93.7",
+                "web": "https://www.fmgualamba.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/729/fm-gualamba.9a02690b.jpg",
+                "city": "Ciudad de Resistencia",
+                "province": "Chaco",
+                "stream": "https://ssl.radiosnethosting.com/index.php?port=9072",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "chaco-AXIOS-93.3",
+                "name": "Axios FM 93.3",
+                "web": "www.fmaxios.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/603/axios-933-fm.6651610b.jpg",
+                "city": "Quitilipi",
+                "province": "Chaco",
+                "stream": "https://radios.streamingdha.com.ar/8058/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "chaco-LatinPOP-Online",
+                "name": "LatinPOP Online",
+                "web": "https://ar.conecta-la.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/773/latinpop-radio.1fe48bec.png",
+                "city": "Ciudad de Resistencia",
+                "province": "Chaco",
+                "stream": "https://streaming.conecta-la.com/latin-pop-argentina.mp3",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "chaco-Rock&Pop-Resistencia-106.1",
+                "name": "Rock&Pop Resistencia FM 106.1",
+                "web": "https://rockandpopresistencia.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/672/rockpop-resistencia.3b432584.png",
+                "city": "Ciudad de Resistencia",
+                "province": "Chaco",
+                "stream": "https://cdn.instream.audio:9534/stream",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "chaco-STO-Radio-90.5",
+                "name": "STO Radio FM 90.5",
+                "web": "www.storadio.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/955/sto-radio-905-fm.f02e8853.png",
+                "city": "Ciudad de Resistencia",
+                "province": "Chaco",
+                "stream": "https://streaming01.shockmedia.com.ar:10342/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "chaco-Radio-Magica-99.9",
+                "name": "Radio Magica FM 99.9",
+                "web": "www.radiomagica999.com.ar",
+                "image": "https://turadio.online/panelradiotv/server/public/images/1767357627fondo.jpg",
+                "city": "Barranqueras",
+                "province": "Chaco",
+                "stream": "https://orbitalvip.site/listen/radio_magica/radio.mp3",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "chaco-Milenium-FM-100.7",
+                "name": "Milenium FM 100.7",
+                "web": "https://www.mileniumradio.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/566/milenium-fm-argentina.5ad927f8.png",
+                "city": "Roque Sáenz Peña",
+                "province": "Chaco",
+                "stream": "https://edge04.radiohdvivo.com/mileniumprq",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "chaco-Logos-FM-104.9",
+                "name": "Logos FM 104.9",
+                "web": "https://radiologos.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/913/logos-fm-1049.9ed0fa5e.png",
+                "city": "Roque Sáenz Peña",
+                "province": "Chaco",
+                "stream": "https://genexservicios.com:8408/;",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "chaco-",
+                "name": "",
+                "web": "",
+                "image": "",
+                "city": "",
+                "province": "Chaco",
+                "stream": "",
+                "categories": [
+                    "musica"
+                ]
             }
         ]
     }

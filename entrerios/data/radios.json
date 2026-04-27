@@ -3,6 +3,18 @@
         "zone": "Costa del Paraná",
         "items": [
             {
+                "id": "entre-rios-FM-Riel-Online",
+                "name": "FM Riel Online",
+                "web": "https://www.rielfm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/765/fm-riel.d896ab8f.png",
+                "city": "Basail",
+                "province": "Entre Ríos",
+                "stream": "https://streamconex.com:2000/stream/FMRiel",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
                 "id": "entre-rios-la-amistad-1550-am",
                 "name": "La Amistad AM 1550",
                 "web": "http://radiolaamistad.com/",
@@ -197,6 +209,30 @@
                 "categories": [
                     "comunidad",
                     "noticias"
+                ]
+            },
+            {
+                "id": "entre-rios-La-100-Nogoya-FM-999",
+                "name": "La 100 Nogoyá FM 99.9",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/692/la-100-nogoya.9e632559.jpg",
+                "city": "Nogoyá",
+                "province": "Entre Ríos",
+                "stream": "https://01.solumedia.com.ar:8712/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "entre-rios-f5-efe-cinco-fm-1011",
+                "name": "F5 Efe Cinco FM 101.1",
+                "image": "https://nogoyaradios.com/wp-content/uploads/2017/10/LAf5.jpg",
+                "city": "Nogoyá",
+                "province": "Entre Ríos",
+                "stream": "https://sonic.host-live.com:10993/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
                 ]
             }
         ]
