@@ -36,7 +36,8 @@
                 "stream": "https://guille777.radioca.st/stream",
                 "categories": [
                     "noticias",
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
@@ -49,7 +50,8 @@
                 "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad30",
                 "categories": [
                     "comunidad",
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
@@ -200,7 +202,8 @@
                 "stream": "https://sonic.host-live.com:10967/stream",
                 "categories": [
                     "comunidad",
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
@@ -263,7 +266,8 @@
                 "stream": "https://sc.host-live.com/8070/stream",
                 "categories": [
                     "noticias",
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
@@ -301,7 +305,8 @@
                 "stream": "https://icecast.hostingbahia.com.ar:8054/live",
                 "categories": [
                     "comunidad",
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             }
         ]
@@ -343,7 +348,8 @@
                 "province": "Río Negro",
                 "stream": "https://streaming1.locucionar.com/proxy/radiopopular?mp=/stream",
                 "categories": [
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {

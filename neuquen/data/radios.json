@@ -17,7 +17,7 @@
             {
                 "id": "neuquen-RN-RADIO-Online",
                 "name": "RN Radio Online",
-                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/280344291_317114063834884_7271796153786309830_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=44ITj85Lv2EQ7kNvwEIu6D1&_nc_oc=AdqfLCz_fKld-hOYB-51-86ueAhyhve3KJzzdWhN-fkj-Kuxa40oEtVUnRJRW9_LGnM&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=jFmsOpedT1Lgz61DUDqTqA&_nc_ss=7b2a8&oh=00_Af1c69CuQbhvVxR49lIiWPOWpjxGaFtIYW2hQe1L0qG7XQ&oe=69EF38AE",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/827/rn-radio.597f0c05.png",
                 "web": "https://www.rionegro.com.ar/radio/",
                 "city": "Ciudad de Neuquén",
                 "province": "Neuquen",
@@ -79,7 +79,7 @@
             {
                 "id": "neuquen-Conecta2-Online",
                 "name": "Conecta2 Online",
-                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/420450163_373580338610853_5229597789474245744_n.png?_nc_cat=111&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=pxECZpzfCHYQ7kNvwGVtfJj&_nc_oc=Adp2U1D9z8AtUfmjYGgXR1EIOIDX12XEQ0SN9CsMuAwdkGoJLs9bVn9bVOY9AakCFcU&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=2Dmf66VqxMmE9HNuePL5tQ&_nc_ss=7b2a8&oh=00_Af2HwA9zsbfotxdTCDu5Px10rk-iLVKZUNnv7QAJwWwPpw&oe=69EF5456",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/703/conecta2-radio.07948c66.png",
                 "web": "https://www.conecta2radio.com.ar/",
                 "city": "Ciudad de Neuquén",
                 "province": "Neuquen",
@@ -283,9 +283,9 @@
                 ]
             },
             {
-                "id": "neuquen-Activa-Neuquén",
-                "name": "Activa Neuquén",
-                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/565628303_1278311057640117_5151047178495288770_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=lX6wENzqSRoQ7kNvwGq06Wc&_nc_oc=AdouA5_JlwhqTVccfXhMPYNK78JEq8riRVBhCxFZrkVfxAqFbOBkE-VqjkuWWq6QK_4&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=g8LzSrYFOMXo_cIS8rwFvg&_nc_ss=7b2a8&oh=00_Af0bQHD_KeR2Mfzqgw6tUANYKMTS15UvXiGBdYKD4EUHWQ&oe=69EF4170",
+                "id": "neuquen-Activa-Neuquén-91.1",
+                "name": "Activa Neuquén FM 91.1",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/329/activa-911-neuquen.337ccbf6.jpg",
                 "web": "activaneuquen.com",
                 "city": "Ciudad de Neuquén",
                 "province": "Neuquen",
@@ -397,7 +397,7 @@
             {
                 "id": "neuquen-Fuego-FM-105.9",
                 "name": "Fuego FM 105.9",
-                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/480310990_1074047734736872_4678549504556055752_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=ASZz0hpXP6AQ7kNvwFPQHvx&_nc_oc=Adou4cllDZtthwsVYYIYyBmaJMNNXTolUZXFALMrYSi2f9h_1VlBzepZy3zTVMcrPiE&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=6sWRRnmAH6UJqN0B9mBpqg&_nc_ss=7b2a8&oh=00_Af3TW44Nt62KDIqZ-PzrcawMlIUZ4A5aAMtELxkzDiBLFA&oe=69EF3AC0",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/510/fuego-1059.d4ee41ce.png",
                 "web": "https://fuego24.com/",
                 "city": "Cutral-Có",
                 "province": "Neuquen",

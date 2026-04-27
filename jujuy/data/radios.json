@@ -235,7 +235,7 @@
                 "province": "Jujuy",
                 "stream": "https://srv1.streamingradio.ar/8040/stream",
                 "categories": [
-                    "folclore",
+                    "folklore",
                     "comunidad"
                 ]
             },
@@ -1143,7 +1143,7 @@
                 "stream": "https://server.laradio.online/proxy/fabian_carrizo?mp=/stream",
                 "categories": [
                     "tropical",
-                    "folclore",
+                    "folklore",
                     "comunidad"
                 ]
             }

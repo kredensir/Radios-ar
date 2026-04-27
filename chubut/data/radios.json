@@ -63,7 +63,8 @@
                 "stream": "https://cdn.instream.audio/:9061/stream",
                 "categories": [
                     "comunidad",
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
@@ -136,7 +137,8 @@
                 "province": "Chubut",
                 "stream": "http://138.36.96.199:8001/lu17",
                 "categories": [
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {
@@ -220,8 +222,7 @@
                 "stream": "https://emisora.zonasinergia.com/8146/stream",
                 "video": "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8",
                 "categories": [
-                    "comunidad",
-                    "tv"
+                    "comunidad"
                 ]
             },
             {
@@ -259,7 +260,8 @@
                 "stream": "https://streaming1.locucionar.com/proxy/radiochubut?mp=/stream",
                 "categories": [
                     "comunidad",
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
@@ -271,7 +273,8 @@
                 "province": "Chubut",
                 "stream": "https://radios.lu17.com:8400/rtn",
                 "categories": [
-                    "comunidad"
+                    "comunidad",
+                    "deportes"
                 ]
             },
             {

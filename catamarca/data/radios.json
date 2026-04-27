@@ -124,7 +124,8 @@
                 "stream": "https://genexservicios.com:2000/stream/fmrepublica",
                 "categories": [
                     "comunidad",
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
