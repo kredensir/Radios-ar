@@ -68,19 +68,6 @@
                 ]
             },
             {
-                "id": "san-juan-La-Red-FM-89.3",
-                "name": "La Red FM 89.3",
-                "web": "https://www.diariohuarpe.com/radio/la-red",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/553/radio-la-red-fm-893.9caf1253.png",
-                "city": "Ciudad de San Juan",
-                "province": "San Juan",
-                "stream": "https://streaming.radiosenlinea.com.ar:10929/;;;stream.mp3",
-                "categories": [
-                    "noticias",
-                    "comunidad"
-                ]
-            },
-            {
                 "id": "san-juan-La-Voz-100.5",
                 "name": "La Voz FM 100.5",
                 "web": "www.lavozfm.com.ar/",
@@ -174,7 +161,7 @@
                 "id": "san-juan-Estereo-Fortaleza-Online",
                 "name": "Estereo Fortaleza Online",
                 "web": "www.estereofortaleza.org/",
-                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/306779969_508502387948878_4282948814893266880_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=XlzxVShpLvUQ7kNvwFix30a&_nc_oc=AdrRklIA-ocR5qsYAAKCNY2GVe4YVyFn0zkH5PMUvn-1o3q7Zzrh31Hp_858Vj2pbEQ&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=FkD91WFERCMv_F2wvqRxbA&oh=00_Af1chkqgHghG4iZvfDTkM1pFIpScp4VQ5uoRu-9uSwHLdA&oe=69F15D3B",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/882/estereo-fortaleza.3e8173c2.jpg",
                 "city": "Ciudad de San Juan",
                 "province": "San Juan",
                 "stream": "https://edmenstudio.net:7004/stream",
@@ -229,19 +216,6 @@
                 "categories": [
                     "comunidad",
                     "musica"
-                ]
-            },
-            {
-                "id": "san-juan-Radio-Alas-101.7",
-                "name": "Radio Alas FM 101.7",
-                "web": "https://changomovil.net/",
-                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/246163884_4587486664642769_2984715052478223169_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=roMX0mNp5hwQ7kNvwFgLTlf&_nc_oc=AdrG7tzhlxCReeqyZAVpUax1LPa1GIlSc_JNT_h1pTdShWW2LG4VuTIny2mEGcOPjIo&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=V7DsfqLPHPStug0QwUoSpw&oh=00_Af3YAYQWwmPXA15FO_zceBC68GKJNa_7Al5liSfITzjvxg&oe=69F16B13",
-                "city": "Ciudad de San Juan",
-                "province": "San Juan",
-                "stream": "https://server.laradio.online:58741/live",
-                "categories": [
-                    "comunidad",
-                    "noticias"
                 ]
             },
             {

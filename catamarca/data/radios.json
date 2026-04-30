@@ -19,7 +19,7 @@
                 "id": "catamarca-Radio-Municipal-Chumbicha-101.3",
                 "name": "Radio Municipal Chumbicha FM 101.3",
                 "web": "https://municipalfmradio.wixsite.com/radiomunicipal",
-                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/494379456_1108914927925214_7167777753493782644_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=NDa8BRIhnEUQ7kNvwFY1ABE&_nc_oc=AdrgnG-yKLg1jSUoUjW1a1zpXR3nE21ZXo0OtP3leEZqEwHku-l3VhXqewrPU0IDjLo&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=93bhIHG7L3UrYe8gQSacYQ&oh=00_Af2RWT2Qh56X8FeTbeFqW3wTVzX8_FUVM5oM9jNjzVQfig&oe=69F1ACBE",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/272/radio-municipal-chumbicha.30bdd945.png",
                 "city": "Chumbicha",
                 "province": "Catamarca",
                 "stream": "http://streaming.radiosenlinea.com.ar:8676/;",
@@ -212,7 +212,7 @@
             {
                 "id": "catamarca-FM-Morena-100.5",
                 "name": "FM Morena 100.5",
-                "image": "https://scontent.ftuc6-1.fna.fbcdn.net/v/t39.30808-6/301370886_778422313525684_5926248585563237493_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=4lPSCppey2sQ7kNvwFMx6_J&_nc_oc=AdqRKNFHsdHeZSnRJQkszvLnRyMk7houNdcqtu1SqhN5FKT3tghOUDMhHtQSSRggku0&_nc_zt=23&_nc_ht=scontent.ftuc6-1.fna&_nc_gid=x379Jah4n1J1xn2dPbn7bg&oh=00_Af0Oi9oDJg-DW-KcjUU9UlXzb2DcvKcCmiQJR6zUayiKJA&oe=69F18D9B",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/512/fm-morena-1005.2d15a818.png",
                 "city": "Santa María",
                 "province": "Catamarca",
                 "stream": "http://01.solumedia.com.ar:8502/stream",
