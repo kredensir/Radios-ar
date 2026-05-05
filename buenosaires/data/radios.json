@@ -280,7 +280,6 @@
                 "province": "Buenos Aires",
                 "stream": "https://az03.streaminghd.net.ar:7063/stream",
                 "categories": [
-                    "musica",
                     "religion"
                 ]
             },
@@ -344,6 +343,18 @@
                 "categories": [
                     "musica",
                     "tropical"
+                ]
+            },
+            {
+                "id": "buenos-aires-centro-965-fm",
+                "name": "Radio Centro 96.5 FM",
+                "web": "http://radiocentro965.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/927/radio-centro-965-fm.79387ce1.png",
+                "city": "Los Toldos",
+                "province": "Buenos Aires",
+                "stream": "https://radios.solumedia.com:10949/stream",
+                "categories": [
+                    "musica"
                 ]
             },
             {

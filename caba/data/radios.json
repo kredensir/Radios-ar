@@ -420,7 +420,6 @@
                 "province": "Buenos Aires",
                 "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad39",
                 "categories": [
-                    "rock",
                     "musica"
                 ]
             },
@@ -1747,7 +1746,7 @@
                 "type": "tv",
                 "web": "http://lamil35.com/",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/700/radio-lamil35.550802fb.png",
-                "city": "s Radio Lamil35",
+                "city": "CABA",
                 "province": "Buenos Aires",
                 "stream": "https://xtrematv.com/?num=78",
                 "video": "https://xtrematv.com/?num=78",

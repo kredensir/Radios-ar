@@ -185,22 +185,6 @@
                     "musica",
                     "comunidad"
                 ]
-            },
-            {
-                "id": "mendoza-centro-965-fm",
-                "name": "Radio Centro 96.5 FM",
-                "web": "http://radiocentro965.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/927/radio-centro-965-fm.79387ce1.png",
-                "city": "Null",
-                "province": "Mendoza",
-                "stream": "https://radios.solumedia.com:10949/stream",
-                "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
             }
         ]
     },

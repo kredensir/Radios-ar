@@ -103,12 +103,20 @@
                     "musica",
                     "comunidad"
                 ]
-            }
-        ]
-    },
-    {
-        "zone": "Paraná Sur",
-        "items": [
+            },
+            {
+                "id": "corrientes-x-virasoro-1059-fm",
+                "name": "X Virasoro FM 105.9",
+                "web": "http://radioxvirasoro1059.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/864/radio-x-virasoro-1059-fm.2441abb6.jpg",
+                "city": "Gdor. Virasoro",
+                "province": "Corrientes",
+                "stream": "https://streaming01.shockmedia.com.ar:10854/stream",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
             {
                 "id": "corrientes-si-911-fm",
                 "name": "Si FM 91.1",
@@ -117,6 +125,19 @@
                 "city": "Gdor. Juan E. Martínez",
                 "province": "Corrientes",
                 "stream": "https://01.solumedia.com.ar:9038/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "corrientes-city-1035-fm",
+                "name": "City FM 103.5",
+                "web": "https://radiocitymercedes.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/078/radio-city-1035-fm.3e230f56.jpg",
+                "city": "Mercedes",
+                "province": "Corrientes",
+                "stream": "https://server7.hostradios.com/8210/stream",
                 "categories": [
                     "comunidad",
                     "noticias"
@@ -137,53 +158,32 @@
         ]
     },
     {
-        "zone": "Región del Iberá",
+        "zone": "Capital y Noroeste",
         "items": [
             {
-                "id": "corrientes-city-1035-fm",
-                "name": "City FM 103.5",
-                "web": "https://radiocitymercedes.com.ar/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/078/radio-city-1035-fm.3e230f56.jpg",
-                "city": "Mercedes",
+                "id": "corrientes-Positiva-90.9",
+                "name": "Positiva FM 90.9",
+                "web": "https://fmpositivacorrientes.com",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/942/positiva-fm-913.cda6eeeb.jpg",
+                "city": "Ciudad de Corrientes",
                 "province": "Corrientes",
-                "stream": "https://server7.hostradios.com/8210/stream",
+                "stream": "https://stream-287.zeno.fm/3zrep0ya0tzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzenJlcDB5YTB0enV2IiwiaG9zdCI6InN0cmVhbS0yODcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InhLMmtwR1lwVDA2di1yNDkxYXExT0EiLCJpYXQiOjE3Nzc1NTk0MDksImV4cCI6MTc3NzU1OTQ2OX0.YNTTtqPQiskGblXoD5kXq1DhxpCn36i-3zkSwENvQtU",
                 "categories": [
-                    "comunidad",
-                    "noticias"
+                    "noticias",
+                    "deportes"
                 ]
             },
             {
-                "id": "corrientes-vintage",
-                "name": "Radio Vintage",
-                "web": "https://radiovintageclasicos.blogspot.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/029/radio-vintage-argentina.08a2ffbf.png",
-                "city": "Null",
+                "id": "corrientes-FM-Aspen",
+                "name": "FM Aspen 93.7",
+                "web": "https://www.facebook.com/fmaspen93.7corrientes/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/932/fm-aspen.50163e15.jpg",
+                "city": "Ciudad de Corrientes",
                 "province": "Corrientes",
-                "stream": "https://stream.zenolive.com/znq3wpzw34zuv",
+                "stream": "https://sslstream.online:7001/stream",
                 "categories": [
-                    "antiguas / éxitos clásicos",
-                    "noticias",
-                    "dance / electrónica",
-                    "años 80 / 90",
-                    "country"
-                ]
-            }
-        ]
-    },
-    {
-        "zone": "Región de la Costa del Uruguay",
-        "items": [
-            {
-                "id": "corrientes-x-virasoro-1059-fm",
-                "name": "X Virasoro FM 105.9",
-                "web": "http://radioxvirasoro1059.com/",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/864/radio-x-virasoro-1059-fm.2441abb6.jpg",
-                "city": "Gdor. Virasoro",
-                "province": "Corrientes",
-                "stream": "https://streaming01.shockmedia.com.ar:10854/stream",
-                "categories": [
-                    "musica",
-                    "comunidad"
+                    "comunidad",
+                    "musica"
                 ]
             }
         ]
