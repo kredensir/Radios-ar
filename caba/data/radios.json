@@ -111,7 +111,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/1055-logo-los-40.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
-                "stream": "https://edge04.radiohdvivo.com/los40",
+                "stream": "https://frontend.radiohdvivo.com/los40/live",
                 "categories": [
                     "musica"
                 ]
