@@ -56,7 +56,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/buenosaires/buenosaires/online-logo-alerta-maxima.webp",
                 "city": "AMBA",
                 "province": "Buenos Aires",
-                "stream": "https://edge01.radiohdvivo.com/alertamaxima",
+                "stream": "https://frontend.radiohdvivo.com/alertamaxima",
                 "categories": [
                     "musica"
                 ]

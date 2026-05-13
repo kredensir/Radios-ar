@@ -42,6 +42,17 @@
                 ]
             },
             {
+                "id": "jujuy-Weekend-923",
+                "name": "Weekend FM 92.3",
+                "image": "https://streaminglocucionar.com/portal/images/logos/weekendfm923.png",
+                "city": "Abra Pampa",
+                "province": "Jujuy",
+                "stream": "https://streaming6.locucionar.com:24146/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "jujuy-canal-6",
                 "name": "Canal 6",
                 "type": "tv",
