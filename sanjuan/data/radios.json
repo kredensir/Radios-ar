@@ -266,7 +266,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/262/radio-manantial-argentina.95d91b4e.png",
                 "city": "Calingasta",
                 "province": "San Juan",
-                "stream": "https://edge02.radiohdvivo.com/manantial993",
+                "stream": "https://frontend.radiohdvivo.com/manantial993/live",
                 "categories": [
                     "comunidad",
                     "noticias"

@@ -57,7 +57,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/748/radio-futuro-989-fm.91967b2e.png",
                 "city": "Sáenz Peña",
                 "province": "Chaco",
-                "stream": "https://edge04.radiohdvivo.com/futuro989",
+                "stream": "https://frontend.radiohdvivo.com/radiofuturo/live",
                 "categories": [
                     "comunidad",
                     "noticias",
@@ -121,7 +121,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/296/fm-laser-10.a05bed0c.png",
                 "city": "Quitilipi",
                 "province": "Chaco",
-                "stream": "https://edge04.radiohdvivo.com/laser10",
+                "stream": "https://frontend.radiohdvivo.com/fmlaser10/live",
                 "categories": [
                     "comunidad"
                 ]
@@ -157,7 +157,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/223/master-899.b3710f8f.png",
                 "city": "Ciudad de Resistencia",
                 "province": "Chaco",
-                "stream": "https://edge04.radiohdvivo.com/master899",
+                "stream": "https://frontend.radiohdvivo.com/master899/live",
                 "categories": [
                     "musica"
                 ]
@@ -382,7 +382,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/566/milenium-fm-argentina.5ad927f8.png",
                 "city": "Roque Sáenz Peña",
                 "province": "Chaco",
-                "stream": "https://edge04.radiohdvivo.com/mileniumprq",
+                "stream": "https://frontend.radiohdvivo.com/mileniumprq/live",
                 "categories": [
                     "musica"
                 ]

@@ -65,7 +65,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/caba/caba/590-logo-continental.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
-                "stream": "https://edge02.radiohdvivo.com/continental",
+                "stream": "https://frontend.radiohdvivo.com/continental/live",
                 "categories": [
                     "noticias",
                     "comunidad",

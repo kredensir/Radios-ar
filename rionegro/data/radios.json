@@ -276,7 +276,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/230/fm-genesis-1031.ba0f7383.png",
                 "city": "General Roca",
                 "province": "Rio Negro",
-                "stream": "https://edge01.radiohdvivo.com/genesis1031",
+                "stream": "https://frontend.radiohdvivo.com/genesis1031/live",
                 "categories": [
                     "musica"
                 ]
@@ -334,7 +334,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/316/radio-em-979.fc28f647.jpg",
                 "city": "Viedma",
                 "province": "Río Negro",
-                "stream": "https://edge02.radiohdvivo.com/radioem",
+                "stream": "https://frontend.radiohdvivo.com/radioem/live",
                 "categories": [
                     "musica"
                 ]
@@ -381,7 +381,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/142/mega-fm-955.0f46bbb9.png",
                 "city": "Viedma",
                 "province": "Rio Negro",
-                "stream": "https://edge02.radiohdvivo.com/mega955",
+                "stream": "https://frontend.radiohdvivo.com/fmmega955/live",
                 "categories": [
                     "comunidad",
                     "musica"

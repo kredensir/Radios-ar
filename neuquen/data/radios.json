@@ -289,7 +289,7 @@
                 "web": "activaneuquen.com",
                 "city": "Ciudad de Neuquén",
                 "province": "Neuquen",
-                "stream": "https://edge02.radiohdvivo.com/activanqn",
+                "stream": "https://frontend.radiohdvivo.com/activanqn/live",
                 "categories": [
                     "comunidad",
                     "deportes"
@@ -302,7 +302,7 @@
                 "web": "https://www.pirkasfm.com/",
                 "city": "Ciudad de Neuquén",
                 "province": "Neuquen",
-                "stream": "https://edge04.radiohdvivo.com/pirkas",
+                "stream": "https://frontend.radiohdvivo.com/pirkas/live",
                 "categories": [
                     "musica"
                 ]
@@ -337,7 +337,7 @@
                 "web": "https://www.pirkasfm.com/",
                 "city": "Ciudad de Neuquén",
                 "province": "Neuquen",
-                "stream": "https://edge04.radiohdvivo.com/pirkas/latina",
+                "stream": "https://frontend.radiohdvivo.com/pirkaslatina/live",
                 "categories": [
                     "musica"
                 ]
@@ -511,7 +511,7 @@
                 "web": "https://laradiolafm925.blogspot.com/",
                 "city": "Zapala",
                 "province": "Neuquen",
-                "stream": "https://edge02.radiohdvivo.com/laradiola925",
+                "stream": "https://frontend.radiohdvivo.com/laradiola925/live",
                 "categories": [
                     "musica"
                 ]

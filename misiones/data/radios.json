@@ -59,7 +59,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/733/radio-uno2.8a072494.png",
                 "city": "Gobernador Roca",
                 "province": "Misiones",
-                "stream": "https://edge02.radiohdvivo.com/uno1009",
+                "stream": "https://frontend.radiohdvivo.com/radiouno1009/live",
                 "categories": [
                     "comunidad"
                 ]
@@ -102,12 +102,12 @@
                 ]
             },
             {
-                "id": "misiones-municipal-de-posadas",
-                "name": "Municipal de Posadas",
+                "id": "misiones-municipal-de-posadas-951",
+                "name": "Municipal de Posadas FM 95.1",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/783/radio-municipal-de-posadas.833f9f34.png",
                 "city": "Posadas",
                 "province": "Misiones",
-                "stream": "https://edge04.radiohdvivo.com/posadas951",
+                "stream": "https://frontend.radiohdvivo.com/radioposadas951/live",
                 "categories": [
                     "comunidad",
                     "noticias"
@@ -270,7 +270,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/538/metropolix-fm.371fffa2.png",
                 "city": "Posadas",
                 "province": "Misiones",
-                "stream": "https://edge01.radiohdvivo.com/metropolis1043",
+                "stream": "https://frontend.radiohdvivo.com/metropolis1043/live",
                 "categories": [
                     "comunidad",
                     "musica"
@@ -319,7 +319,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/526/dinamica-fm.9b84dfe6.png",
                 "city": "Eldorado",
                 "province": "Misiones",
-                "stream": "https://edge01.radiohdvivo.com/metropolis1043",
+                "stream": "https://livecasthd.com.br/play.php?porta=27082",
                 "categories": [
                     "musica"
                 ]
@@ -368,7 +368,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/484/sol-fm-893.2326753b.png",
                 "city": "Veinticinco de Mayo",
                 "province": "Misiones",
-                "stream": "https://edge02.radiohdvivo.com/fmsol893",
+                "stream": "https://frontend.radiohdvivo.com/fmsol893/live",
                 "categories": [
                     "comunidad",
                     "musica"

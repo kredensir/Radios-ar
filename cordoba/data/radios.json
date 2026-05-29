@@ -215,7 +215,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/146/radio-viva-895.9c603f7f.png",
                 "city": "Ciudad de Córdoba",
                 "province": "Córdoba",
-                "stream": "https://edge02.radiohdvivo.com/viva895",
+                "stream": "https://frontend.radiohdvivo.com/viva895/live",
                 "categories": [
                     "musica",
                     "comunidad"
@@ -266,7 +266,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/893/radio-de-la-mujer.5e086ff2.jpg",
                 "city": "Ciudad de Córdoba",
                 "province": "Cordoba",
-                "stream": "https://edge02.radiohdvivo.com/mujerfm",
+                "stream": "https://frontend.radiohdvivo.com/mujerfm/live",
                 "categories": [
                     "musica"
                 ]
@@ -485,7 +485,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/557/radio-activa-hits-classics.8f811a5b.png",
                 "city": "Villa María",
                 "province": "Córdoba",
-                "stream": "https://edge01.radiohdvivo.com/fmra1033",
+                "stream": "https://frontend.radiohdvivo.com/radioactiva1033/live",
                 "categories": [
                     "musica"
                 ]
@@ -563,7 +563,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/504/radio-ciudad-1011.35ebe311.png",
                 "city": "Alta Gracia",
                 "province": "Córdoba",
-                "stream": "https://edge02.radiohdvivo.com/ciudad1011",
+                "stream": "https://frontend.radiohdvivo.com/fmciudad1011/live",
                 "categories": [
                     "comunidad",
                     "folklore"

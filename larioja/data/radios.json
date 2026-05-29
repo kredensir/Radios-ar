@@ -96,7 +96,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/141/rioja-virtual-radio.159f6128.png",
                 "city": "Ciudad de La Rioja",
                 "province": "La Rioja",
-                "stream": "https://edge01.radiohdvivo.com/riojavirtual",
+                "stream": "https://frontend.radiohdvivo.com/riojavirtual/live",
                 "categories": [
                     "comunidad",
                     "noticias"
@@ -145,7 +145,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/993/fantastica-1017-chilecito.b2725991.png",
                 "city": "Chilecito",
                 "province": "La Rioja",
-                "stream": "https://edge02.radiohdvivo.com/gpomontecristo/fantastica-chilecito",
+                "stream": "https://frontend.radiohdvivo.com/fantastica/live",
                 "categories": [
                     "musica"
                 ]
@@ -157,7 +157,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/992/montecristo-925-la-rioja.a702f95e.png",
                 "city": "Chilecito",
                 "province": "La Rioja",
-                "stream": "https://edge02.radiohdvivo.com/gpomontecristo/montecristo-larioja",
+                "stream": "https://frontend.radiohdvivo.com/montecristolarioja/live",
                 "categories": [
                     "musica"
                 ]

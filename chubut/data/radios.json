@@ -111,7 +111,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/404/radio-mas-1019.b88733f8.png",
                 "city": "Puerto Madryn",
                 "province": "Chubut",
-                "stream": "https://edge02.radiohdvivo.com/tresprods/mas",
+                "stream": "https://frontend.radiohdvivo.com/radiomas1019/live",
                 "categories": [
                     "noticias"
                 ]
@@ -159,7 +159,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/348/fm-ciudad-901.d648b1fd.png",
                 "city": "Puerto Madryn",
                 "province": "Chubut",
-                "stream": "https://edge01.radiohdvivo.com/ciudad901",
+                "stream": "https://frontend.radiohdvivo.com/ciudad901/live",
                 "categories": [
                     "comunidad",
                     "noticias",
@@ -180,11 +180,11 @@
             },
             {
                 "id": "chubut-EME-102.9",
-                "name": "EME FM 102.9",
+                "name": "Eme FM 102.9",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/880/eme-1029.60854f0e.jpg",
                 "city": "Puerto Madryn",
                 "province": "Chubut",
-                "stream": "https://edge02.radiohdvivo.com/tresprods/eme",
+                "stream": "https://frontend.radiohdvivo.com/radioeme/live",
                 "categories": [
                     "musica"
                 ]

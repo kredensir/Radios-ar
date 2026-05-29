@@ -1118,7 +1118,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/1073-logo-patria.webp",
                 "city": "Perico",
                 "province": "Jujuy",
-                "stream": "https://edge04.radiohdvivo.com/FMpatria1073",
+                "stream": "https://frontend.radiohdvivo.com/fmpatria1073/live",
                 "categories": [
                     "musica"
                 ]

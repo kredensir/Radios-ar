@@ -106,7 +106,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/664/radio-data-termas.3c4ac337.png",
                 "city": "Termas de Río Hondo",
                 "province": "Santiago del Estero",
-                "stream": "https://edge02.radiohdvivo.com/datatermas",
+                "stream": "https://frontend.radiohdvivo.com/datatermas/live",
                 "categories": [
                     "musica"
                 ]
