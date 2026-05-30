@@ -28,6 +28,19 @@
                 ]
             },
             {
+                "id": "cordoba-cosquin-rock-903",
+                "name": "Cosquin Rock FM 90.3",
+                "web": "https://www.lapopu.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/053/cosquin-rock-fm.71fd78e3.png",
+                "city": "Ciudad de Córdoba",
+                "province": "Córdoba",
+                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/COSQUINROCK_SC",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
                 "id": "san-juan-Radio-Libre-92.7",
                 "name": "Radio Libre FM 92.7",
                 "web": "https://radiolibre927.com.ar/",
