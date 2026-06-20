@@ -321,7 +321,8 @@
                 "province": "Jujuy",
                 "stream": "https://stream.djroquesalazar.com.ar/8974/stream",
                 "categories": [
-                    "tropical"
+                    "tropical",
+                    "musica"
                 ]
             },
             {
@@ -764,7 +765,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/online-logo-biz.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
-                "stream": "http://45.126.208.52/live",
+                "stream": "https://streamssl.radiodanz.com/live",
                 "categories": [
                     "musica"
                 ]
