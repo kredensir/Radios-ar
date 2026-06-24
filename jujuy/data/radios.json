@@ -97,7 +97,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional.webp",
                 "city": "La Quiaca",
                 "province": "Jujuy",
-                "yt":"https://www.youtube.com/@nacionallaquiacaLQ",
+                "yt": "https://www.youtube.com/@nacionallaquiacaLQ",
                 "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad16",
                 "categories": [
                     "noticias",
@@ -111,7 +111,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/puna/879-logo-municipal.webp",
                 "city": "La Quiaca",
                 "province": "Jujuy",
-                "yt":"https://www.youtube.com/@MunicipalidadLaQuiaca",
+                "yt": "https://www.youtube.com/@MunicipalidadLaQuiaca",
                 "stream": "https://streaming5.locucionar.com/proxy/radiomunicipal879?mp=/stream",
                 "categories": [
                     "noticias",
@@ -553,7 +553,7 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "yt": "https://www.youtube.com/@RadioFiesta91.7",
-                "yt_2":"https://www.youtube.com/@gatogarcia",
+                "yt_2": "https://www.youtube.com/@gatogarcia",
                 "stream": "https://5cd577a3dd8ec.streamlock.net/radiofiesta/live_1/playlist.m3u8",
                 "categories": [
                     "comunidad",
@@ -649,6 +649,17 @@
                 ]
             },
             {
+                "id": "jujuy-cnn-fm-955",
+                "name": "CNN FM 95.5",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-cnn.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://unlimited2-ar.dps.live/cnn-ar/aac/icecast.audio",
+                "categories": [
+                    "noticias"
+                ]
+            },
+            {
                 "id": "jujuy-sonica-953",
                 "name": "Sonica FM 95.3",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/953-logo-sonica.webp",
@@ -689,6 +700,18 @@
                 "province": "Jujuy",
                 "stream": "https://icecasthd.net/proxy/radiorecuerdosjujuy/stream",
                 "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "jujuy-radio-a-jujuy-989",
+                "name": "Radio A Jujuy FM 98.9",
+                "image": "https://www.radioajujuy.com.ar/images/logos/Favicon-Touchpad-01.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://streaming01.shockmedia.com.ar:10806/stream",
+                "categories": [
+                    "comunidad",
                     "musica"
                 ]
             },
@@ -849,6 +872,17 @@
                 ]
             },
             {
+                "id": "jujuy-DJ-Leo-Gonzalez-online",
+                "name": "DJ Leo Gonzalez Online",
+                "image": "https://djroquesalazar.com.ar/wp-content/uploads/2024/05/LEO-GONZALEZ-3-portada.jpg",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://stream.djroquesalazar.com.ar/8964/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
                 "id": "jujuy-onda-latina-1010",
                 "name": "Onda Latina AM 1010",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/1010-logo-onda-latina.webp",
@@ -858,6 +892,42 @@
                 "categories": [
                     "musica",
                     "deportes"
+                ]
+            },
+            {
+                "id": "jujuy-esperanza-online",
+                "name": "Esperanza Online",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/online-logo-esperanza.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://streaming.evolucionstreaming.com:10934/stream?icy=http",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "jujuy-esperanza-1031",
+                "name": "Esperanza FM 103.1",
+                "image": "https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQmoe_5AkMCxIOU3RhdGlvblByb2ZpbGUYgICQhvPygQgMogEEemVubw/images/logo",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://stream-175.surfernetwork.com/x4dfz7cbpzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4NGRmejdjYnB6enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ4TG15QkE2TFJYMmtyUkRFd0VrM1lRIiwiaWF0IjoxNzgyMzQxMzMzLCJleHAiOjE3ODIzNDEzOTN9.CLqd9iOMXPNtLUFJHFXRVETOKzY3xSQjBqJzAH8oFDc",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "jujuy-integracion-967",
+                "name": "Integracion FM 96.7",
+                "web": "https://integracion.fmmiradio.com/",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/937-logo-integracion",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://srv10.streamingradio.ar/8500/stream",
+                "categories": [
+                    "comunidad"
                 ]
             },
             {
@@ -877,11 +947,36 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/911-logo-lider.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
+                "stream": "https://24283.live.streamtheworld.com/CPRLSSJUJUY.mp3",
+                "categories": [
+                    "comunidad",
+                    "noticias",
+                    "deportes"
+                ]
+            },
+            {
+                "id": "jujuy-lider-100.9",
+                "name": "Lider FM 100.9",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/911-logo-lider.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
                 "stream": "https://26573.live.streamtheworld.com/C3RLSSJUJUY.mp3",
                 "categories": [
                     "comunidad",
                     "noticias",
                     "deportes"
+                ]
+            },
+            {
+                "id": "jujuy-stylo-985",
+                "name": "Stylo FM 98.5",
+                "image": "https://www.radiostylo985.com.ar/images/logo.png",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://srv7.streamingradio.ar/8364/stream",
+                "categories": [
+                    "comunidad",
+                    "folklore"
                 ]
             },
             {
@@ -1186,6 +1281,17 @@
                 "stream": "https://streaming01.radiosenlinea.com.ar:10677/stream",
                 "categories": [
                     "comunidad"
+                ]
+            },
+            {
+                "id": "jujuy-amistad-95.3",
+                "name": "Amistad FM 95.3",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/yungas/953-logo-amistad.webp",
+                "city": "Fraile Pintado",
+                "province": "Jujuy",
+                "stream": "http://stream.zeno.fm/sxw7a75dgkeuv?1782339706907",
+                "categories": [
+                    "musica"
                 ]
             },
             {
