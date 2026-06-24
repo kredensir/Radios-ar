@@ -21,6 +21,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/puna/977-logo-america.webp",
                 "city": "Abra Pampa",
                 "province": "Jujuy",
+                "yt": "https://www.youtube.com/@RadioAmerica90.7",
                 "stream": "https://emisora.radiosplay.com.ar/8406/stream",
                 "categories": [
                     "noticias",
@@ -35,6 +36,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/puna/911-logo-arias.webp",
                 "city": "Abra Pampa",
                 "province": "Jujuy",
+                "yt": "https://www.youtube.com/@RADIOARIAS",
                 "stream": "https://cdn.instream.audio/:9095/stream",
                 "categories": [
                     "tropical",
@@ -95,6 +97,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/nacional/logo-nacional.webp",
                 "city": "La Quiaca",
                 "province": "Jujuy",
+                "yt":"https://www.youtube.com/@nacionallaquiacaLQ",
                 "stream": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad16",
                 "categories": [
                     "noticias",
@@ -108,6 +111,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/puna/879-logo-municipal.webp",
                 "city": "La Quiaca",
                 "province": "Jujuy",
+                "yt":"https://www.youtube.com/@MunicipalidadLaQuiaca",
                 "stream": "https://streaming5.locucionar.com/proxy/radiomunicipal879?mp=/stream",
                 "categories": [
                     "noticias",
@@ -368,6 +372,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/7-logo-canal-7.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
+                "yt": "https://www.youtube.com/@Canal7deJujuy",
                 "stream": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
                 "categories": [
                     "noticias",
@@ -381,7 +386,8 @@
                 "image": "https://yt3.googleusercontent.com/0iRWn9dDzgOJHgnCyphfgVacDPhB85mMbAHb7cibSJHoBDIc2U7516EQrK0xA3ywFQZAmfh_Yac=s900-c-k-c0x00ffffff-no-rj",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
-                "stream": "https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8",
+                "yt": "https://www.youtube.com/@Canal4JujuyArg",
+                "stream": "https://5cd577a3dd8ec.streamlock.net/CAMARAS/live1/playlist.m3u8",
                 "categories": [
                     "noticias",
                     "comunidad"
@@ -437,6 +443,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/630-logo-lw8.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
+                "yt": "https://www.youtube.com/@am630jujuy",
                 "stream": "https://radio.arcast.cloud:1280/stream",
                 "categories": [
                     "noticias",
@@ -509,6 +516,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/1079-logo-provincia.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
+                "yt": "https://www.youtube.com/@radioprovinciafm107.9",
                 "stream": "https://radios.solumedia.com:10820/stream",
                 "categories": [
                     "noticias",
@@ -544,6 +552,8 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/917-logo-fiesta.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
+                "yt": "https://www.youtube.com/@RadioFiesta91.7",
+                "yt_2":"https://www.youtube.com/@gatogarcia",
                 "stream": "https://5cd577a3dd8ec.streamlock.net/radiofiesta/live_1/playlist.m3u8",
                 "categories": [
                     "comunidad",
@@ -594,6 +604,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/887-logo-chasqui.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
+                "yt": "https://www.youtube.com/@radiochaskijujuyfm88.79",
                 "stream": "https://stream-178.zeno.FM/0183ntdh8yzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwMTgzbnRkaDh5enV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Il9MTW1tWWtCUWhXVWtGV3B4WERUeVEiLCJpYXQiOjE3NjkyNzYyNzUsImV4cCI6MTc2OTI3NjMzNX0.sLWoopXRD9b1LtkG3o1WnGrhoIEJ2e5k7JaNVKNipBE",
                 "categories": [
                     "folklore",
@@ -607,6 +618,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/1017-logo-jujuy.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
+                "yt": "https://www.youtube.com/@jujuyfm4979",
                 "stream": "https://radios.solumedia.com:6450/stream?icy=http",
                 "categories": [
                     "musica",
