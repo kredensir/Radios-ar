@@ -922,7 +922,7 @@
                 "id": "jujuy-integracion-967",
                 "name": "Integracion FM 96.7",
                 "web": "https://integracion.fmmiradio.com/",
-                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/937-logo-integracion",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/967-logo-integracion",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://srv10.streamingradio.ar/8500/stream",
@@ -1350,6 +1350,18 @@
                 "stream": "https://media.nexxisgroup.com.ar/listen/freemium2/radio",
                 "categories": [
                     "musica"
+                ]
+            },
+            {
+                "id": "jujuy-Energy-933",
+                "name": "Energy FM 93.3",
+                "web": "https://www.energysanpedrojujuy.com.ar/",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/yungas/933-logo-energy.webp",
+                "city": "San Pedro",
+                "province": "Jujuy",
+                "stream": "https://emisoras.alfasocialmedia.com.ar:8168/stream",
+                "categories": [
+                    "comunidad"
                 ]
             },
             {
