@@ -85,7 +85,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/puna/977-logo-nueva-estacion.webp",
                 "city": "La Quiaca",
                 "province": "Jujuy",
-                "stream": "https://srv1.streamingradio.ar/8508/stream/;type=mp3",
+                "stream": "https://srv1.streamingradio.ar:7251/;type=mp3",
                 "categories": [
                     "noticias",
                     "comunidad"
@@ -209,6 +209,7 @@
             {
                 "id": "jujuy-municipal-humahuaca-999",
                 "name": "Municipal FM 99.9",
+                "web":"https://radiomunicipalhumahuaca.net.ar/",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/quebrada/999-logo-municipal-rhm.webp",
                 "city": "Humahuaca",
                 "province": "Jujuy",
@@ -577,6 +578,7 @@
             {
                 "id": "jujuy-urbana-jujuy-901",
                 "name": "Urbana FM 90.1",
+                "web":"https://radiourbanajujuy.com.ar/",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/901-logo-urbana.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
@@ -808,6 +810,7 @@
             {
                 "id": "jujuy-classica-993",
                 "name": "Classica FM 99.3",
+                "web":"https://fmclassica.com.ar/",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/993-logo-classica.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
@@ -1297,10 +1300,11 @@
             {
                 "id": "jujuy-municipal-la-mendieta-885",
                 "name": "FM Municipal 88.5",
+                "web":"https://lamendieta.gob.ar/",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/yungas/885-logo-municipal.webp",
                 "city": "La Mendieta",
                 "province": "Jujuy",
-                "stream": "https://stream-ar.lamendieta.com/listen/FM_municipal/gob",
+                "stream": "https://srv10.streamingradio.ar/8192/stream",
                 "categories": [
                     "noticias",
                     "comunidad"
@@ -1423,10 +1427,11 @@
             {
                 "id": "jujuy-satelite-907",
                 "name": "Satelite FM 90.7",
+                "web":"https://laradiodelaciudad.com.ar/",
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/yungas/907-logo-satelite.webp",
                 "city": "San Pedro",
                 "province": "Jujuy",
-                "stream": "http://lrk428.ddns.net:8000/stream",
+                "stream": "https://laradiodelaciudad.com.ar/escuchar.php",
                 "categories": [
                     "comunidad",
                     "musica"
@@ -1449,7 +1454,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/yungas/1041-logo-show.webp",
                 "city": "San Pedro",
                 "province": "Jujuy",
-                "stream": "https://stream-ar.lamendieta.com:8000/renegon",
+                "stream": "https://srv10.streamingradio.ar/8002/stream",
                 "categories": [
                     "noticias",
                     "comunidad"
