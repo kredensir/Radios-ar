@@ -922,10 +922,10 @@
                 ]
             },
             {
-                "id": "jujuy-integracion-967",
-                "name": "Integracion FM 96.7",
+                "id": "jujuy-integracion-937",
+                "name": "Integracion FM 93.7",
                 "web": "https://integracion.fmmiradio.com/",
-                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/967-logo-integracion",
+                "image": "https://cdn.jsdelivr.net/gh/boriscr/Radios-ar/jujuy/valles/937-logo-integracion.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://srv10.streamingradio.ar/8500/stream",
