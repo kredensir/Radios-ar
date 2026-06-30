@@ -12,6 +12,12 @@
                 "categories": [
                     "noticias",
                     "comunidad"
+                ],
+                "links": [
+                    {
+                        "type": "facebook",
+                        "url": "https://www.facebook.com/100065100036581"
+                    }
                 ]
             },
             {
@@ -30,6 +36,10 @@
                     {
                         "type": "official_web",
                         "url": "america907.com.ar"
+                    },
+                    {
+                        "type": "facebook",
+                        "url": "https://www.facebook.com/america907abrapampa"
                     },
                     {
                         "type": "youtube",
@@ -366,6 +376,12 @@
                 "categories": [
                     "noticias",
                     "comunidad"
+                ],
+                "links": [
+                    {
+                        "type": "tiktok",
+                        "url": "https://www.tiktok.com/@radio.energy101.1"
+                    }
                 ]
             },
             {
