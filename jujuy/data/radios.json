@@ -1716,5 +1716,21 @@
                 ]
             }
         ]
+    },
+    {
+        "zone": "Nacionales",
+        "items": [
+            {
+                "id": "jujuy-d-sports-fm-1031",
+                "name": "D Sports FM 103.1",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/caba/caba/1031-logo-d-sports.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://14003.live.streamtheworld.com/DSPORTSRADIOAAC.aac",
+                "categories": [
+                    "deportes"
+                ]
+            }
+        ]
     }
 ]
