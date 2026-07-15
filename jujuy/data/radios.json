@@ -1730,6 +1730,114 @@
                 "categories": [
                     "deportes"
                 ]
+            },
+            {
+                "id": "jujuy-la-100-999",
+                "name": "La 100 FM 99.9",
+                "type": "tv",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/caba/caba/999-logo-la-100.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://la100.cienradios.com/"
+                    },
+                    {
+                        "type": "youtube",
+                        "url": "https://www.youtube.com/@La100"
+                    }
+                ]
+            },
+            {
+                "id": "jujuy-xtrematv-telemix",
+                "name": "Telemix",
+                "type": "tv",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/nacional/xtream.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "jujuy-xtrematv-mass-musica",
+                "name": "Máss Música",
+                "type": "tv",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/nacional/xtream.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://vtm1.msinteractiva.com/massmusica/massmusica/playlist.m3u8",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "jujuy-xtrematv-chamame-tv",
+                "name": "Chamame Tv",
+                "type": "tv",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/nacional/xtream.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://vtm1.msinteractiva.com/chamametv/chamametv/playlist.m3u8",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "jujuy-xtrematv-ritmo-universal",
+                "name": "Ritmo Universal",
+                "type": "tv",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/nacional/xtream.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://vtm1.msinteractiva.com/ritmouniversal/ritmouniversal/playlist.m3u8",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "jujuy-xtrematv-tropi-tv",
+                "name": "Tropi Tv",
+                "type": "tv",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/nacional/xtream.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://stmv3.voxtvhd.com.br/tropixtrema/tropixtrema/playlist.m3u8",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "jujuy-xtrematv-winner-tv",
+                "name": "Winner Tv",
+                "type": "tv",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/nacional/xtream.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://stmv7.voxtvhd.com.br/winnertv/winnertv/playlist.m3u8",
+                "categories": [
+                    "musica",
+                    "tropical"
+                ]
+            },
+            {
+                "id": "jujuy-xtrematv-lamil35-tv",
+                "name": "Lamil35 Tv",
+                "type": "tv",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/nacional/xtream.webp",
+                "city": "CABA",
+                "province": "Buenos Aires",
+                "stream": "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8",
+                "categories": [
+                    "comunidad"
+                ]
             }
         ]
     }

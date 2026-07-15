@@ -11,6 +11,16 @@
                 "stream": "https://27223.live.streamtheworld.com/FM999_56AAC.aac",
                 "categories": [
                     "musica"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://la100.cienradios.com/"
+                    },
+                    {
+                        "type": "youtube",
+                        "url": "https://www.youtube.com/@La100"
+                    }
                 ]
             },
             {
