@@ -16,6 +16,7 @@
                 "links": [
                     {
                         "type": "facebook",
+                        "name": "Multimedios 2",
                         "url": "https://www.facebook.com/100065100036581"
                     }
                 ]
@@ -39,11 +40,23 @@
                     },
                     {
                         "type": "facebook",
+                        "name": "America FM 90.7",
                         "url": "https://www.facebook.com/america907abrapampa"
                     },
                     {
+                        "type": "facebook_2",
+                        "name": "Diario Abra Pampa",
+                        "url": "https://www.facebook.com/diarioabrapampa"
+                    },
+                    {
                         "type": "youtube",
+                        "name": "Radio America 90.7",
                         "url": "https://www.youtube.com/@RadioAmerica90.7"
+                    },
+                    {
+                        "type": "youtube",
+                        "name": "Diario Abra Pampa",
+                        "url": "https://www.youtube.com/@diarioabrapampa"
                     }
                 ]
             },
@@ -65,6 +78,7 @@
                     },
                     {
                         "type": "youtube",
+                        "name": "RADIO ARIAS",
                         "url": "https://www.youtube.com/@RADIOARIAS"
                     }
                 ]
@@ -82,6 +96,7 @@
                 "links": [
                     {
                         "type": "facebook",
+                        "name": "Weekend FM 92.3",
                         "url": "https://www.facebook.com/weekend.fmabra.pampa"
                     }
                 ]
@@ -105,10 +120,12 @@
                     },
                     {
                         "type": "facebook",
+                        "name":"La Quiaca Cooperativa",
                         "url": "https://www.facebook.com/laquiacacooperativa"
                     },
                     {
                         "type": "youtube",
+                        "name": "Video Vision La Quiaca",
                         "url": "https://www.youtube.com/@videovisionlaquiacasa9192"
                     }
                 ]
@@ -127,10 +144,12 @@
                 "links": [
                     {
                         "type": "facebook",
+                        "name":"FM Klaxxon La Quiaca",
                         "url": "https://www.facebook.com/FMKlaxxonLaQuiaca"
                     },
                     {
                         "type": "youtube",
+                        "name": "KLAXXON FM LA QUIACA",
                         "url": "https://www.youtube.com/@KLAXXONFMLAQUIACA"
                     }
                 ]
@@ -162,6 +181,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "Nacional La Quiaca",
                         "url": "https://www.youtube.com/@nacionallaquiacaLQ"
                     }
                 ]
@@ -180,6 +200,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "Municipalidad La Quiaca",
                         "url": "https://www.youtube.com/@MunicipalidadLaQuiaca"
                     }
                 ]
@@ -278,6 +299,7 @@
                     },
                     {
                         "type": "facebook",
+                        "name": "Radio Humahuaca 104.7",
                         "url": "https://www.facebook.com/Radio-Humahuaca-1047-100046925089615/"
                     }
                 ]
@@ -300,6 +322,7 @@
                     },
                     {
                         "type": "youtube",
+                        "name": "Radio Municipal Humahuaca",
                         "url": "https://www.youtube.com/@radiomunicipalhumahuaca"
                     }
                 ]
@@ -429,6 +452,7 @@
                 "links": [
                     {
                         "type": "tiktok",
+                        "name": "Radio Energy 101.1",
                         "url": "https://www.tiktok.com/@radio.energy101.1"
                     }
                 ]
@@ -472,6 +496,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "Canal 7 de Jujuy",
                         "url": "https://www.youtube.com/@Canal7deJujuy"
                     }
                 ]
@@ -495,6 +520,7 @@
                     },
                     {
                         "type": "youtube",
+                        "name": "Canal 4 Jujuy",
                         "url": "https://www.youtube.com/@Canal4JujuyArg"
                     }
                 ]
@@ -545,6 +571,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "Radio City 107.1",
                         "url": "https://www.youtube.com/@RadioCity107.1"
                     }
                 ]
@@ -563,6 +590,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "AM 630 Jujuy",
                         "url": "https://www.youtube.com/@am630jujuy"
                     }
                 ]
@@ -581,6 +609,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "Radio Rivadavia AM 630",
                         "url": "https://www.youtube.com/@RadioRivadaviaAM630"
                     }
                 ]
@@ -610,6 +639,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "Radio 10 AM",
                         "url": "https://www.youtube.com/@Radio10am"
                     }
                 ]
@@ -629,6 +659,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "Delfin Benicio",
                         "url": "https://www.youtube.com/@delfinbenicio"
                     }
                 ]
@@ -659,6 +690,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "Radio Provincia FM 107.9",
                         "url": "https://www.youtube.com/@radioprovinciafm107.9"
                     }
                 ]
@@ -705,10 +737,12 @@
                     },
                     {
                         "type": "youtube",
+                        "name": "Gato Garcia",
                         "url": "https://www.youtube.com/@gatogarcia"
                     },
                     {
                         "type": "youtube_2",
+                        "name": "Radio Fiesta 91.7",
                         "url": "https://www.youtube.com/@RadioFiesta91.7"
                     }
                 ]
@@ -753,6 +787,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "La Unju Noticias",
                         "url": "https://www.youtube.com/@launoticias"
                     }
                 ]
@@ -772,6 +807,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "Radio Chasqui Jujuy FM 88.7",
                         "url": "https://www.youtube.com/@radiochaskijujuyfm88.79"
                     }
                 ]
@@ -790,6 +826,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "Jujuy FM 101.7",
                         "url": "https://www.youtube.com/@jujuyfm4979"
                     }
                 ]
@@ -819,6 +856,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "Radio Mitre",
                         "url": "https://www.youtube.com/@Radiomitre"
                     }
                 ]
@@ -1287,10 +1325,12 @@
                     },
                     {
                         "type": "facebook",
+                        "name": "FM Region Jujuy",
                         "url": "https://www.facebook.com/fmregionjujuy/"
                     },
                     {
                         "type": "youtube",
+                        "name": "FM Region Jujuy",
                         "url": "https://www.youtube.com/@fmregionjujuy1171"
                     }
                 ]
@@ -1309,6 +1349,7 @@
                 "links": [
                     {
                         "type": "youtube",
+                        "name": "Cadena 3",
                         "url": "https://www.youtube.com/@cadena3"
                     }
                 ]
@@ -1331,10 +1372,12 @@
                     },
                     {
                         "type": "facebook",
+                        "name": "Radio Muni Jujuy",
                         "url": "https://www.facebook.com/radiomunijujuy/"
                     },
                     {
                         "type": "youtube",
+                        "name": "Radio Muni Jujuy",
                         "url": "https://www.youtube.com/@radiomunijujuy88.5"
                     }
                 ]
@@ -1357,10 +1400,12 @@
                     },
                     {
                         "type": "facebook",
+                        "name": "Radio Trentina",
                         "url": "facebook.com/radiotrentina"
                     },
                     {
                         "type": "youtube",
+                        "name": "Radio Trentina",
                         "url": "https://www.youtube.com/@RadioTrentina"
                     }
                 ]
@@ -1739,6 +1784,7 @@
                     },
                     {
                         "type": "youtube",
+                        "name": "La 100",
                         "url": "https://www.youtube.com/@La100"
                     }
                 ]
