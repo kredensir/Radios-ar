@@ -1721,17 +1721,6 @@
         "zone": "Nacionales",
         "items": [
             {
-                "id": "jujuy-d-sports-fm-1031",
-                "name": "D Sports FM 103.1",
-                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/caba/caba/1031-logo-d-sports.webp",
-                "city": "CABA",
-                "province": "Buenos Aires",
-                "stream": "https://14003.live.streamtheworld.com/DSPORTSRADIOAAC.aac",
-                "categories": [
-                    "deportes"
-                ]
-            },
-            {
                 "id": "jujuy-la-100-999",
                 "name": "La 100 FM 99.9",
                 "type": "tv",
@@ -1756,19 +1745,25 @@
             },
             {
                 "id": "jujuy-xtrematv-telemix",
-                "name": "Telemix",
+                "name": "Telemix Tv",
                 "type": "tv",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/nacional/xtream.webp",
                 "city": "CABA",
                 "province": "Buenos Aires",
-                "stream": "https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8",
+                "stream": "https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8",
                 "categories": [
                     "musica"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://xtrematv.com"
+                    }
                 ]
             },
             {
                 "id": "jujuy-xtrematv-mass-musica",
-                "name": "Máss Música",
+                "name": "Máss Música Tv",
                 "type": "tv",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/nacional/xtream.webp",
                 "city": "CABA",
@@ -1776,6 +1771,12 @@
                 "stream": "https://vtm1.msinteractiva.com/massmusica/massmusica/playlist.m3u8",
                 "categories": [
                     "musica"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://xtrematv.com"
+                    }
                 ]
             },
             {
@@ -1788,11 +1789,17 @@
                 "stream": "https://vtm1.msinteractiva.com/chamametv/chamametv/playlist.m3u8",
                 "categories": [
                     "musica"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://xtrematv.com"
+                    }
                 ]
             },
             {
                 "id": "jujuy-xtrematv-ritmo-universal",
-                "name": "Ritmo Universal",
+                "name": "Ritmo Universal Tv",
                 "type": "tv",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/nacional/xtream.webp",
                 "city": "CABA",
@@ -1800,6 +1807,12 @@
                 "stream": "https://vtm1.msinteractiva.com/ritmouniversal/ritmouniversal/playlist.m3u8",
                 "categories": [
                     "musica"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://xtrematv.com"
+                    }
                 ]
             },
             {
@@ -1812,6 +1825,12 @@
                 "stream": "https://stmv3.voxtvhd.com.br/tropixtrema/tropixtrema/playlist.m3u8",
                 "categories": [
                     "musica"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://xtrematv.com"
+                    }
                 ]
             },
             {
@@ -1825,6 +1844,12 @@
                 "categories": [
                     "musica",
                     "tropical"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://xtrematv.com"
+                    }
                 ]
             },
             {
@@ -1837,6 +1862,12 @@
                 "stream": "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8",
                 "categories": [
                     "comunidad"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://xtrematv.com"
+                    }
                 ]
             }
         ]
