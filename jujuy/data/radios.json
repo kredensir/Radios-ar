@@ -736,6 +736,11 @@
                         "url": "https://www.radiofiestafm.com.ar/"
                     },
                     {
+                        "type": "facebook",
+                        "name": "Radio Fiesta Ok",
+                        "url": "https://www.facebook.com/61560860615396"
+                    },
+                    {
                         "type": "youtube",
                         "name": "Gato Garcia",
                         "url": "https://www.youtube.com/@gatogarcia"
