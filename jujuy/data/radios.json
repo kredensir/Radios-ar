@@ -498,6 +498,11 @@
                         "type": "youtube",
                         "name": "Canal 7 de Jujuy",
                         "url": "https://www.youtube.com/@Canal7deJujuy"
+                    },
+                    {
+                        "type": "youtube_2",
+                        "name": "Canal 7 Jujuy",
+                        "url": "https://www.youtube.com/canal7jujuy"
                     }
                 ]
             },
@@ -961,6 +966,22 @@
                 "stream": "https://radio.arcast.cloud:1300/stream",
                 "categories": [
                     "musica"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "tropico977.com.ar"
+                    },
+                    {
+                        "type": "facebook",
+                        "name": "Tropico 97.7",
+                        "url": "facebook.com/tropico977"
+                    },
+                    {
+                        "type": "youtube",
+                        "name": "Tropico 97.7",
+                        "url": "https://www.youtube.com/@tropico977"
+                    }
                 ]
             },
             {
