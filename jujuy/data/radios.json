@@ -270,6 +270,29 @@
                 ]
             },
             {
+                "id": "jujuy-Omaguaca-Warmikuna-online",
+                "name": "Omaguaca Warmikuna Online",
+                "image": "https://yt3.googleusercontent.com/A21CIl744T1Dwt3rNPPCihHi_M0F-MtEeYN5Yq9UQ4rFN-PjnMzNIt0QI9DFvPa_7UY1_rJywg=s900-c-k-c0x00ffffff-no-rj",
+                "city": "Humahuaca",
+                "province": "Jujuy",
+                "stream": "https://stream.zeno.fm/tax02cxhzk8uv",
+                "categories": [
+                    "comunidad"
+                ],
+                "links": [
+                    {
+                        "type": "facebook",
+                        "name": "Omaguaca Warmikuna",
+                        "url": "https://www.facebook.com/omaguaca.warmikuna"
+                    },
+                    {
+                        "type": "youtube",
+                        "name": "Omaguaca Warmikuna",
+                        "url": "https://www.youtube.com/@omaguacawarmikuna8851"
+                    }
+                ]
+            },
+            {
                 "id": "jujuy-voz-cristiana-983",
                 "name": "Voz Cristiana FM 98.3",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/quebrada/983-logo-voz-cristiana.webp",
@@ -414,6 +437,18 @@
     {
         "zone": "Valles",
         "items": [
+            {
+                "id": "jujuy-America-online",
+                "name": "Radio América Online",
+                "image": "https://zeno.fm/_ipx/_/https://images.zeno.fm/G9X2VZwKB-EmJObAyjAZcoca2v8BAA18YpERX9yNCmg/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMGU0YjJmNmEtOTgwYi00MGE3LWEzY2ItZDI1OWM2ZDk3YWViL2ltYWdlLz91PTE3NzQ4ODY1MjgwMDA.webp",
+                "city": "Aguas Calientes",
+                "province": "Jujuy",
+                "stream": "https://stream-179.surfernetwork.com/39byf2zec78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzOWJ5ZjJ6ZWM3OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ii04OWlrWG0tU3N1dThKbXZtRWpFbXciLCJpYXQiOjE3ODQ4Mzk1MjQsImV4cCI6MTc4NDgzOTU4NH0.5yqEiQqA8KEXuTeQQy1wuUSH0eYjFXxVMEVR_9eOnTI",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
             {
                 "id": "jujuy-centenario-933",
                 "name": "Centenario FM 93.3",
@@ -629,6 +664,24 @@
                 "categories": [
                     "noticias",
                     "deportes"
+                ]
+            },
+            {
+                "id": "jujuy-La-Patriada-955",
+                "name": "La Patriada FM 95.5",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/955-logo-La-Patriada.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://stream.zeno.fm/dxx93k2ty1zuv?",
+                "categories": [
+                    "comunidad"
+                ],
+                "links": [
+                    {
+                        "type": "facebook",
+                        "name": "FM Klaxxon La Quiaca",
+                        "url": "https://www.facebook.com/mdvlapatriadajujuy/"
+                    }
                 ]
             },
             {
@@ -1142,6 +1195,56 @@
                 ]
             },
             {
+                "id": "jujuy-BCR-Jujuy-online",
+                "name": "BCR Jujuy Online",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbkxxRs1axQ4cy8k_LCVXnAAAbV0fLA2q6TK3pJsEUhScHM_iRTGOwi0&s=10",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://stream.zeno.fm/wabk3apy868uv",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "jujuy-Radio-Chat-online",
+                "name": "Radio Chat Online",
+                "image": "https://zeno.fm/_ipx/_/https://images.zeno.fm/wzTjZhAoMW9KqmXUd2lqss6rLg9WAdPEhdh6UsPWUfU/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3dvcEtaaVFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dvcUdQd0FzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTEyODcyODAwMA.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://stream-177.surfernetwork.com/0szphymh7s8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwc3pwaHltaDdzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ijczem1JQU1tUk5LQ1MtOF9IbUx3eEEiLCJpYXQiOjE3ODQ4MzkxNTksImV4cCI6MTc4NDgzOTIxOX0.xhWMIYD2_KUcxT1LyITqfHaLUdvbA_QM4c1J-v9kJ-8",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "jujuy-Radio-La-Voz-online",
+                "name": "Radio La Voz Online",
+                "image": "https://radiolavoz.org/wp-content/uploads/2025/06/La-Voz-Logo.jpg",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://stream.zeno.fm/6tgbfsdmp2zuv",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://radiolavoz.org/"
+                    },
+                    {
+                        "type": "facebook",
+                        "name": "Fundación Alas de Aguila",
+                        "url": "https://www.facebook.com/fundacionalasdeaguila/"
+                    },
+                    {
+                        "type": "youtube",
+                        "name": "Fundación Alas de Aguila",
+                        "url": "https://www.youtube.com/c/Fundaci%C3%B3nAlasdeAguila"
+                    }
+                ]
+            },
+            {
                 "id": "jujuy-onda-latina-1010",
                 "name": "Onda Latina AM 1010",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/1010-logo-onda-latina.webp",
@@ -1479,6 +1582,24 @@
                 ]
             },
             {
+                "id": "jujuy-FM-Exodo-104.1",
+                "name": "FM Éxodo 104.1",
+                "image": "https://exodonoticias.com.ar/images/foto/68ff4c3e357d8.webp",
+                "city": "Perico",
+                "province": "Jujuy",
+                "stream": "https://stream.zeno.fm/cw1gzkrsty8uv",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://www.exodonoticias.com.ar/"
+                    }
+                ]
+            },
+            {
                 "id": "jujuy-FM-pais-995",
                 "name": "FM Pais 99.5",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/995-logo-pais.webp",
@@ -1622,6 +1743,17 @@
                 ]
             },
             {
+                "id": "jujuy-Ritmo-Jujuy-Radio-88.5",
+                "name": "Ritmo Jujuy Radio FM 88.5",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCX9rctLtaBtDDFHkh5C4dVad-a3OiRP-KAZPzLT2uFGJrUc43Zd0NzPbC&s=10",
+                "city": "La Mendieta",
+                "province": "Jujuy",
+                "stream": "https://stream.zeno.fm/radhzfzuhkhvv",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "jujuy-del-valle-991",
                 "name": "Del Valle FM 99.1",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/yungas/991-logo-del-valle.webp",
@@ -1657,6 +1789,17 @@
                 ]
             },
             {
+                "id": "jujuy-FM-Evolution-97.1",
+                "name": "FM Evolution 97.1",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu6vqpFdTdFMnpi0Y81inAtDzxM-YZKYuZsQUU7WN4LQ&s=10",
+                "city": "San Pedro",
+                "province": "Jujuy",
+                "stream": "https://stream-177.surfernetwork.com/e6vkxu9dpxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlNnZreHU5ZHB4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkE0WkpvMXV0UVNDZzB1d0hYd0FwWmciLCJpYXQiOjE3ODQ4NDEzODQsImV4cCI6MTc4NDg0MTQ0NH0.So0cxDQPwE-l7YWJBmUpdEQWOnrYzkWrRhInUSTYINA",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
                 "id": "jujuy-disco-online",
                 "name": "Disco Online",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/yungas/online-logo-disco.webp",
@@ -1677,6 +1820,17 @@
                 "stream": "https://emisoras.alfasocialmedia.com.ar:8168/stream",
                 "categories": [
                     "comunidad"
+                ]
+            },
+            {
+                "id": "jujuy-La-Farola-Online",
+                "name": "La Farola Online",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsMK_WMNuuqV99zMScXkT3NFc0kM4Q57kyNMD4y_kD4EZcuA72IKDm0kna&s=10",
+                "city": "San Pedro",
+                "province": "Jujuy",
+                "stream": "https://stream.zeno.fm/eqsweykcvp8uv",
+                "categories": [
+                    "musica"
                 ]
             },
             {
@@ -1783,6 +1937,17 @@
                 ]
             },
             {
+                "id": "jujuy-FM-Virgen-Del-Valle-93.9",
+                "name": "FM Virgen Del Valle 93.9",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDcImN2msfcMtHn7LzogewmRsC7KcO0mIO6BB5kIDMVw&s=10",
+                "city": "Yuto",
+                "province": "Jujuy",
+                "stream": "https://stream.zeno.fm/cjuzm3ox8ftvv",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
                 "id": "jujuy-manaos-103.1",
                 "name": "Manaos FM 103.1",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/yungas/1031-logo-manaos.webp",
@@ -1791,6 +1956,25 @@
                 "stream": "https://stream-162.zeno.FM/7ekby9wm0c9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ZWtieTl3bTBjOXV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkJiaUlwMVl1VDV1aTdOUHl0aklnM2ciLCJpYXQiOjE3NzAzMTUxOTMsImV4cCI6MTc3MDMxNTI1M30.fEy3rWPDyuNhPUHXsBiWj7KiVaE43S77fpPNKdPchQE",
                 "categories": [
                     "comunidad"
+                ]
+            },
+            {
+                "id": "jujuy-Millenium-95.5",
+                "name": "Millenium FM 95.5",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/yungas/955-logo-millenium.webp",
+                "city": "Yuto",
+                "province": "Jujuy",
+                "stream": "https://stream.zeno.fm/6rmmkwxhhvvuv",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ],
+                "links": [
+                    {
+                        "type": "facebook",
+                        "name": "Millenium Yuto",
+                        "url": "https://www.facebook.com/milleniumyuto"
+                    }
                 ]
             },
             {
