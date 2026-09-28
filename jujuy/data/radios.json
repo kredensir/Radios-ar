@@ -69,7 +69,8 @@
                 "stream": "https://cdn.instream.audio/:9095/stream",
                 "categories": [
                     "tropical",
-                    "comunidad"
+                    "comunidad",
+                    "noticias"
                 ],
                 "links": [
                     {
@@ -121,7 +122,8 @@
                 "province": "Jujuy",
                 "stream": "https://streaming6.locucionar.com:24146/stream",
                 "categories": [
-                    "comunidad"
+                    "comunidad",
+                    "noticias"
                 ],
                 "links": [
                     {
@@ -243,7 +245,8 @@
                 "province": "Jujuy",
                 "stream": "https://sonic.host-live.com:10787/stream",
                 "categories": [
-                    "tropical"
+                    "tropical",
+                    "comunidad"
                 ]
             },
             {
@@ -425,7 +428,8 @@
                 "stream": "https://streaming2.locucionar.com/proxy/radiolacimamaimara?mp=/stream",
                 "categories": [
                     "comunidad",
-                    "folklore"
+                    "folklore",
+                    "noticias"
                 ]
             },
             {
@@ -437,7 +441,8 @@
                 "stream": "https://streaming3.locucionar.com/proxy/radioviltipoco?mp=/stream",
                 "categories": [
                     "folklore",
-                    "comunidad"
+                    "comunidad",
+                    "noticias"
                 ]
             },
             {
@@ -483,7 +488,8 @@
                 "province": "Jujuy",
                 "stream": "https://stream.djroquesalazar.com.ar/8900/stream",
                 "categories": [
-                    "folklore"
+                    "folklore",
+                    "musica"
                 ]
             }
         ]
@@ -880,6 +886,7 @@
                 "province": "Jujuy",
                 "stream": "https://streaming01.shockmedia.com.ar/8996/stream",
                 "categories": [
+                    "comunidad",
                     "musica",
                     "noticias"
                 ]
@@ -892,7 +899,8 @@
                 "province": "Jujuy",
                 "stream": "https://server4.hostradios.com/8394/stream",
                 "categories": [
-                    "musica"
+                    "musica",
+                    "religion"
                 ]
             },
             {
@@ -968,6 +976,7 @@
                 "province": "Jujuy",
                 "stream": "https://radios.solumedia.com:6450/stream?icy=http",
                 "categories": [
+                    "comunidad",
                     "musica",
                     "noticias"
                 ],
@@ -987,6 +996,7 @@
                 "province": "Jujuy",
                 "stream": "https://streaming2.locucionar.com/proxy/radiomixjujuy?mp=/stream",
                 "categories": [
+                    "tropical",
                     "musica"
                 ]
             },
@@ -1039,6 +1049,7 @@
                 "province": "Jujuy",
                 "stream": "https://streaming01.shockmedia.com.ar/8540/stream",
                 "categories": [
+                    "comunidad",
                     "musica"
                 ]
             },
@@ -1050,7 +1061,9 @@
                 "province": "Jujuy",
                 "stream": "https://streaming6.locucionar.com:24294/stream",
                 "categories": [
-                    "musica"
+                    "comunidad",
+                    "musica",
+                    "noticias"
                 ]
             },
             {
@@ -1473,7 +1486,9 @@
                 "province": "Jujuy",
                 "stream": "https://01.solumedia.com.ar:7133/stream?icy=http",
                 "categories": [
-                    "musica"
+                    "comunidad",
+                    "musica",
+                    "noticias"
                 ]
             },
             {
@@ -1528,7 +1543,8 @@
                 "province": "Jujuy",
                 "stream": "https://srv7.streamingradio.ar/8330/stream",
                 "categories": [
-                    "comunidad"
+                    "comunidad",
+                    "noticias"
                 ]
             },
             {
@@ -1599,7 +1615,7 @@
                 "province": "Jujuy",
                 "stream": "http://streaming.radiosenlinea.com.ar:8626/",
                 "categories": [
-                    "noticias",
+                    "musica",
                     "comunidad"
                 ]
             },
@@ -1652,7 +1668,8 @@
                 "province": "Jujuy",
                 "stream": "https://stm8.xcast.com.br:8642/stream",
                 "categories": [
-                    "comunidad"
+                    "comunidad",
+                    "noticias"
                 ],
                 "links": [
                     {
@@ -1720,7 +1737,8 @@
                 "province": "Jujuy",
                 "stream": "https://az03.streaminghd.net.ar/8164/stream",
                 "categories": [
-                    "musica"
+                    "musica",
+                    "comunidad"
                 ]
             },
             {
@@ -1765,7 +1783,9 @@
                 "province": "Jujuy",
                 "stream": "https://radios.solumedia.com:6038/stream?icy=http",
                 "categories": [
-                    "musica"
+                    "comunidad",
+                    "musica",
+                    "noticias"
                 ]
             },
             {
@@ -1863,6 +1883,7 @@
                 "province": "Jujuy",
                 "stream": "https://stream.zeno.fm/radhzfzuhkhvv",
                 "categories": [
+                    "musica",
                     "comunidad"
                 ]
             },
@@ -1989,6 +2010,7 @@
                 "province": "Jujuy",
                 "stream": "https://server.streamcasthd.com/8154/stream",
                 "categories": [
+                    "noticias",
                     "musica"
                 ]
             },
