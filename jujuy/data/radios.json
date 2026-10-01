@@ -66,7 +66,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/puna/911-logo-arias.webp",
                 "city": "Abra Pampa",
                 "province": "Jujuy",
-                "stream": "https://cdn.instream.audio/:9095/stream",
+                "stream": "https://live-ar1.cdnrad.com/hls/radio-2090/live.m3u8",
                 "categories": [
                     "tropical",
                     "comunidad",
