@@ -522,6 +522,18 @@
                 ]
             },
             {
+                "id": "jujuy-pacifico-907",
+                "name": "Pacifico FM 90.7",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/907-logo-pacifico.webp",
+                "city": "El Carmen",
+                "province": "Jujuy",
+                "stream": "https://streaming01.radiosenlinea.com.ar/8992/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
                 "id": "jujuy-show-951",
                 "name": "Show FM 95.1",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/951-logo-show.webp",
@@ -732,7 +744,7 @@
             {
                 "id": "jujuy-cielo-979",
                 "name": "Fm Cielo 97.9",
-                "image": "https://play-lh.googleusercontent.com/lUf4dOLsWJI0PeJdbX-ufrt1B2owivJtRfL5CxQuaZw3EY5rtGzRSvtSk5zRdd3h-a8WmANx3JUjaSlRlir2UMI",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/979-logo-cielo.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "http://streaming.radiosenlinea.com.ar:8562/",
@@ -1610,7 +1622,7 @@
             {
                 "id": "jujuy-retro-893",
                 "name": "Retro FM 89.3",
-                "image": "https://play-lh.googleusercontent.com/vVh1cU3_RWEI2nq35G09RusfPzdbXLP0DIdwpjCeJbjBMYbdT_lBbCGzBY2LLWZS3ynR4bqyASzl19JKf72rWw",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/893-logo-retro.webp",
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "http://streaming.radiosenlinea.com.ar:8626/",
@@ -1971,7 +1983,7 @@
             {
                 "id": "jujuy-La-Farola-Online",
                 "name": "La Farola Online",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsMK_WMNuuqV99zMScXkT3NFc0kM4Q57kyNMD4y_kD4EZcuA72IKDm0kna&s=10",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/yungas/online-logo-la-farola.webp",
                 "city": "San Pedro",
                 "province": "Jujuy",
                 "stream": "https://stream.zeno.fm/eqsweykcvp8uv",
