@@ -1975,7 +1975,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/yungas/933-logo-energy.webp",
                 "city": "San Pedro",
                 "province": "Jujuy",
-                "stream": "https://emisoras.alfasocialmedia.com.ar:8168/stream",
+                "stream": "https://emisoras.alfasocialmedia.com.ar/8168/stream?",
                 "categories": [
                     "comunidad"
                 ]
