@@ -134,6 +134,19 @@
                 ]
             },
             {
+                "id": "jujuy-Galaxia-FM-945",
+                "name": "Galaxia FM 94.5",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/puna/945-logo-galaxia.webp",
+                "city": "El Aguilar",
+                "province": "Jujuy",
+                "stream": "https://a.tunzilla.com/http://uk14freenew.listen2myradio.com:10405/;",
+                "categories": [
+                    "comunidad",
+                    "noticias",
+                    "musica"
+                ]
+            },
+            {
                 "id": "jujuy-canal-6",
                 "name": "Canal 6",
                 "type": "tv",
