@@ -24,6 +24,294 @@
         "zone": "Valle de Lerma",
         "items": [
             {
+                "id": "salta-la-estacion-fm-1079",
+                "name": "La Estacion FM 107.9",
+                "web": "https://laestacionfm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/461/la-estacion-fm.08831f14.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://01.solumedia.com.ar:8462/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "salta-la-100-salta-fm-999",
+                "name": "La 100 Salta FM 99.9",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/147/la-100-salta.2b38b50a.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://frontend.radiohdvivo.com/laciensalta/live",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "salta-con-vos-salta-fm-897",
+                "name": "Con Vos Salta FM 89.7",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/544/radio-con-vos-salta.e6c25c21.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://frontend.radiohdvivo.com/convossalta/live",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "salta-d-sports-salta-fm-981",
+                "name": "D Sports Salta FM 98.1",
+                "web": "https://dsportsradiosalta.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/544/radio-con-vos-salta.e6c25c21.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://frontend.radiohdvivo.com/laciensalta/live",
+                "categories": [
+                    "deportes",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "salta-salta-ya-fm-927",
+                "name": "Salta YA FM 92.7",
+                "web": "https://www.saltaya.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/800/salta-ya-radio-927-fm.58b48be3.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "http://streaming.radiosenlinea.com.ar:8134/;",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "salta-pop-fm-salta-1069",
+                "name": "POP FM Salta 106.9",
+                "web": "https://radiopopsalta.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/542/pop-fm-salta.32e0d0f9.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://frontend.radiohdvivo.com/popsalta/live",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-fm-capital-977",
+                "name": "FM Capital 97.7",
+                "web": "https://www.fmcapitalsalta.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/428/fm-capital-977-fm.3e399118.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://streaming01.shockmedia.com.ar/8660/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "salta-un-siglo-de-musica-online",
+                "name": "Un Siglo de Musica Online",
+                "web": "https://unsiglodemusica.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/930/un-siglo-de-musica.13b0758a.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://server6.hostradios.com/8122/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-sensaciones-salta-online",
+                "name": "Sensaciones Salta Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/925/radio-sensaciones-salta.401edd55.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://streaming01.shockmedia.com.ar/8732/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-fm-la-plaza-949",
+                "name": "FM La Plaza 94.9",
+                "web": "https://fmlaplaza.com/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/486/fm-la-plaza-949.497b1ed0.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://streaming01.shockmedia.com.ar:10481/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-mujer-fm-947",
+                "name": "Mujer FM 94.7",
+                "web": "https://www.mujerfm.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/893/radio-de-la-mujer.5e086ff2.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://radio01.ferozo.com/proxy/ra01001141?mp=/stream",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "salta-gira-magica-retro-beat-online",
+                "name": "Gira Magica Retro Beat Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/028/gira-magica-retro-beat.3c15d740.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "http://51.79.51.128:15008/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-bbn-radio-am-730",
+                "name": "BBN Radio AM 730",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/495/bbn-radio.7a57cf0a.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://audio-edge-kef8b.ams.s.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "salta-gamma-911-fm",
+                "name": "Gamma 91.1 FM",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/975/gamma-911-fm.848f0ad0.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://streaming01.shockmedia.com.ar/8880/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-aire-uno-fm-945",
+                "name": "Aire Uno FM 94.5",
+                "web": "https://diariopuntouno.ar/aireuno/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/835/aire-uno-fm-945.5e22c367.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://ohradio.cc:8096/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "salta-sonica-online",
+                "name": "Sonica Online",
+                "web": "https://www.sonicaradio.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/950/sonica-radio.175c9f18.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://streaming5.locucionar.com/proxy/sonicaradio?mp=/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-clubber-fm-977",
+                "name": "Clubber FM 97.7",
+                "web": "https://clubberfm.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/352/clubber-fm.30e6872c.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://ohradio.cc/9960/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-fm-galileo-907",
+                "name": "FM Galileo 90.7",
+                "web": "https://radiogalileo.com.ar/news/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/545/fm-radio-galileo-24hs.8b2ce57b.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://server.laradio.online/proxy/edgardo_tineo?mp=/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-33-45-radio-online",
+                "name": "33 45 Radio Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/320/33-45-radio.e71a4869.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "http://51.79.51.128:10026/;",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-radio-uno-991-fm",
+                "name": "Radio Uno 99.1 FM",
+                "web": "https://www.radiounohits.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/091/radio-uno-991-fm.2bf815d2.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://radios.solumedia.com:6380/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-fm-la-cigarra-887",
+                "name": "FM La Cigarra 88.7",
+                "web": "https://fmlacigarra.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/627/fm-la-cigarra-967.0643fb01.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://ohradio.cc:8090/stream",
+                "categories": [
+                    "comunidad",
+                    "noticias"
+                ]
+            },
+            {
+                "id": "salta-ideasfv-online",
+                "name": "IdeasFV Online",
+                "web": "https://www.ideasfv.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/918/ideasfv.d3b4a8d0.png",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://stream.zeno.fm/rfqa9eec5nhvv",
+                "categories": [
+                    "religion"
+                ]
+            },
+            {
+                "id": "salta-usinaplay-fm-921",
+                "name": "Usina Play FM 92.1",
+                "web": "https://usinaplay.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/776/usina-play-875.33a5c75d.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://radio16.servidorderadio.net:8356/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-usinaplay-fm-921",
+                "name": "Usina Play FM 92.1",
+                "web": "https://usinaplay.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/776/usina-play-875.33a5c75d.jpg",
+                "city": "Ciudad de Salta",
+                "province": "Salta",
+                "stream": "https://radio16.servidorderadio.net:8356/stream",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
                 "id": "salta-fm-cumbiambera-889",
                 "name": "FM Cumbiambera FM 88.9",
                 "web": "http://www.fmcumbiambera.com/",
@@ -104,7 +392,7 @@
                 "image": "https://static.mytuner.mobi/media/tvos_radios/394/radio-gen1.b1ceea32.jpg",
                 "city": "Ciudad de Salta",
                 "province": "Salta",
-                "stream": "https://streaming3.locucionar.com/proxy/radiogensalta?mp=/stream",
+                "stream": "https://streaming01.shockmedia.com.ar/9130/stream",
                 "categories": [
                     "musica"
                 ]
@@ -213,6 +501,30 @@
                 "categories": [
                     "comunidad",
                     "deportes"
+                ]
+            },
+            {
+                "id": "salta-epocas-radio-online",
+                "name": "Épocas Radio Online",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/260/epocas-radio-online.ba6119d7.png",
+                "city": "Joaquín V. González",
+                "province": "Salta",
+                "stream": "https://stream.laut.fm/epocas-radio-online",
+                "categories": [
+                    "musica"
+                ]
+            },
+            {
+                "id": "salta-intercom-fm-983",
+                "name": "InterCom FM 98.3",
+                "web": "https://www.radiointercom.com.ar/",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/811/radio-intercom-fm.4b92325b.png",
+                "city": "Joaquín V. González",
+                "province": "Salta",
+                "stream": "https://stream.radioinfo.ar/p/9010/stream/?nocache=1&type=http",
+                "categories": [
+                    "musica",
+                    "comunidad"
                 ]
             },
             {
