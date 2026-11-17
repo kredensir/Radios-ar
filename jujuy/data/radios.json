@@ -1737,6 +1737,24 @@
                 ]
             },
             {
+                "id": "jujuy-impulso-online",
+                "name": "Impulso Online",
+                "image": "https://radioimpulso.miradio.ar/logo.png",
+                "city": "Palpalá",
+                "province": "Jujuy",
+                "stream": "https://server.streamcasthd.com/8726/stream",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://radioimpulso.miradio.ar/?fbclid=Iwb21leAVjVS5jbGNrBWNVIWV4dG4DYWVtAjExAHBkb2YBc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEf9Dyl6lgnZNLf0Ob0zRB8n77hG9kDcjSOZPm4ce6YOobdJvJT8FiIboAyPd8_aem_Tentn_QDYblSCOY2rFegAQ#"
+                    }
+                ]
+            },
+            {
                 "id": "jujuy-FM-Exodo-104.1",
                 "name": "FM Éxodo 104.1",
                 "image": "https://exodonoticias.com.ar/images/foto/68ff4c3e357d8.webp",
