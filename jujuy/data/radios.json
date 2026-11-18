@@ -433,6 +433,23 @@
                 ]
             },
             {
+                "id": "jujuy-jcv-901",
+                "name": "JCV FM 90.1",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/quebrada/901-logo-JCV.webp",
+                "city": "Maimara",
+                "province": "Jujuy",
+                "stream": "https://uk17freenew.listen2myradio.com/live.mp3?typeportmount=s1_17618_stream_36014514",
+                "categories": [
+                    "religion"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://jcv.radio12345.com/?fbclid=IwT01FWAVjU1tleHRuA2FlbQIxMABwZG9mAXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABH5uTjPAnteEiF9Q6PRkmUKn6wxARPu408ZbERarTpjmr4P-EWwFlvu_zI2uv_aem_KREbTlpL6FPz1oCw5vC6pQ"
+                    }
+                ]
+            },
+            {
                 "id": "jujuy-la-cima-maimara-921",
                 "name": "La Cima FM 92.1",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/quebrada/921-logo-la-cima.webp",
@@ -1739,7 +1756,7 @@
             {
                 "id": "jujuy-impulso-online",
                 "name": "Impulso Online",
-                "image": "https://radioimpulso.miradio.ar/logo.png",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/online-logo-impulso.webp",
                 "city": "Palpalá",
                 "province": "Jujuy",
                 "stream": "https://server.streamcasthd.com/8726/stream",
