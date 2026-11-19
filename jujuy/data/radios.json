@@ -1132,6 +1132,29 @@
                 ]
             },
             {
+                "id": "jujuy-radio-play-online",
+                "name": "Radio Play Online",
+                "image": "https://radioplayjujuy.com/content/uploads/branding/2026/06/cropped-logo-76f3efe1.png",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://media.nexxisgroup.com.ar:8281/stream?_live=1795113889970",
+                "categories": [
+                    "musica",
+                    "comunidad"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://radioplayjujuy.com/"
+                    },
+                    {
+                        "type": "facebook",
+                        "name": "RADIO PLAY JUJUY",
+                        "url": "https://www.facebook.com/61556297469145"
+                    }
+                ]
+            },
+            {
                 "id": "jujuy-tropico-977",
                 "name": "Tropico FM 97.7",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/977-logo-tropico.webp",
